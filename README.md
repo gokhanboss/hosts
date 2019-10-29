@@ -134,7 +134,6 @@ Engellenmesini uygun gördüğünüz siteleri bildirin, listeye ekleyelim ki di�
 1. [Hatalar](https://github.com/xorcan/hosts/issues) kısmından bildirebilirsiniz.
 2. [Posta](mailto:xorcan@yandex.com) ile bildirebilirsiniz.
 3. [Anonim (girişsiz) posta](https://anonymousemail.me) ile ```xorcan@yandex.com``` adresine bildirebilirsiniz.
-4. [Telegram](https://t.me/hostsTR) grubuna bildirebilirsiniz.
 
 ## Uyarı
 
