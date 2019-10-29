@@ -85,7 +85,6 @@ Report sites that you deem appropriate, let's add them to the list so other peop
 1. Report with using [Issues](https://github.com/xorcan/hosts/issues).
 2. Report with using [e-Mail](mailto:xorcan@yandex.com).
 3. Report with using [Anonymous (without login) mail](https://anonymousemail.me) to ```xorcan@yandex.com```.
-4. Report with using [Telegram](https://t.me/hostsTR) group.
 
 ## Warning
 
