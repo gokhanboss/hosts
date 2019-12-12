@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk ad-list
 # Format: Hosts
-# Released: 18.11.2019
-# Entries: 3844
+# Released: 12.12.2019
+# Entries: 3876
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -956,6 +956,7 @@
 127.0.0.1 catchtheclick.com
 127.0.0.1 cayturnakliyat.com
 127.0.0.1 cbsturk.com
+127.0.0.1 ccxyzig.tk
 127.0.0.1 cdn-adn.rayjump.com
 127.0.0.1 cdn-aimi.akamaized.net
 127.0.0.1 cdn-api.admost.com
@@ -1291,6 +1292,7 @@
 127.0.0.1 eco.ticaret1.club
 127.0.0.1 ecpms.net
 127.0.0.1 ecs4.engageya.com
+127.0.0.1 ed-tradepad-pro.tr.aptoide.com
 127.0.0.1 edgead.woomedya.com
 127.0.0.1 edgership-widscott.com
 127.0.0.1 edirneyuzme.com
@@ -1301,6 +1303,7 @@
 127.0.0.1 egorlz.xyz
 127.0.0.1 ei.rlcdn.com
 127.0.0.1 eimza.gen.tr
+127.0.0.1 ejasekej.cf
 127.0.0.1 ejder.com.tr
 127.0.0.1 ekerticaret.com
 127.0.0.1 ekinokstravel.com.tr
@@ -1441,6 +1444,8 @@
 127.0.0.1 fbs-turk.trade
 127.0.0.1 fedgha.com
 127.0.0.1 feed.r-tb.com
+127.0.0.1 fefykawicyky.cf
+127.0.0.1 feifrgf.tk
 127.0.0.1 ferka.com.tr
 127.0.0.1 ferrokim.com.tr
 127.0.0.1 fevzihoca.com.tr
@@ -1690,6 +1695,7 @@
 127.0.0.1 iauvabogtws.bid
 127.0.0.1 ib.adnxs.com
 127.0.0.1 ibillboard.com
+127.0.0.1 ibywucofokyz.tk
 127.0.0.1 iclbkrgjdstqt.com
 127.0.0.1 iclikoftesiparisalinir.com
 127.0.0.1 ico.minently.com
@@ -1703,6 +1709,7 @@
 127.0.0.1 ifddigital.com
 127.0.0.1 ijozh.x.incapdns.net
 127.0.0.1 iklimteknikservis.com.tr
+127.0.0.1 ikyxalyh.ga
 127.0.0.1 ilan006.gq
 127.0.0.1 ilhankuyumculuk.com.tr
 127.0.0.1 ilividnewtab.com
@@ -1990,6 +1997,7 @@
 127.0.0.1 kuwzhgbnygarx.com
 127.0.0.1 kuzem2.kku.edu.tr
 127.0.0.1 kuzeyyeliinsaat.com.tr
+127.0.0.1 kzedemo.tk
 127.0.0.1 l.betrad.com
 127.0.0.1 l6b587txj1.com
 127.0.0.1 ladsreds.com
@@ -2517,6 +2525,7 @@
 127.0.0.1 ovcksawwem.com
 127.0.0.1 oxcdn.com
 127.0.0.1 oyasinsaat.com.tr
+127.0.0.1 oyunindir.online
 127.0.0.1 ozadanapompa.net
 127.0.0.1 ozankaratas.com
 127.0.0.1 ozcletvvphmy.com
@@ -3378,6 +3387,7 @@
 127.0.0.1 turkishturkish.info
 127.0.0.1 turkiyejumbo.xyz
 127.0.0.1 turkmennews.com
+127.0.0.1 turkmmo.com
 127.0.0.1 turktor.com
 127.0.0.1 turktorrent.org
 127.0.0.1 turkwarez.com
@@ -3386,6 +3396,7 @@
 127.0.0.1 tursanmakine.com.tr
 127.0.0.1 tweetlerim.gen.tr
 127.0.0.1 twilightturk.com
+127.0.0.1 tybukonaju.gq
 127.0.0.1 tynt.com
 127.0.0.1 ua.supersonicads.com
 127.0.0.1 ubanulydijo.tk
@@ -3594,6 +3605,7 @@
 127.0.0.1 www.bpfpkdf.tk
 127.0.0.1 www.bursasandalyecim.com
 127.0.0.1 www.canakkalehotelguide.com
+127.0.0.1 www.ccxyzig.tk
 127.0.0.1 www.cemeteryreaction.info
 127.0.0.1 www.cesmehaberi.com
 127.0.0.1 www.cubilupe.tk
@@ -3601,7 +3613,9 @@
 127.0.0.1 www.d2t7r3t8u3odkg.cloudfront.net
 127.0.0.1 www.dje95yxyod0gc.cloudfront.net
 127.0.0.1 www.dxkdeul.tk
+127.0.0.1 www.ed-tradepad-pro.tr.aptoide.com
 127.0.0.1 www.edirneyuzme.com
+127.0.0.1 www.ejasekej.cf
 127.0.0.1 www.ekitapindirpdf.com
 127.0.0.1 www.epdfkitapindir.com
 127.0.0.1 www.esc-ankarafoto-com.cdn.ampproject.org
@@ -3610,11 +3624,15 @@
 127.0.0.1 www.eskisehiraydinnakliyat.com
 127.0.0.1 www.eskisehirforum.net
 127.0.0.1 www.eumamae.com
+127.0.0.1 www.fefykawicyky.cf
+127.0.0.1 www.feifrgf.tk
 127.0.0.1 www.fhxrovn.tk
 127.0.0.1 www.fullpdfkitapindir.com
 127.0.0.1 www.gelirartisi.com
 127.0.0.1 www.ghvclik.tk 
 127.0.0.1 www.hayatkitapta.com
+127.0.0.1 www.ibywucofokyz.tk
+127.0.0.1 www.ikyxalyh.ga
 127.0.0.1 www.ioiuyul.tk
 127.0.0.1 www.jelly.cemeteryreaction.info
 127.0.0.1 www.kisaltma.link
@@ -3626,6 +3644,7 @@
 127.0.0.1 www.kocaeliposta.com
 127.0.0.1 www.konyadaegitim.com
 127.0.0.1 www.kusakzemin.com
+127.0.0.1 www.kzedemo.tk
 127.0.0.1 www.landing.betpas293.com
 127.0.0.1 www.landing.restbet321.com
 127.0.0.1 www.landings.ncmfck.com
@@ -3647,6 +3666,7 @@
 127.0.0.1 www.notification-list.com
 127.0.0.1 www.onlinepluss.com
 127.0.0.1 www.oqityrovusiy.ga
+127.0.0.1 www.oyunindir.online
 127.0.0.1 www.pdfarsivindir.com
 127.0.0.1 www.pdfekitapevi.blogspot.com
 127.0.0.1 www.pdfindirkitap.com
@@ -3674,8 +3694,15 @@
 127.0.0.1 www.tekirdaghbr.com
 127.0.0.1 www.tekirdagsut.com
 127.0.0.1 www.tr-gameland.com
+127.0.0.1 www.turkmmo.com
+127.0.0.1 www.tybukonaju.gq
 127.0.0.1 www.wucadabe.tk
+127.0.0.1 www.xetosuda.ml
+127.0.0.1 www.xfbsohc.tk
 127.0.0.1 www.xtugsvl.tk
+127.0.0.1 www.yfyxybef.ml
+127.0.0.1 www.yuridepalo85.files.wordpress.com
+127.0.0.1 www.yuridepalo85.wordpress.com
 127.0.0.1 www.zxckaup.tk
 127.0.0.1 www3.haberturk.com
 127.0.0.1 x-bet.mobi
@@ -3692,6 +3719,8 @@
 127.0.0.1 xaqbpvojgi.com
 127.0.0.1 xbtitfm.com
 127.0.0.1 xeroxyaziciservisi.istanbul
+127.0.0.1 xetosuda.ml
+127.0.0.1 xfbsohc.tk
 127.0.0.1 xghfi97mk6.com
 127.0.0.1 xilbalar.com
 127.0.0.1 xl-trk.com
@@ -3789,6 +3818,7 @@
 127.0.0.1 yeniyolgumruk.com
 127.0.0.1 yeniyuzyillions.org
 127.0.0.1 yesilperi.net
+127.0.0.1 yfyxybef.ml
 127.0.0.1 yigitlernalburiye.com.tr
 127.0.0.1 yildiriminsaat.com.tr
 127.0.0.1 ynbrhyi.cf
@@ -3814,6 +3844,8 @@
 127.0.0.1 ysfzois.ml
 127.0.0.1 ysfzois.tk
 127.0.0.1 yuntper.com.tr
+127.0.0.1 yuridepalo85.files.wordpress.com
+127.0.0.1 yuridepalo85.wordpress.com
 127.0.0.1 yx-ads6.com
 127.0.0.1 yxjecoghjycuvm.com
 127.0.0.1 yzftkgr.cf
