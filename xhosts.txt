@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk ad-list
 # Format: Hosts
-# Released: 12.12.2019
-# Entries: 3876
+# Released: 14.12.2019
+# Entries: 3875
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -2519,7 +2519,6 @@
 127.0.0.1 osmaniyesevgi.com.tr
 127.0.0.1 oteuforum.com
 127.0.0.1 ouloutso.net
-127.0.0.1 ouo.today
 127.0.0.1 ourkusadasi.com
 127.0.0.1 outcome.supersonicads.com
 127.0.0.1 ovcksawwem.com
