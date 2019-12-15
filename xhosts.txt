@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk ad-list
 # Format: Hosts
-# Released: 14.12.2019
-# Entries: 3875
+# Released: 15.12.2019
+# Entries: 3874
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -833,7 +833,6 @@
 127.0.0.1 bitcoiniti.com
 127.0.0.1 bitredirofx.top
 127.0.0.1 bizimizmit.com
-127.0.0.1 bizmrg.com
 127.0.0.1 bizographics.com
 127.0.0.1 bk1x.mobi
 127.0.0.1 bk1xbet.mobi
