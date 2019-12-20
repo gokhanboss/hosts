@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk element-ad-list
 # Format: Element Bloklist
-# Released: 12.12.2019
-# Entries: 615
+# Released: 20.12.2019
+# Entries: 621
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -385,6 +385,7 @@ dizilab.pw##.previd-link
 dizilla.com##a.block:nth-of-type(1)
 dizilla.com##a.block:nth-of-type(2)
 dizipub1.net###pubxvideox
+eksisozluk.com###netflix-ad-container
 eksisozluk.com##.ads-trendyol.anim-text-flow
 eksisozluk.com##.detail
 eksisozluk.com##li[data-author=pena]
@@ -409,6 +410,7 @@ rutracker.org###bn-top-right
 rutracker.org##[href^="go2.php"]
 seedpeer.me##.has-text-left.is-medium.is-warning.button
 seedpeer.me##.torrent-details-actions.is-one-third.column > p:nth-of-type(5)
+telegramchannels.me###btm-pr
 torrentdownload.ch##table.table2:nth-of-type(1) > tbody > tr:nth-of-type(4) > td
 torrentdownloads.me##.inner_container > div:nth-of-type(4) > div:nth-of-type(1)
 torrentdownloads.me##div:nth-of-type(2) > [href="https://torrentsafeguard.com/"]
@@ -433,6 +435,7 @@ userscloud.com##.cc-color-override-530831885.cc-right.cc-bottom.cc-theme-classic
 webtekno.com##.cookies
 webtekno.com##.wt-masthead__horizontal
 wondershare.com###wsc-plugin-seasonal
+www.doeda.com###video > center
 www.oyunkuzusu.com###video-oyun
 yabancidizi.org###PlayerBlock
 yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(1) > .extneed
@@ -590,6 +593,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||bit.ly/2Ctslt0^$popup
 ||bit.ly/2QmI8BT^$popup
 ||blok.link^$popup
+||canlitv.news/img/plarka.jpg$image
 ||cdnrefpa*/*AdAgent*/*.gif$image
 ||chaicdn.com*/1.gif$image
 ||cltrkr.com^$popup
@@ -599,6 +603,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||dizimag*/insert/*/spacer.gif$image
 ||dizipub*/*pageskin_template.jpg$image
 ||dizipub*/*x*.gif$image
+||doeda.com/wp-content/*/*/*image*/*loading*.gif$image
 ||eviewporn*/milf-min.png$image
 ||findfavour.com^
 ||freemacware.com
@@ -626,5 +631,6 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||supermesaj.tv^$popup
 ||telreh.com^$popup
 ||tr.link/GbeG^$popup
+||uludagsozluk.com/theme/resy/widget/sponsor2.php$subdocument
 ||whatsappsohbet.top^$popup
 # xorcan/hosts bitir #
