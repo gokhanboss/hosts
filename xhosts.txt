@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk ad-list
 # Format: Hosts
-# Released: 20.12.2019
-# Entries: 3982
+# Released: 21.12.2019
+# Entries: 3981
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -2781,7 +2781,6 @@
 127.0.0.1 pubmatic.com
 127.0.0.1 puffnetwork.com
 127.0.0.1 pulsepoint-match.dotomi.com
-127.0.0.1 punosy.com
 127.0.0.1 purplle.com
 127.0.0.1 push-checking.com
 127.0.0.1 push-time.com
