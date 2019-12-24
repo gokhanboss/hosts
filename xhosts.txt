@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk ad-list
 # Format: Hosts
-# Released: 21.12.2019
-# Entries: 3981
+# Released: 25.12.2019
+# Entries: 3997
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -429,6 +429,7 @@
 127.0.0.1 airsoftpoligon.com.tr
 127.0.0.1 aitech.com.tr
 127.0.0.1 aitrreklam.tk
+127.0.0.1 ajansblue.net
 127.0.0.1 ajansreklam.net
 127.0.0.1 ajansvitrin.com
 127.0.0.1 ajansyenimedya.com
@@ -501,6 +502,8 @@
 127.0.0.1 anarotomotiv.com.tr
 127.0.0.1 android-lrcresource.wps.com
 127.0.0.1 androidads23.adcolony.com
+127.0.0.1 androidimod.com
+127.0.0.1 androidimod.xyz
 127.0.0.1 androturk.club
 127.0.0.1 angi.com.tr
 127.0.0.1 anime.narutogaming.com
@@ -556,9 +559,10 @@
 127.0.0.1 api.tinyhoneybee.com
 127.0.0.1 api.vungle.com
 127.0.0.1 apidm.airpush.com
+127.0.0.1 apk1.xyz
+127.0.0.1 apklush.co
 127.0.0.1 app-analytics.snapchat.com
 127.0.0.1 app-measurement.com
-127.0.0.1 app.link
 127.0.0.1 app.networkad.net
 127.0.0.1 app.superbuzz.io
 127.0.0.1 appboy.com
@@ -731,16 +735,13 @@
 127.0.0.1 bayrakmetal.com.tr
 127.0.0.1 bayramturgutnakliyat.com.tr
 127.0.0.1 baysansli14.com
+127.0.0.1 baysansliortaklik.com
 127.0.0.1 baysigorta.com
 127.0.0.1 bbazma.com
 127.0.0.1 bbelements.com
 127.0.0.1 bchaser10.host
 127.0.0.1 bchaser11.host
 127.0.0.1 bckmtidcnrobwh.bid
-127.0.0.1 bcvc.mobi
-127.0.0.1 bcvcrdr.space
-127.0.0.1 bcvcrdr.website
-127.0.0.1 bcvcrdr.xyz
 127.0.0.1 bcytoplay.info
 127.0.0.1 beacon.securestudies.com
 127.0.0.1 beacon.walmart.com
@@ -892,6 +893,7 @@
 127.0.0.1 bpsgameserver.com
 127.0.0.1 bqiovml.com
 127.0.0.1 brahe.apptimize.com
+127.0.0.1 brandeurs.ru
 127.0.0.1 braun634.com
 127.0.0.1 brazzerssurvey.com
 127.0.0.1 bromson.com
@@ -1983,6 +1985,7 @@
 127.0.0.1 kisses-room2.com
 127.0.0.1 kisses-room3.com
 127.0.0.1 kissmetrics.com
+127.0.0.1 kitap.brandeurs.ru
 127.0.0.1 kitapci.ga
 127.0.0.1 kitapindir.gen.tr
 127.0.0.1 kitapindir.pw
@@ -2048,6 +2051,7 @@
 127.0.0.1 leetmedia.com
 127.0.0.1 lemina-ankaratrescortlar-com.cdn.ampproject.org
 127.0.0.1 lemina.ankaratrescortlar.com
+127.0.0.1 lessmo.pro
 127.0.0.1 lethalpass.com
 127.0.0.1 lf5am.x.incapdns.net
 127.0.0.1 lgaycex.cf
@@ -2344,6 +2348,7 @@
 127.0.0.1 mor-ankaraescortlarx-com.cdn.ampproject.org
 127.0.0.1 mor.ankaraescortlarx.com
 127.0.0.1 morpheus.com.tr
+127.0.0.1 mostbet-az.com
 127.0.0.1 motto.com.tr
 127.0.0.1 mouseflow.com
 127.0.0.1 moveadrenaline.com
@@ -2632,6 +2637,7 @@
 127.0.0.1 pdfindir.online
 127.0.0.1 pdfindirkitap.com
 127.0.0.1 pdfindirmek.com
+127.0.0.1 pdfindiroku.site
 127.0.0.1 pdfkitap.ga
 127.0.0.1 pdfkitaparsivi.tk
 127.0.0.1 pdfkitaphanem.blogspot.com
@@ -3131,6 +3137,7 @@
 127.0.0.1 smart.tinyhoneybee.com
 127.0.0.1 smartadserver.com
 127.0.0.1 smartcare.com.tr
+127.0.0.1 smartfiles.uploadbox.world
 127.0.0.1 smartoil.com.tr
 127.0.0.1 smartpos.com.tr
 127.0.0.1 smartsavunma.com.tr
@@ -3480,6 +3487,7 @@
 127.0.0.1 unyesigorta.com.tr
 127.0.0.1 uod2quk646.com
 127.0.0.1 upahco.go2affise.com
+127.0.0.1 uploadbox.world
 127.0.0.1 ups.analytics.yahoo.com
 127.0.0.1 ups.ksmobile.net
 127.0.0.1 uptoabc.com
@@ -3644,9 +3652,14 @@
 127.0.0.1 www.adsblu.mobi
 127.0.0.1 www.affibtm.com
 127.0.0.1 www.affiliate.superbahis657.com
+127.0.0.1 www.ajansblue.net
+127.0.0.1 www.androidimod.com
+127.0.0.1 www.androidimod.xyz
 127.0.0.1 www.ankarareklam36.ml
 127.0.0.1 www.antalyaofisburo.com
 127.0.0.1 www.apawezycyqot.tk
+127.0.0.1 www.apk1.xyz
+127.0.0.1 www.apklush.co
 127.0.0.1 www.arabeni.rlink.live
 127.0.0.1 www.asforex8.com
 127.0.0.1 www.asforex9.com
@@ -3729,6 +3742,7 @@
 127.0.0.1 www.landings.ncmfck.com
 127.0.0.1 www.lemina-ankaratrescortlar-com.cdn.ampproject.org
 127.0.0.1 www.lemina.ankaratrescortlar.com
+127.0.0.1 www.lessmo.pro
 127.0.0.1 www.lidyafx1.com
 127.0.0.1 www.lidyafx2.com
 127.0.0.1 www.limitmarkets8.com
@@ -3746,6 +3760,7 @@
 127.0.0.1 www.mobilityweekbg.com
 127.0.0.1 www.mor-ankaraescortlarx-com.cdn.ampproject.org
 127.0.0.1 www.mor.ankaraescortlarx.com
+127.0.0.1 www.mostbet-az.com
 127.0.0.1 www.ncmfck.com
 127.0.0.1 www.nigdecumhuriyetim.com
 127.0.0.1 www.notification-list.com
@@ -3762,6 +3777,7 @@
 127.0.0.1 www.pdfekitapevi.blogspot.com
 127.0.0.1 www.pdfindirkitap.com
 127.0.0.1 www.pdfindirmek.com
+127.0.0.1 www.pdfindiroku.site
 127.0.0.1 www.pdfkitaparsivi.tk
 127.0.0.1 www.pdfkitapsitesi.com
 127.0.0.1 www.pdfoku.net
