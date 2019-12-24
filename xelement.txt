@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk element-ad-list
 # Format: Element Bloklist
 # Released: 25.12.2019
-# Entries: 637
+# Entries: 647
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -94,6 +94,7 @@
 ##[href^="http://betticket.biz"]
 ##[href^="http://bigblacksharkoil.com"]
 ##[href^="http://bit.ly/2Ctslt0"]
+##[href^="http://bit.ly/2E7mIAS"]
 ##[href^="http://bit.ly/2FE4A5g"]
 ##[href^="http://bit.ly/2HxwkWC"]
 ##[href^="http://bit.ly/2KInzej"]
@@ -111,6 +112,7 @@
 ##[href^="http://download-free.site"]
 ##[href^="http://ekitap.telreh.com"]
 ##[href^="http://ekitap.telreh.com/ara"]
+##[href^="http://gplinks.in/advertising/campaign.php"]
 ##[href^="http://is.gd/vd4fv"]
 ##[href^="http://jigolo-olmak-kaydi.sohbetara69.xyz"]
 ##[href^="http://jigolo-olmak-kaydi.sohbetara69.xyz/tur2/"]
@@ -140,6 +142,7 @@
 ##[href^="http://rotabetlink.com"]
 ##[href^="http://sitfathatronve.pro"]
 ##[href^="http://sohbetara69.xyz"]
+##[href^="http://tr.link/29LRD"]
 ##[href^="http://www.baysansli14.com"]
 ##[href^="http://www.betonbet1.com"]
 ##[href^="http://www.kisaltma.link"]
@@ -158,6 +161,7 @@
 ##[href^="https://bestdataresu1ts.com/mmd/"]
 ##[href^="https://betonbet1.com"]
 ##[href^="https://bit.ly/2Ctslt0"]
+##[href^="https://bit.ly/2E7mIAS"]
 ##[href^="https://bit.ly/2FE4A5g"]
 ##[href^="https://bit.ly/2GXyQ8u"]
 ##[href^="https://bit.ly/2HxwkWC"]
@@ -181,6 +185,7 @@
 ##[href^="https://dosya-indirici.online"]
 ##[href^="https://download-free.site"]
 ##[href^="https://ekitap.telreh.com"]
+##[href^="https://gplinks.in/advertising/campaign.php"]
 ##[href^="https://is.gd/vd4fv"]
 ##[href^="https://kitapindir.pw"]
 ##[href^="https://mesaj-geldi.blok.link/ex1"]
@@ -191,6 +196,7 @@
 ##[href^="https://rotatemediajoin.win"]
 ##[href^="https://sitfathatronve.pro"]
 ##[href^="https://telreh.com"]
+##[href^="https://tr.link/29LRD"]
 ##[href^="https://tr.link/99ba"]
 ##[href^="https://tracker-pm2.rioaffiliates.com"]
 ##[href^="https://www.baysansli14.com"]
@@ -211,6 +217,7 @@
 ##[href^="tel://00237800036"]
 ##[href^="tel://00237800037"]
 ##[href^="tel://0023780007"]
+##[href^="tel://00237811109"]
 ##[href^="tel://00237811130"]
 ##[href^="tel://00237811132"]
 ##[href^="tel://00237811134"]
@@ -285,6 +292,7 @@
 ##[href^="tel:00237800036"]
 ##[href^="tel:00237800037"]
 ##[href^="tel:0023780007"]
+##[href^="tel:00237811109"]
 ##[href^="tel:00237811130"]
 ##[href^="tel:00237811132"]
 ##[href^="tel:00237811134"]
@@ -551,6 +559,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*download-free.site*^$third-party
 ||*fileru.net/*/assets/bg/mobile*.jpg$image
 ||*filmw.org*^$popup
+||*gplinks.in/img/ad*/DownloadNow*.gif^$image
 ||*greatdexchange*^$popup
 ||*hizliresim.com/jgE0Lr.jpg$image
 ||*jigolo*.jpg$image
@@ -624,6 +633,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||findfavour.com^
 ||freemacware.com
 ||go2linkfast.com^$popup
+||gplinks.in/advertising/campaign.php^$document
 ||hdmobilizle.com^$popup
 ||https://arabeni.rlink.live/assets/images/bg.jpg$image
 ||https://nysse-seks4-com.cdn.ampproject.org/*/w2.png$image
