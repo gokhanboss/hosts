@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk element-ad-list
 # Format: Element Bloklist
-# Released: 20.12.2019
-# Entries: 621
+# Released: 25.12.2019
+# Entries: 637
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -33,20 +33,29 @@
 ##.reklamblur3
 ##.ss-ic.s_stk
 ##[href*="https://torrentsafeguard.com/"]
+##[href="baysansliortaklik.com"]
+##[href="bit.ly/gencofilm5"]
 ##[href="http://adbooks.ru"]
 ##[href="http://adbooks.ru/am.html"]
 ##[href="http://anamimyjyp.tk/"]
+##[href="http://baysansliortaklik.com"]
+##[href="http://bit.ly/gencofilm5"]
 ##[href="http://blok.link"]
 ##[href="http://mesaj-geldi.blok.link"]
 ##[href="http://mesaj-geldi.blok.link/bnnr"]
 ##[href="http://mesaj-geldi.blok.link/msj"]
 ##[href="http://mesaj-geldi.blok.link/wpr"]
+##[href="http://promosultan3.com"]
 ##[href="https://adbooks.ru"]
 ##[href="https://adbooks.ru/am.html"]
 ##[href="https://anamimyjyp.tk/"]
+##[href="https://baysansliortaklik.com"]
 ##[href="https://bit.ly/2MylV32"]
+##[href="https://bit.ly/gencofilm5"]
 ##[href="https://justpaste.it/redirect/4npnz/https://rublacklist.net/rutracker_redirect"]
 ##[href="https://mesaj-geldi.blok.link"]
+##[href="https://promosultan3.com"]
+##[href="promosultan3.com"]
 ##[href^="bc.vc/WRrYdnR"]
 ##[href^="betticket.biz"]
 ##[href^="bit.ly/2Ctslt0"]
@@ -272,6 +281,7 @@
 ##[href^="tel://05531693835"]
 ##[href^="tel://05550224658"]
 ##[href^="tel://05550830585"]
+##[href^="tel://851095300"]
 ##[href^="tel:00237800036"]
 ##[href^="tel:00237800037"]
 ##[href^="tel:0023780007"]
@@ -345,6 +355,7 @@
 ##[href^="tel:05531693835"]
 ##[href^="tel:05550224658"]
 ##[href^="tel:05550830585"]
+##[href^="tel:851095300"]
 ##[href^="tr.link/GbeG"]
 ##[src="35.224.227.218"]
 ##[src="http://35.224.227.218"]
@@ -369,6 +380,8 @@
 *pdfdrive.com##.show.fade.modal-backdrop
 *performit.*^$popup
 *premiumdownload.icu^$popup
+*promosultan*.*^$popup
+*promosultan3.com^$popup
 *pskinlord*^$image
 *turkanime*###modallar
 *turkanime*##.in.fade.modal-backdrop
@@ -392,12 +405,15 @@ eksisozluk.com##li[data-author=pena]
 eksisozluk.com##li[data-author=reklam]
 eksisozluk.com##li[data-author=sponsorlu]
 ettv.to##.download_links_a
+filmkovani.com###fkqmbgvazoex
+filmkovani.com##[href^="https://bgel.ncmfck.com/"]
 filmw.org##.hoverZoomLink.loaded
 hilelioyun.net##div.reklam-sag:nth-of-type(1)
 hilelioyun.net##div.reklam-sag:nth-of-type(2)
 hilelioyun.net##div.reklam-yatay:nth-of-type(1)
 incisozluk.com.tr###b-masthead
 ktun.edu.tr###loader
+popcent.net^$popup
 porn-desip-org.cdn.ampproject.org##.marquee
 porn-desip-org.cdn.ampproject.org##.marquee-outer
 rlink.live##.clearfix.profiles-listing
