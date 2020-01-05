@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk ad-list
 # Format: Hosts
-# Released: 25.12.2019
-# Entries: 3997
+# Released: 05.01.2020
+# Entries: 4021
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -18,6 +18,7 @@
 127.0.0.1 05bursa-escortsc-com.cdn.ampproject.org
 127.0.0.1 0638.info
 127.0.0.1 0n.click
+127.0.0.1 1.black-snake-oil.info​
 127.0.0.1 1.bmon.site
 127.0.0.1 110380d053f716c4.com
 127.0.0.1 11820.com.tr
@@ -76,6 +77,7 @@
 127.0.0.1 3perabetmedya.com
 127.0.0.1 41df76c67812005c.com
 127.0.0.1 4club.com
+127.0.0.1 4club.reisen
 127.0.0.1 4turka.com
 127.0.0.1 50bahisnow.com
 127.0.0.1 518580904.log.optimizely.com
@@ -656,6 +658,7 @@
 127.0.0.1 axbet20.com
 127.0.0.1 axbetb.com
 127.0.0.1 axbetb2.com
+127.0.0.1 axdsz.pro
 127.0.0.1 ayandns.com
 127.0.0.1 aycilinsaat.com
 127.0.0.1 aydinsenturk.com
@@ -844,6 +847,7 @@
 127.0.0.1 bk1x.mobi
 127.0.0.1 bk1xbet.mobi
 127.0.0.1 bkrtx.com
+127.0.0.1 black-snake-oil.info​
 127.0.0.1 block.s2block.com
 127.0.0.1 blog.jet-istanbul.com
 127.0.0.1 blok.link
@@ -1576,6 +1580,7 @@
 127.0.0.1 go.admost.com
 127.0.0.1 go.coolthingstofind.xyz
 127.0.0.1 go.hepsibahis94.com
+127.0.0.1 go.moalrdr.info
 127.0.0.1 go.onclasrv.com
 127.0.0.1 go.padstm.com
 127.0.0.1 go.spaceshipads.com
@@ -1693,6 +1698,7 @@
 127.0.0.1 hmo.com.tr
 127.0.0.1 hogwats.com
 127.0.0.1 holawaskinta.info
+127.0.0.1 hookup33.com
 127.0.0.1 horny-honey.online
 127.0.0.1 horny-pussies.com
 127.0.0.1 hot-blogs.info
@@ -1785,6 +1791,7 @@
 127.0.0.1 insaatmuhendisligi.ismailtorlak.com
 127.0.0.1 insertcoinage.com
 127.0.0.1 inspectlet.com
+127.0.0.1 insta-sexlocator23.com
 127.0.0.1 installadpro.com
 127.0.0.1 installads.net
 127.0.0.1 installads.org
@@ -2264,6 +2271,7 @@
 127.0.0.1 mlstat.com
 127.0.0.1 mmwebhandler.aff-online.com
 127.0.0.1 mnoa6ez1eq.com
+127.0.0.1 moalrdr.info
 127.0.0.1 moatads.com
 127.0.0.1 mob1ledev1ces.com
 127.0.0.1 mobile-collector.newrelic.com
@@ -2455,6 +2463,7 @@
 127.0.0.1 nlwy0.com
 127.0.0.1 noktapc.com.tr
 127.0.0.1 nolipz.com
+127.0.0.1 nonameland67.live
 127.0.0.1 notabenemessage.com
 127.0.0.1 notification-list.com
 127.0.0.1 notifications.website
@@ -2530,6 +2539,7 @@
 127.0.0.1 onclickprediction.com
 127.0.0.1 onclicksuper.com
 127.0.0.1 ondokuzmuoldu.com
+127.0.0.1 onedatedem2.com
 127.0.0.1 onedmp.com
 127.0.0.1 onieruco.com
 127.0.0.1 onkologiabg.com
@@ -3262,6 +3272,7 @@
 127.0.0.1 svbsoet.tk
 127.0.0.1 sw1block.com
 127.0.0.1 swbdds.com
+127.0.0.1 sweeps8612.nonameland67.live
 127.0.0.1 sxrwqytqajwpt.com
 127.0.0.1 sync.adaptv.advertising.com
 127.0.0.1 sync.adkernel.com
@@ -3635,6 +3646,7 @@
 127.0.0.1 windiretodaserra.co.uk
 127.0.0.1 wlgtaffiliates.eacdn.com
 127.0.0.1 wlsuperbahis.eacdn.com
+127.0.0.1 wlthebetend.adsrv.eacdn.com
 127.0.0.1 wolve.pro
 127.0.0.1 workflowboard.com
 127.0.0.1 workfromhome-amazon-ntylpikxje.antalyamasajsalonu.net
@@ -3645,8 +3657,10 @@
 127.0.0.1 ww3.smartadserver.com
 127.0.0.1 ww38.stickfight.com
 127.0.0.1 www-keycdn-info.cdn.ampproject.org
+127.0.0.1 www.1.black-snake-oil.info​
 127.0.0.1 www.354739.mobilityweekbg.com
 127.0.0.1 www.355139.mobilityweekbg.com
+127.0.0.1 www.4club.reisen
 127.0.0.1 www.6galafx.com
 127.0.0.1 www.7galafx.com
 127.0.0.1 www.adsblu.mobi
@@ -3663,12 +3677,14 @@
 127.0.0.1 www.arabeni.rlink.live
 127.0.0.1 www.asforex8.com
 127.0.0.1 www.asforex9.com
+127.0.0.1 www.axdsz.pro
 127.0.0.1 www.aydintr.com
 127.0.0.1 www.balansfx.com
 127.0.0.1 www.balansfx1.com
 127.0.0.1 www.balikesirzafer.com
 127.0.0.1 www.betatac.com
 127.0.0.1 www.betbysports.com
+127.0.0.1 www.black-snake-oil.info​
 127.0.0.1 www.boluihl86.com
 127.0.0.1 www.bookfinder.top
 127.0.0.1 www.bpfpkdf.tk
@@ -3714,13 +3730,16 @@
 127.0.0.1 www.ghvclik.tk 
 127.0.0.1 www.gkmforex3.com
 127.0.0.1 www.gkmforex4.com
+127.0.0.1 www.go.moalrdr.info
 127.0.0.1 www.granantrade1.com
 127.0.0.1 www.hayatkitapta.com
 127.0.0.1 www.hizlifx5.com
 127.0.0.1 www.hizlifx6.com
 127.0.0.1 www.hizlifx7.com
+127.0.0.1 www.hookup33.com
 127.0.0.1 www.ibywucofokyz.tk
 127.0.0.1 www.ikyxalyh.ga
+127.0.0.1 www.insta-sexlocator23.com
 127.0.0.1 www.ioiuyul.tk
 127.0.0.1 www.jelly.cemeteryreaction.info
 127.0.0.1 www.kisaltma.link
@@ -3757,12 +3776,14 @@
 127.0.0.1 www.mariobet903.com
 127.0.0.1 www.marmarishaberleri.com
 127.0.0.1 www.mesaj-geldi.blok.link
+127.0.0.1 www.moalrdr.info
 127.0.0.1 www.mobilityweekbg.com
 127.0.0.1 www.mor-ankaraescortlarx-com.cdn.ampproject.org
 127.0.0.1 www.mor.ankaraescortlarx.com
 127.0.0.1 www.mostbet-az.com
 127.0.0.1 www.ncmfck.com
 127.0.0.1 www.nigdecumhuriyetim.com
+127.0.0.1 www.nonameland67.live
 127.0.0.1 www.notification-list.com
 127.0.0.1 www.ntimarkets3.com
 127.0.0.1 www.ntimarkets4.com
@@ -3770,6 +3791,7 @@
 127.0.0.1 www.olivemarkets6.com
 127.0.0.1 www.olivemarketsgiris5.com
 127.0.0.1 www.olivemarketsgiris6.com
+127.0.0.1 www.onedatedem2.com
 127.0.0.1 www.onlinepluss.com
 127.0.0.1 www.oqityrovusiy.ga
 127.0.0.1 www.oyunindir.online
@@ -3800,6 +3822,7 @@
 127.0.0.1 www.sports-look.com
 127.0.0.1 www.superbahis657.com
 127.0.0.1 www.supertotobet0264.com
+127.0.0.1 www.sweeps8612.nonameland67.live
 127.0.0.1 www.tekirdaghbr.com
 127.0.0.1 www.tekirdagsut.com
 127.0.0.1 www.tr-gameland.com
@@ -3815,6 +3838,7 @@
 127.0.0.1 www.uzmanfx14.net
 127.0.0.1 www.uzmanfx2.org
 127.0.0.1 www.uzmanfx3.org
+127.0.0.1 www.wlthebetend.adsrv.eacdn.com
 127.0.0.1 www.wucadabe.tk
 127.0.0.1 www.xetosuda.ml
 127.0.0.1 www.xfbsohc.tk
