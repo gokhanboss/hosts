@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk ad-list
 # Format: Hosts
-# Released: 05.01.2020
-# Entries: 4021
+# Released: 14.01.2020
+# Entries: 4026
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -4003,6 +4003,11 @@
 127.0.0.1 zerefsan-insaat.com
 127.0.0.1 zeytin07.duckdns.org
 127.0.0.1 zgnkwfb.com
+127.0.0.1 srr.thedragonbahis.com
+127.0.0.1 mesajin.sohbethattin15.xyz
+127.0.0.1 sohbethattin15.xyz
+127.0.0.1 pdfkitapp.com
+127.0.0.1 press-here-to-continue.com
 127.0.0.1 zindeinsaat.com
 127.0.0.1 zipnbus.cf
 127.0.0.1 zipnbus.ga
