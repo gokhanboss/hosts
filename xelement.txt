@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk element-ad-list
 # Format: Element Bloklist
-# Released: 05.01.2020
-# Entries: 930
+# Released: 14.01.2020
+# Entries: 975
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -219,7 +219,11 @@
 ##[href^="http://mesaj-geldi.blok.link/xx7"]
 ##[href^="http://mesaj-geldi.blok.link/xx8"]
 ##[href^="http://mesaj-geldi.blok.link/xx9"]
+##[href^="http://pdfkitapp.com"]
+##[href^="http://pdfkitapp.com/"]
 ##[href^="http://pnbtour.com"]
+##[href^="http://press-here-to-continue.com"]
+##[href^="http://press-here-to-continue.com/"]
 ##[href^="http://promosultan3.com"]
 ##[href^="http://refpabei.top"]
 ##[href^="http://refpafdqzc.top"]
@@ -229,7 +233,11 @@
 ##[href^="http://rotatemediajoin.win"]
 ##[href^="http://sitfathatronve.pro"]
 ##[href^="http://sohbetara69.xyz"]
+##[href^="http://srr.thedragonbahis.com"]
+##[href^="http://srr.thedragonbahis.com/"]
 ##[href^="http://telreh.com"]
+##[href^="http://thedragonbahis.com"]
+##[href^="http://thedragonbahis.com/"]
 ##[href^="http://torrentsafeguard.com/"]
 ##[href^="http://tr.link/29LRD"]
 ##[href^="http://tr.link/99ba"]
@@ -363,7 +371,11 @@
 ##[href^="https://mesaj-geldi.blok.link/xx7"]
 ##[href^="https://mesaj-geldi.blok.link/xx8"]
 ##[href^="https://mesaj-geldi.blok.link/xx9"]
+##[href^="https://pdfkitapp.com"]
+##[href^="https://pdfkitapp.com/"]
 ##[href^="https://pnbtour.com"]
+##[href^="https://press-here-to-continue.com"]
+##[href^="https://press-here-to-continue.com/"]
 ##[href^="https://promosultan3.com"]
 ##[href^="https://refpabei.top"]
 ##[href^="https://refpafdqzc.top"]
@@ -373,7 +385,11 @@
 ##[href^="https://rotatemediajoin.win"]
 ##[href^="https://sitfathatronve.pro"]
 ##[href^="https://sohbetara69.xyz"]
+##[href^="https://srr.thedragonbahis.com"]
+##[href^="https://srr.thedragonbahis.com/"]
 ##[href^="https://telreh.com"]
+##[href^="https://thedragonbahis.com"]
+##[href^="https://thedragonbahis.com/"]
 ##[href^="https://torrentsafeguard.com/"]
 ##[href^="https://tr.link/29LRD"]
 ##[href^="https://tr.link/99ba"]
@@ -428,7 +444,11 @@
 ##[href^="mesaj-geldi.blok.link/xx7"]
 ##[href^="mesaj-geldi.blok.link/xx8"]
 ##[href^="mesaj-geldi.blok.link/xx9"]
+##[href^="pdfkitapp.com"]
+##[href^="pdfkitapp.com/"]
 ##[href^="pnbtour.com"]
+##[href^="press-here-to-continue.com"]
+##[href^="press-here-to-continue.com/"]
 ##[href^="promosultan3.com"]
 ##[href^="refpabei.top"]
 ##[href^="refpafdqzc.top"]
@@ -438,6 +458,8 @@
 ##[href^="rotatemediajoin.win"]
 ##[href^="sitfathatronve.pro"]
 ##[href^="sohbetara69.xyz"]
+##[href^="srr.thedragonbahis.com"]
+##[href^="srr.thedragonbahis.com/"]
 ##[href^="tel://00237800036"]
 ##[href^="tel://00237800037"]
 ##[href^="tel://0023780005"]
@@ -597,6 +619,8 @@
 ##[href^="tel:05550830585"]
 ##[href^="tel:851095300"]
 ##[href^="telreh.com"]
+##[href^="thedragonbahis.com"]
+##[href^="thedragonbahis.com/"]
 ##[href^="torrentsafeguard.com/"]
 ##[href^="tr.link/29LRD"]
 ##[href^="tr.link/99ba"]
@@ -680,6 +704,7 @@ dizilla.com##a.block:nth-of-type(1)
 dizilla.com##a.block:nth-of-type(2)
 dizipub1.net###pubxvideox
 eksisozluk.com###netflix-ad-container
+eksisozluk.com###open-ad-tab
 eksisozluk.com##.ads-trendyol.anim-text-flow
 eksisozluk.com##.detail
 eksisozluk.com##.under-top-ad
@@ -700,9 +725,13 @@ incisozluk.com.tr###b-masthead
 ktun.edu.tr###loader
 lessmo.pro##.fix
 lessmo.pro##.main-content
+pdfkitapp.com##.swal2-in.swal2-fade.swal2-container
+pdfkitapp.com*^$popup
+pin-me.com*^$popup
 popcent.net^$popup
 porn-desip-org.cdn.ampproject.org##.marquee
 porn-desip-org.cdn.ampproject.org##.marquee-outer
+press-here-to-continue.com*^$popup
 rlink.live##.clearfix.profiles-listing
 rlink.live##.site-wrap
 rutracker.net###bn-top-block
@@ -823,6 +852,14 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*braun634*/*.mp4$media
 ||*braun634*/*.png$image
 ||*braun634*^$popup
+||*cdn.blok.link/code/*milf*.gif
+||*cdn.blok.link/code/*milf*.jpeg
+||*cdn.blok.link/code/*milf*.jpg
+||*cdn.blok.link/code/*milf*.png
+||*cdn.blok.link/code/*rus*.gif
+||*cdn.blok.link/code/*rus*.jpeg
+||*cdn.blok.link/code/*rus*.jpg
+||*cdn.blok.link/code/*rus*.png
 ||*chuckyluck.com^$popup
 ||*clbanners1.com^$popup
 ||*click-and*.*$image
@@ -873,6 +910,14 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*safbc.com/videos/*.mp4$media
 ||*sekahdr*.gif$image
 ||*seks4.com*/*.gif$image
+||*sohbethattin*.*/cevmor/*/*.gif
+||*sohbethattin*.*/cevmor/*/*.jpeg
+||*sohbethattin*.*/cevmor/*/*.jpg
+||*sohbethattin*.*/cevmor/*/*.png
+||*sohbethattin*.*/vip/*img*/*.gif
+||*sohbethattin*.*/vip/*img*/*.jpeg
+||*sohbethattin*.*/vip/*img*/*.jpg
+||*sohbethattin*.*/vip/*img*/*.png
 ||*surl.ml/losp^$popup
 ||*teusa.net/wp-content/*/*w1.png$image
 ||*titanx*.png$image
