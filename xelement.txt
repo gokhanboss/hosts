@@ -1,6 +1,6 @@
 # Title: ❤xorcan❤ Türk element-ad-list
 # Format: Element Bloklist
-# Released: 14.01.2020
+# Released: 22.01.2020
 # Entries: 1262
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
@@ -12,8 +12,6 @@
 # Report an ad / contact: xorcan@yandex.com
 
 # xorcan/hosts başla #
-
-
 ###iv-kayan
 ###ivr-bar
 ###preRollVideoAd
