@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk ad-list
 # Format: Hosts
-# Released: 14.01.2020
-# Entries: 7670
+# Released: 22.01.2020
+# Entries: 7718
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -793,6 +793,7 @@
 127.0.0.1 bettingselection.org
 127.0.0.1 bettingsites1.com
 127.0.0.1 bettingtag.com
+127.0.0.1 betvole362.com
 127.0.0.1 betwinner1.com
 127.0.0.1 betwinner17.com
 127.0.0.1 betwinner22.com
@@ -812,6 +813,7 @@
 127.0.0.1 beyzbolturk.com
 127.0.0.1 bg.com.tr
 127.0.0.1 bgel.ncmae.com
+127.0.0.1 bgel.ncmfck.com
 127.0.0.1 bh.contextweb.com
 127.0.0.1 bhhqkj.com
 127.0.0.1 bibogames.net
@@ -840,6 +842,7 @@
 127.0.0.1 birsan.com.tr
 127.0.0.1 bisbro.com
 127.0.0.1 bishkekescort.com
+127.0.0.1 bit.ly/38tqwJT
 127.0.0.1 bitcoiniti.com
 127.0.0.1 bitredirofx.top
 127.0.0.1 bizimizmit.com
@@ -903,6 +906,7 @@
 127.0.0.1 bromson.com
 127.0.0.1 browserr.top
 127.0.0.1 browsers.support
+127.0.0.1 bruceleadx2.com
 127.0.0.1 bs.serving-sys.com
 127.0.0.1 btcturki.com
 127.0.0.1 bttrack.com
@@ -927,6 +931,7 @@
 127.0.0.1 buykamagraonlinerxhere.com
 127.0.0.1 buyuksigorta.com
 127.0.0.1 buyviagraroc.com
+127.0.0.1 buywanted.com
 127.0.0.1 buzzreklam.com
 127.0.0.1 bvpulhb.cf
 127.0.0.1 bvpulhb.ga
@@ -958,6 +963,7 @@
 127.0.0.1 canakkalehotelguide.com
 127.0.0.1 cancel.transaction.73891347.atakanpolat.com.tr
 127.0.0.1 cankayaerkekyurdu.com
+127.0.0.1 canlialem.com
 127.0.0.1 canpazari.com
 127.0.0.1 cansesiasknefesi.com
 127.0.0.1 capcanlisohbet.site
@@ -1470,6 +1476,7 @@
 127.0.0.1 fhxrovn.tk
 127.0.0.1 fightclubturkey.com
 127.0.0.1 fileturko.net
+127.0.0.1 filmfiz.com
 127.0.0.1 find-my-great-life.com
 127.0.0.1 fingahvf.top
 127.0.0.1 fingersoft-log.scientificrevenue.com
@@ -1477,6 +1484,7 @@
 127.0.0.1 firmamentum.com.tr
 127.0.0.1 firsathaber.net
 127.0.0.1 firsatjumbo.live
+127.0.0.1 firstsexmeet.info
 127.0.0.1 fitanalytics.com
 127.0.0.1 fkpres.com.tr
 127.0.0.1 flash.banners-service.info
@@ -1662,6 +1670,7 @@
 127.0.0.1 hdxvipizle.site
 127.0.0.1 hellobar.com
 127.0.0.1 hellofromhony.com
+127.0.0.1 hendico.com
 127.0.0.1 hepsibahis351.com
 127.0.0.1 hepsibahis71.com
 127.0.0.1 hepsibahis94.com
@@ -1798,6 +1807,7 @@
 127.0.0.1 installads2.com
 127.0.0.1 installer.betterinstaller.com
 127.0.0.1 installer.filebulldog.com
+127.0.0.1 instazero.com
 127.0.0.1 intekyapi.com.tr
 127.0.0.1 interaktifhaberler.net
 127.0.0.1 inwo.pw
@@ -1943,6 +1953,7 @@
 127.0.0.1 kaliteliescortlar10.live
 127.0.0.1 kalitereklam.com
 127.0.0.1 kamerreklam.com.tr
+127.0.0.1 kamuevlilik.com
 127.0.0.1 kanarya.com.tr
 127.0.0.1 kandiragayrimenkulemlak.com
 127.0.0.1 karabaglarmobilya.com
@@ -2019,6 +2030,7 @@
 127.0.0.1 konyavakfi.nl
 127.0.0.1 kos.interseek.si
 127.0.0.1 kosel.com.tr
+127.0.0.1 kralfilm.com
 127.0.0.1 kriptoparahaber.matomo.cloud
 127.0.0.1 krxd.net
 127.0.0.1 ksu.com.tr
@@ -2275,6 +2287,7 @@
 127.0.0.1 moalrdr.info
 127.0.0.1 moatads.com
 127.0.0.1 mob1ledev1ces.com
+127.0.0.1 mobil-izle.xyz
 127.0.0.1 mobile-collector.newrelic.com
 127.0.0.1 mobile-crash.newrelic.com
 127.0.0.1 mobile.logs.roku.com
@@ -2472,6 +2485,7 @@
 127.0.0.1 notifymepush.info
 127.0.0.1 nots.com.tr
 127.0.0.1 now.daphnesik.icu
+127.0.0.1 now.loading-wsite.com
 127.0.0.1 noxaffiliates.com
 127.0.0.1 nr-data.net
 127.0.0.1 nrcapi.ssl2.duapps.com
@@ -2694,6 +2708,7 @@
 127.0.0.1 piaads.com
 127.0.0.1 piabet860.com
 127.0.0.1 pimmas.com.tr
+127.0.0.1 pin-me.com
 127.0.0.1 pingdom.net
 127.0.0.1 pinglu123.com
 127.0.0.1 pippio.com
@@ -2725,6 +2740,7 @@
 127.0.0.1 playcell.com
 127.0.0.1 playwetten8.com
 127.0.0.1 plista.com
+127.0.0.1 plsppushme.com
 127.0.0.1 plutonium.icu
 127.0.0.1 plvlp.lovechats.org
 127.0.0.1 pmelon.com
@@ -2892,6 +2908,7 @@
 127.0.0.1 reklamdor.com
 127.0.0.1 reklamfit.com
 127.0.0.1 reklamint.com
+127.0.0.1 reklamlar.xyz
 127.0.0.1 reklamnative.com
 127.0.0.1 reklamoloji.com
 127.0.0.1 reklamooz.com
@@ -3144,6 +3161,7 @@
 127.0.0.1 skycloud.biz
 127.0.0.1 skyhorse.site
 127.0.0.1 skypidar.club
+127.0.0.1 slideff.com
 127.0.0.1 slotbar17.com
 127.0.0.1 smaclick.com
 127.0.0.1 smart.ncdn.pw
@@ -3380,6 +3398,7 @@
 127.0.0.1 track.fungiers.com
 127.0.0.1 track.getoffers.top
 127.0.0.1 track.smarttraf.ru
+127.0.0.1 track.special-promotions.online
 127.0.0.1 track.theagencyone.com
 127.0.0.1 track.vitringez.com
 127.0.0.1 tracker-pm2.erosaffiliates.com
@@ -3476,6 +3495,7 @@
 127.0.0.1 uberupload.online
 127.0.0.1 ucads-cdn.ucweb.com
 127.0.0.1 ucads.ucweb.com
+127.0.0.1 ucbetting.com
 127.0.0.1 ucfwicndme.com
 127.0.0.1 ucretsiz-indirin.online
 127.0.0.1 ucretsiz-kitaplar-indir-turk.com
@@ -3493,6 +3513,8 @@
 127.0.0.1 uid.ksosoft.com
 127.0.0.1 ujysitutequpoza.ml
 127.0.0.1 ulife17yeter.com
+127.0.0.1 ultrabet113.com
+127.0.0.1 ultrabet120.com
 127.0.0.1 ulushaber.com
 127.0.0.1 um.simpli.fi
 127.0.0.1 um2.eqads.com
@@ -3557,6 +3579,7 @@
 127.0.0.1 venturead.com
 127.0.0.1 vephaohoadanang.net
 127.0.0.1 verification.com.treachas.tk
+127.0.0.1 veriprtroutg.com
 127.0.0.1 vexacion.com
 127.0.0.1 vfsmtbtqducat.com
 127.0.0.1 viagra-e.net
@@ -4440,6 +4463,7 @@
 127.0.0.1 www.bettingselection.org
 127.0.0.1 www.bettingsites1.com
 127.0.0.1 www.bettingtag.com
+127.0.0.1 www.betvole362.com
 127.0.0.1 www.betwinner1.com
 127.0.0.1 www.betwinner17.com
 127.0.0.1 www.betwinner22.com
@@ -4459,6 +4483,7 @@
 127.0.0.1 www.beyzbolturk.com
 127.0.0.1 www.bg.com.tr
 127.0.0.1 www.bgel.ncmae.com
+127.0.0.1 www.bgel.ncmfck.com
 127.0.0.1 www.bh.contextweb.com
 127.0.0.1 www.bhhqkj.com
 127.0.0.1 www.bibogames.net
@@ -4487,6 +4512,7 @@
 127.0.0.1 www.birsan.com.tr
 127.0.0.1 www.bisbro.com
 127.0.0.1 www.bishkekescort.com
+127.0.0.1 www.bit.ly/38tqwJT
 127.0.0.1 www.bitcoiniti.com
 127.0.0.1 www.bitredirofx.top
 127.0.0.1 www.bizimizmit.com
@@ -4550,6 +4576,7 @@
 127.0.0.1 www.bromson.com
 127.0.0.1 www.browserr.top
 127.0.0.1 www.browsers.support
+127.0.0.1 www.bruceleadx2.com
 127.0.0.1 www.bs.serving-sys.com
 127.0.0.1 www.btcturki.com
 127.0.0.1 www.bttrack.com
@@ -4574,6 +4601,7 @@
 127.0.0.1 www.buykamagraonlinerxhere.com
 127.0.0.1 www.buyuksigorta.com
 127.0.0.1 www.buyviagraroc.com
+127.0.0.1 www.buywanted.com
 127.0.0.1 www.buzzreklam.com
 127.0.0.1 www.bvpulhb.cf
 127.0.0.1 www.bvpulhb.ga
@@ -4605,6 +4633,7 @@
 127.0.0.1 www.canakkalehotelguide.com
 127.0.0.1 www.cancel.transaction.73891347.atakanpolat.com.tr
 127.0.0.1 www.cankayaerkekyurdu.com
+127.0.0.1 www.canlialem.com
 127.0.0.1 www.canpazari.com
 127.0.0.1 www.cansesiasknefesi.com
 127.0.0.1 www.capcanlisohbet.site
@@ -5117,6 +5146,7 @@
 127.0.0.1 www.fhxrovn.tk
 127.0.0.1 www.fightclubturkey.com
 127.0.0.1 www.fileturko.net
+127.0.0.1 www.filmfiz.com
 127.0.0.1 www.find-my-great-life.com
 127.0.0.1 www.fingahvf.top
 127.0.0.1 www.fingersoft-log.scientificrevenue.com
@@ -5124,6 +5154,7 @@
 127.0.0.1 www.firmamentum.com.tr
 127.0.0.1 www.firsathaber.net
 127.0.0.1 www.firsatjumbo.live
+127.0.0.1 www.firstsexmeet.info
 127.0.0.1 www.fitanalytics.com
 127.0.0.1 www.fkpres.com.tr
 127.0.0.1 www.flash.banners-service.info
@@ -5309,6 +5340,7 @@
 127.0.0.1 www.hdxvipizle.site
 127.0.0.1 www.hellobar.com
 127.0.0.1 www.hellofromhony.com
+127.0.0.1 www.hendico.com
 127.0.0.1 www.hepsibahis351.com
 127.0.0.1 www.hepsibahis71.com
 127.0.0.1 www.hepsibahis94.com
@@ -5445,6 +5477,7 @@
 127.0.0.1 www.installads2.com
 127.0.0.1 www.installer.betterinstaller.com
 127.0.0.1 www.installer.filebulldog.com
+127.0.0.1 www.instazero.com
 127.0.0.1 www.intekyapi.com.tr
 127.0.0.1 www.interaktifhaberler.net
 127.0.0.1 www.inwo.pw
@@ -5590,6 +5623,7 @@
 127.0.0.1 www.kaliteliescortlar10.live
 127.0.0.1 www.kalitereklam.com
 127.0.0.1 www.kamerreklam.com.tr
+127.0.0.1 www.kamuevlilik.com
 127.0.0.1 www.kanarya.com.tr
 127.0.0.1 www.kandiragayrimenkulemlak.com
 127.0.0.1 www.karabaglarmobilya.com
@@ -5666,6 +5700,7 @@
 127.0.0.1 www.konyavakfi.nl
 127.0.0.1 www.kos.interseek.si
 127.0.0.1 www.kosel.com.tr
+127.0.0.1 www.kralfilm.com
 127.0.0.1 www.kriptoparahaber.matomo.cloud
 127.0.0.1 www.krxd.net
 127.0.0.1 www.ksu.com.tr
@@ -5922,6 +5957,7 @@
 127.0.0.1 www.moalrdr.info
 127.0.0.1 www.moatads.com
 127.0.0.1 www.mob1ledev1ces.com
+127.0.0.1 www.mobil-izle.xyz
 127.0.0.1 www.mobile-collector.newrelic.com
 127.0.0.1 www.mobile-crash.newrelic.com
 127.0.0.1 www.mobile.logs.roku.com
@@ -6119,6 +6155,7 @@
 127.0.0.1 www.notifymepush.info
 127.0.0.1 www.nots.com.tr
 127.0.0.1 www.now.daphnesik.icu
+127.0.0.1 www.now.loading-wsite.com
 127.0.0.1 www.noxaffiliates.com
 127.0.0.1 www.nr-data.net
 127.0.0.1 www.nrcapi.ssl2.duapps.com
@@ -6341,6 +6378,7 @@
 127.0.0.1 www.piaads.com
 127.0.0.1 www.piabet860.com
 127.0.0.1 www.pimmas.com.tr
+127.0.0.1 www.pin-me.com
 127.0.0.1 www.pingdom.net
 127.0.0.1 www.pinglu123.com
 127.0.0.1 www.pippio.com
@@ -6372,6 +6410,7 @@
 127.0.0.1 www.playcell.com
 127.0.0.1 www.playwetten8.com
 127.0.0.1 www.plista.com
+127.0.0.1 www.plsppushme.com
 127.0.0.1 www.plutonium.icu
 127.0.0.1 www.plvlp.lovechats.org
 127.0.0.1 www.pmelon.com
@@ -6539,6 +6578,7 @@
 127.0.0.1 www.reklamdor.com
 127.0.0.1 www.reklamfit.com
 127.0.0.1 www.reklamint.com
+127.0.0.1 www.reklamlar.xyz
 127.0.0.1 www.reklamnative.com
 127.0.0.1 www.reklamoloji.com
 127.0.0.1 www.reklamooz.com
@@ -6791,6 +6831,7 @@
 127.0.0.1 www.skycloud.biz
 127.0.0.1 www.skyhorse.site
 127.0.0.1 www.skypidar.club
+127.0.0.1 www.slideff.com
 127.0.0.1 www.slotbar17.com
 127.0.0.1 www.smaclick.com
 127.0.0.1 www.smart.ncdn.pw
@@ -7027,6 +7068,7 @@
 127.0.0.1 www.track.fungiers.com
 127.0.0.1 www.track.getoffers.top
 127.0.0.1 www.track.smarttraf.ru
+127.0.0.1 www.track.special-promotions.online
 127.0.0.1 www.track.theagencyone.com
 127.0.0.1 www.track.vitringez.com
 127.0.0.1 www.tracker-pm2.erosaffiliates.com
@@ -7123,6 +7165,7 @@
 127.0.0.1 www.uberupload.online
 127.0.0.1 www.ucads-cdn.ucweb.com
 127.0.0.1 www.ucads.ucweb.com
+127.0.0.1 www.ucbetting.com
 127.0.0.1 www.ucfwicndme.com
 127.0.0.1 www.ucretsiz-indirin.online
 127.0.0.1 www.ucretsiz-kitaplar-indir-turk.com
@@ -7140,6 +7183,8 @@
 127.0.0.1 www.uid.ksosoft.com
 127.0.0.1 www.ujysitutequpoza.ml
 127.0.0.1 www.ulife17yeter.com
+127.0.0.1 www.ultrabet113.com
+127.0.0.1 www.ultrabet120.com
 127.0.0.1 www.ulushaber.com
 127.0.0.1 www.um.simpli.fi
 127.0.0.1 www.um2.eqads.com
@@ -7204,6 +7249,7 @@
 127.0.0.1 www.venturead.com
 127.0.0.1 www.vephaohoadanang.net
 127.0.0.1 www.verification.com.treachas.tk
+127.0.0.1 www.veriprtroutg.com
 127.0.0.1 www.vexacion.com
 127.0.0.1 www.vfsmtbtqducat.com
 127.0.0.1 www.viagra-e.net
@@ -7316,6 +7362,7 @@
 127.0.0.1 www.x.bidswitch.net
 127.0.0.1 www.x.ligatus.com
 127.0.0.1 www.x.skimresources.com
+127.0.0.1 www.x5w5.veriprtroutg.com
 127.0.0.1 www.xacugvx.cf
 127.0.0.1 www.xacugvx.ga
 127.0.0.1 www.xacugvx.gq
@@ -7504,6 +7551,7 @@
 127.0.0.1 x.bidswitch.net
 127.0.0.1 x.ligatus.com
 127.0.0.1 x.skimresources.com
+127.0.0.1 x5w5.veriprtroutg.com
 127.0.0.1 xacugvx.cf
 127.0.0.1 xacugvx.ga
 127.0.0.1 xacugvx.gq
