@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk element-ad-list
 # Format: Element Bloklist
 # Released: 24.01.2020
-# Entries: 1271
+# Entries: 1272
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -852,7 +852,9 @@
 /*video*onu*/*/*gencobahis*.mp4
 /*video*onu*/*/*sultan*bet*.mp4
 /*video*onu*/*/*sultanbet*.mp4
-@@||sozcu.com.tr/*/assets/js/ads.js
+@@||*/wpsite-background-takeover/js/wpsite_clickable.js
+@@||*cdn.adreda.com/brda_trlk.js
+@@||*download-free.site*.js
 abcfilmizle.com##.body-clickable
 chaicdn.com*/3.gif$image
 dizibox.pw###adcblock
@@ -989,7 +991,6 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*/titanx.png$image
 ||*/wp-content/*/*pornbg*.jpg$image
 ||*/Wpdeo_Rise*/yatay.jpg$image
-||*/wpsite-background-takeover/js/wpsite_clickable.js
 ||*/yarak-banner.gif$image
 ||*adsimages/cpa/*indir*/*.gif$image
 ||*adsimages/cpc/*mesaj*/*.gif$image
@@ -1043,7 +1044,6 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*download-free.site*.*^
 ||*download-free.site*.*^$popup
 ||*download-free.site*.css
-||*download-free.site*.js
 ||*download-free.site*^$third-party
 ||*fileru.net/*/assets/bg/mobile*.jpg$image
 ||*filmkovani.com/wp-content/*/sbhive2page.png$image
@@ -1252,6 +1252,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||rutrk.org/iframe/kwork-1.html$subdocument
 ||secondlife.com*^$popup
 ||slideff.com^$document
+||slideff.com^$popup
 ||sohbetara69.xyz*^$popup
 ||st.fl.ru/images/banners/*_1.png
 ||st.fl.ru/images/banners/*_2.png
