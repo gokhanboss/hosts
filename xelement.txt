@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk element-ad-list
 # Format: Element Bloklist
-# Released: 22.01.2020
-# Entries: 1262
+# Released: 24.01.2020
+# Entries: 1271
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -987,6 +987,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*/titanx.png$image
 ||*/wp-content/*/*pornbg*.jpg$image
 ||*/Wpdeo_Rise*/yatay.jpg$image
+||*/wpsite-background-takeover/js/wpsite_clickable.js
 ||*/yarak-banner.gif$image
 ||*adsimages/cpa/*indir*/*.gif$image
 ||*adsimages/cpc/*mesaj*/*.gif$image
@@ -1071,6 +1072,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*porno*.*###koddostu-sysf
 ||*porno*.*/*/*bg-pattern*.png$image
 ||*ppcnt*^$popup
+||*pushworldtool.com*^$popup
 ||*realpush.media^$third-party
 ||*record.efesclubaffiliates.com/*
 ||*rlink.xyz*.jpg$image
@@ -1113,6 +1115,8 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||5posta.org
 ||abcfilmizle.com/wp-content/uploads/*/*/*Buton*.gif$image
 ||abcfilmizle.com/wp-content/uploads/*/*/*pageskin*.jpg
+||bayan0*.com*^$popup
+||bayan06.com*^$popup
 ||baysansliortaklik.com*^$popup
 ||bc.vc/WRrYdnR*^$popup
 ||ben-nazli.gif
@@ -1133,6 +1137,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||cdnrefpa*/*AdAgent*/*.gif$image
 ||chaicdn.com*/1.gif$image
 ||cltrkr.com*^$popup
+||daily-notification.icu*^$popup
 ||dizibox*/per-hdr.gif$image
 ||dizilab*/29_1559767284.jpg$image
 ||dizimag*/*rek*/pg_tlp4.jpg$image
@@ -1225,6 +1230,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||mobil-izle.xyz*^$popup
 ||morfilmizle.com/wp-content/uploads/*/*/*banner*.jpg$image
 ||myfotolife.xyz
+||notification-list.com*^$popup
 ||now.loading-wsite.com*^$popup
 ||oyunkuzusu.com/images/tras-et-beni-mobil.jpg$image
 ||pcgamer.site/*/*/images/background_video.mp4$media
@@ -1233,10 +1239,12 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||plsppushme.com*^$popup
 ||popcent.org*^$popup
 ||pornfilmsex.com/*.gif$image
+||ppcnt.net*^$popup
 ||predictiondexchange.com*^$popup
 ||press-here-to-continue.com*^$popup
 ||refpabei.top*^$popup
 ||reklamlar.xyz*^$popup
+||rotumal.com*^$popup
 ||rsalcdp.com^$document
 ||rublacklist.net/images/rutracker_image.png$image
 ||rutrk.org/iframe/kwork-1.html$subdocument
@@ -1246,7 +1254,10 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||st.fl.ru/images/banners/*_1.png
 ||st.fl.ru/images/banners/*_2.png
 ||supermesaj.tv*^$popup
+||technopat*/wp-content/uploads/*/*/steelseries-technopat*siteskin*.jpg$image
 ||telreh.com*^$popup
+||tr.link##.sweet-overlay
+||tr.link##.visible.showSweetAlert.sweet-alert
 ||tr.link/GbeG*^$popup
 ||track.special-promotions.online*^$popup
 ||ucbetting.com*^$popup
