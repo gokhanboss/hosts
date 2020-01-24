@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk ad-list
 # Format: Hosts
-# Released: 22.01.2020
-# Entries: 7718
+# Released: 24.01.2020
+# Entries: 7722
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -1201,6 +1201,7 @@
 127.0.0.1 da-ads.com
 127.0.0.1 dadbab.info
 127.0.0.1 dagit.ml
+127.0.0.1 daily-notification.icu
 127.0.0.1 daishin-tr.com.cn
 127.0.0.1 dalseeds.net
 127.0.0.1 daphnesik.icu
@@ -2823,6 +2824,7 @@
 127.0.0.1 pushcrew.com
 127.0.0.1 pushlat.com
 127.0.0.1 pushnest.com
+127.0.0.1 pushworldtool.com
 127.0.0.1 pusulam.com.tr
 127.0.0.1 px.adhigh.net
 127.0.0.1 px.powerlinks.com
@@ -4871,6 +4873,7 @@
 127.0.0.1 www.da-ads.com
 127.0.0.1 www.dadbab.info
 127.0.0.1 www.dagit.ml
+127.0.0.1 www.daily-notification.icu
 127.0.0.1 www.daishin-tr.com.cn
 127.0.0.1 www.dalseeds.net
 127.0.0.1 www.daphnesik.icu
@@ -6493,6 +6496,7 @@
 127.0.0.1 www.pushcrew.com
 127.0.0.1 www.pushlat.com
 127.0.0.1 www.pushnest.com
+127.0.0.1 www.pushworldtool.com
 127.0.0.1 www.pusulam.com.tr
 127.0.0.1 www.px.adhigh.net
 127.0.0.1 www.px.powerlinks.com
