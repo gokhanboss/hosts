@@ -1,7 +1,7 @@
-# Title: ❤xorcan❤ Türk element-ad-list
+# Title: ❤nurcan❤ Türk element-ad-list
 # Format: Element Bloklist
-# Released: 24.01.2020
-# Entries: 1272
+# Released: 01.02.2020
+# Entries: 1289
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -825,33 +825,20 @@
 *.tk##.download-file.download
 */*/*vardh*/wp-content/*/*/*/*vardh*.gif
 */*/*vardh*/wp-content/*/*/*/*yenivideoalt*.gif
+*/fileru.net/video_onu/*/dizilla-desktop.*
 *ampproject.org###iOssi
 *doeda*.cdn.ampproject.org​##.e_1637951423
 *file-up.org###boxes
 *mrunlock.kim​##[href="/lorem2/xyy/"]
-*my-privacy-protection*^$popup
 *pdfdrive.com###pdfdriveAlerts
 *pdfdrive.com##.show.fade.modal-backdrop
-*performit.*^$popup
-*premiumdownload.icu*^$popup
-*promosultan*.*^$popup
-*promosultan3.com*^$popup
 *pskinlord*^$image
 *sfxporn*.cdn.ampproject.org​##.kayan-ic
 *turkanime*###modallar
 *turkanime*##.in.fade.modal-backdrop
 *turkanime*##.row > div.col-xs-6:nth-of-type(1)
-*whatsappsohbet.top*^$popup
 /*/*/wp-content/uploads/*/*vardh*.gif
 /*/*/wp-content/uploads/*/*yenivideoalt*.gif
-/*video*onu*/*/*bahse*gel*last*.mp4
-/*video*onu*/*/*bahse*gellast*.mp4
-/*video*onu*/*/*bahsegel*last*.mp4
-/*video*onu*/*/*bahsegellast*.mp4
-/*video*onu*/*/*genco*bahis*.mp4
-/*video*onu*/*/*gencobahis*.mp4
-/*video*onu*/*/*sultan*bet*.mp4
-/*video*onu*/*/*sultanbet*.mp4
 @@||*/wpsite-background-takeover/js/wpsite_clickable.js
 @@||*cdn.adreda.com/brda_trlk.js
 @@||*download-free.site*.js
@@ -874,12 +861,13 @@ eksisozluk.com##li[data-author=pena]
 eksisozluk.com##li[data-author=reklam]
 eksisozluk.com##li[data-author=sponsorlu]
 ettv.to##.download_links_a
+evrimagaci.org##.content-sticky.content-end-youtube.text-center.mb-10
+evrimagaci.org##div.ads--inarticle 
+filmakinesi.net##.adbetnetwork
 filmkovani.com###fkqmbgvazoex
 filmkovani.com###lznjhydxqkbr
 filmkovani.com##[href^="https://bgel.ncmfck.com/"]
 filmw.org##.hoverZoomLink.loaded
-flmallplayer.*/*sultan*bet*.mp4
-flmallplayer.*/*sultanbet*.mp4
 fullprogramlarindir.com​###yenidosya_indir
 hilelioyun.net##div.reklam-sag:nth-of-type(1)
 hilelioyun.net##div.reklam-sag:nth-of-type(2)
@@ -891,8 +879,8 @@ lessmo.pro##.fix
 lessmo.pro##.main-content
 morfilmizle.com###amans
 morfilmizle.com##[src="https://www.youtube.com/embed/UHb86zXgsG4"]
+pcgamer.site/*/*/images/background_video.mp4$media
 pdfkitapp.com##.swal2-in.swal2-fade.swal2-container
-popcent.net*^$popup
 porn-desip-org.cdn.ampproject.org##.marquee
 porn-desip-org.cdn.ampproject.org##.marquee-outer
 rlink.live##.clearfix.profiles-listing
@@ -1063,9 +1051,11 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*makronew*.gif$image
 ||*marsbahis*^$popup
 ||*marsbahisaffiliates*^$popup
+||*my-privacy-protection*^$popup
 ||*pageskinlord*.jpg$image
 ||*perabet*.gif$image
 ||*peralarge*.gif$image
+||*performit.*^$popup
 ||*pnbtour*.com/*.gif$image
 ||*pnbtour*.com/*.jpeg$image
 ||*pnbtour*.com/*.jpg$image
@@ -1074,6 +1064,9 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*porno*.*###koddostu-sysf
 ||*porno*.*/*/*bg-pattern*.png$image
 ||*ppcnt*^$popup
+||*premiumdownload.icu*^$popup
+||*promosultan*.*^$popup
+||*promosultan3.com*^$popup
 ||*pushworldtool.com*^$popup
 ||*realpush.media^$third-party
 ||*record.efesclubaffiliates.com/*
@@ -1097,6 +1090,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*torrentoyunindir*/wp-content/uploads/d.png$image
 ||*tpv.sr/uh79Lq*^$popup
 ||*uploaded.net/register*^$popup
+||*whatsappsohbet.top*^$popup
 ||*wlearnlounge.adsrv.eacdn.com/C.ashx$popup,subdocument
 ||*wlfenomenbet*^$popup
 ||*wlpronet*^$popup
@@ -1111,6 +1105,14 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||/*peralarge*.gif$image
 ||/*rotahdr*.gif$image
 ||/*sekahdr*.gif$image
+||/*video*onu*/*/*bahse*gel*last*.mp4$media
+||/*video*onu*/*/*bahse*gellast*.mp4$media
+||/*video*onu*/*/*bahsegel*last*.mp4$media
+||/*video*onu*/*/*bahsegellast*.mp4$media
+||/*video*onu*/*/*genco*bahis*.mp4$media
+||/*video*onu*/*/*gencobahis*.mp4$media
+||/*video*onu*/*/*sultan*bet*.mp4$media
+||/*video*onu*/*/*sultanbet*.mp4$media
 ||35.194.16.41*^$popup
 ||35.224.227.218*^$popup
 ||3b66.veriprtroutg.com*^$popup
@@ -1122,6 +1124,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||baysansliortaklik.com*^$popup
 ||bc.vc/WRrYdnR*^$popup
 ||ben-nazli.gif
+||betbaba43.com*^$popup
 ||betvole362.com*^$popup
 ||bformu4.tk/form.php$subdocument
 ||bgel.ncmfck.com*^$popup
@@ -1135,6 +1138,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||buywanted.com*^$popup
 ||canlialem.com*^$popup
 ||canlitv.news/img/plarka.jpg$image
+||cdn*.turkakisi.com/content/stream/*bet/*Meltur*/Meltur*.mp4$media
 ||cdn11.online/ivr.php^$document
 ||cdnrefpa*/*AdAgent*/*.gif$image
 ||chaicdn.com*/1.gif$image
@@ -1154,6 +1158,8 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||filmyani.com*^$popup
 ||findfavour.com^
 ||firstsexmeet.info*^$popup
+||flmallplayer.*/*sultan*bet*.mp4$media
+||flmallplayer.*/*sultanbet*.mp4$media
 ||freemacware.com
 ||go2linkfast.com*^$popup
 ||gplinks.in/advertising/campaign.php^$document
@@ -1228,22 +1234,27 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||kisaltma.link*^$popup
 ||kralfilm.com*^$popup
 ||link-redirect.xyz*^$popup
-||mob1ledev1ces.com
+||makrobetcdn.com*^$popup
+||mob1ledev1ces.com*^$popup
 ||mobil-izle.xyz*^$popup
 ||morfilmizle.com/wp-content/uploads/*/*/*banner*.jpg$image
-||myfotolife.xyz
+||myfotolife.xyz*^$popup
 ||notification-list.com*^$popup
 ||now.loading-wsite.com*^$popup
+||oneagleswingsnorth.com*^$popup
+||onlinecyclecoaching.com*^$popup
 ||oyunkuzusu.com/images/tras-et-beni-mobil.jpg$image
-||pcgamer.site/*/*/images/background_video.mp4$media
+||pdfindiroku.xyz*^$popup
 ||pdfkitapp.com*^$popup
 ||pin-me.com*^$popup
 ||plsppushme.com*^$popup
+||popcent.net*^$popup
 ||popcent.org*^$popup
 ||pornfilmsex.com/*.gif$image
 ||ppcnt.net*^$popup
 ||predictiondexchange.com*^$popup
 ||press-here-to-continue.com*^$popup
+||promosultan278.com*^$popup
 ||refpabei.top*^$popup
 ||reklamlar.xyz*^$popup
 ||rotumal.com*^$popup
@@ -1269,6 +1280,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||whatsapp.rlink.live*^$popup
 ||whatsappsohbet.top*^$popup
 ||www.baysansliortaklik.com*^$popup
+||www.betbaba43.com*^$popup
 ||www.betvole362.com*^$popup
 ||www.bgel.ncmfck.com*^$popup
 ||www.bit.ly/38tqwJT*^$popup
@@ -1279,7 +1291,12 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||www.instazero.com*^$popup
 ||www.kamuevlilik.com*^$popup
 ||www.kralfilm.com*^$popup
+||www.makrobetcdn.com*^$popup
 ||www.mobil-izle.xyz*^$popup
+||www.oneagleswingsnorth.com*^$popup
+||www.onlinecyclecoaching.com*^$popup
+||www.pdfindiroku.xyz*^$popup
+||www.promosultan278.com*^$popup
 ||www.ucbetting.com*^$popup
 ||www.ultrabet113.com*^$popup
 ||www.ultrabet120.com*^$popup
