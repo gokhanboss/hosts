@@ -1,7 +1,7 @@
-# Title: ❤xorcan❤ Türk ad-list
+# Title: ❤nurcan❤ Türk ad-list
 # Format: Hosts
-# Released: 24.01.2020
-# Entries: 7722
+# Released: 01.02.2020
+# Entries: 7732
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -772,6 +772,7 @@
 127.0.0.1 bet1x.mobi
 127.0.0.1 betasus123.com
 127.0.0.1 betatac.com
+127.0.0.1 betbaba43.com
 127.0.0.1 betburdaaffiliates.com
 127.0.0.1 betbysports.com
 127.0.0.1 betco.link
@@ -2555,11 +2556,13 @@
 127.0.0.1 onclickprediction.com
 127.0.0.1 onclicksuper.com
 127.0.0.1 ondokuzmuoldu.com
+127.0.0.1 oneagleswingsnorth.com
 127.0.0.1 onedatedem2.com
 127.0.0.1 onedmp.com
 127.0.0.1 onieruco.com
 127.0.0.1 onkologiabg.com
 127.0.0.1 online-metrix.net
+127.0.0.1 onlinecyclecoaching.com
 127.0.0.1 onlinepluss.com
 127.0.0.1 onlinewebstat.com
 127.0.0.1 onlinewebstats.com
@@ -2664,6 +2667,7 @@
 127.0.0.1 pdfindirkitap.com
 127.0.0.1 pdfindirmek.com
 127.0.0.1 pdfindiroku.site
+127.0.0.1 pdfindiroku.xyz
 127.0.0.1 pdfkitap.ga
 127.0.0.1 pdfkitaparsivi.tk
 127.0.0.1 pdfkitaphanem.blogspot.com
@@ -2791,6 +2795,7 @@
 127.0.0.1 projeanaliz.com
 127.0.0.1 promiton.tech
 127.0.0.1 promo.eglencepte.com
+127.0.0.1 promosultan278.com
 127.0.0.1 promoviral.com
 127.0.0.1 pronetnakliyat.com.tr
 127.0.0.1 protecguvenlik.com.tr
@@ -4444,6 +4449,7 @@
 127.0.0.1 www.bet1x.mobi
 127.0.0.1 www.betasus123.com
 127.0.0.1 www.betatac.com
+127.0.0.1 www.betbaba43.com
 127.0.0.1 www.betburdaaffiliates.com
 127.0.0.1 www.betbysports.com
 127.0.0.1 www.betco.link
@@ -6227,11 +6233,13 @@
 127.0.0.1 www.onclickprediction.com
 127.0.0.1 www.onclicksuper.com
 127.0.0.1 www.ondokuzmuoldu.com
+127.0.0.1 www.oneagleswingsnorth.com
 127.0.0.1 www.onedatedem2.com
 127.0.0.1 www.onedmp.com
 127.0.0.1 www.onieruco.com
 127.0.0.1 www.onkologiabg.com
 127.0.0.1 www.online-metrix.net
+127.0.0.1 www.onlinecyclecoaching.com
 127.0.0.1 www.onlinepluss.com
 127.0.0.1 www.onlinewebstat.com
 127.0.0.1 www.onlinewebstats.com
@@ -6336,6 +6344,7 @@
 127.0.0.1 www.pdfindirkitap.com
 127.0.0.1 www.pdfindirmek.com
 127.0.0.1 www.pdfindiroku.site
+127.0.0.1 www.pdfindiroku.xyz
 127.0.0.1 www.pdfkitap.ga
 127.0.0.1 www.pdfkitaparsivi.tk
 127.0.0.1 www.pdfkitaphanem.blogspot.com
@@ -6463,6 +6472,7 @@
 127.0.0.1 www.projeanaliz.com
 127.0.0.1 www.promiton.tech
 127.0.0.1 www.promo.eglencepte.com
+127.0.0.1 www.promosultan278.com
 127.0.0.1 www.promoviral.com
 127.0.0.1 www.pronetnakliyat.com.tr
 127.0.0.1 www.protecguvenlik.com.tr
