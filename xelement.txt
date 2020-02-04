@@ -839,9 +839,9 @@
 *turkanime*##.row > div.col-xs-6:nth-of-type(1)
 /*/*/wp-content/uploads/*/*vardh*.gif
 /*/*/wp-content/uploads/*/*yenivideoalt*.gif
-@@||*/wpsite-background-takeover/js/wpsite_clickable.js
-@@||*cdn.adreda.com/brda_trlk.js
-@@||*download-free.site*.js
+||*/wpsite-background-takeover/js/wpsite_clickable.js
+||*cdn.adreda.com/brda_trlk.js
+||*download-free.site*.js
 abcfilmizle.com##.body-clickable
 chaicdn.com*/3.gif$image
 dizibox.pw###adcblock
