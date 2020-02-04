@@ -1268,7 +1268,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||st.fl.ru/images/banners/*_1.png
 ||st.fl.ru/images/banners/*_2.png
 ||supermesaj.tv*^$popup
-||technopat*/wp-content/uploads/*/*/steelseries-technopat*siteskin*.jpg$image
+||technopat*/wp-content/uploads/*/*/*technopat*siteskin*.jpg$image
 ||telreh.com*^$popup
 ||tr.link/GbeG*^$popup
 ||track.special-promotions.online*^$popup
