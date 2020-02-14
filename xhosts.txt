@@ -1,7 +1,7 @@
 # Title: ❤nurcan❤ Türk ad-list
 # Format: Hosts
-# Released: 01.02.2020
-# Entries: 7732
+# Released: 14.02.2020
+# Entries: 7778
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -823,6 +823,7 @@
 127.0.0.1 bidserver.clickpapa.io
 127.0.0.1 bidstraff.com
 127.0.0.1 bigblackshark.info
+127.0.0.1 bildirim.eu
 127.0.0.1 bilgetarim.com
 127.0.0.1 bilgibahis.com
 127.0.0.1 bilink.xyz
@@ -1320,6 +1321,7 @@
 127.0.0.1 edgership-widscott.com
 127.0.0.1 edirneyuzme.com
 127.0.0.1 eeig.com.tr
+127.0.0.1 efesclubaffiliates.com
 127.0.0.1 effectivemeasure.net
 127.0.0.1 egesatizmir.com
 127.0.0.1 eglencepte.com
@@ -1332,6 +1334,7 @@
 127.0.0.1 ekinokstravel.com.tr
 127.0.0.1 ekitabix.club
 127.0.0.1 ekitapindirpdf.com
+127.0.0.1 ekitaplaroku.com
 127.0.0.1 ekli.net
 127.0.0.1 ekolfx5.com
 127.0.0.1 ekolfx6.com
@@ -1378,6 +1381,8 @@
 127.0.0.1 eokulegitim.com
 127.0.0.1 eotech-yoqblou5gqrdrn.netdna-ssl.com
 127.0.0.1 epdfkitapindir.com
+127.0.0.1 epdfkitapinndir.com
+127.0.0.1 epdfkitapp.com
 127.0.0.1 epoksizeminankara.com
 127.0.0.1 eptwulil.com
 127.0.0.1 eqads.com
@@ -1491,6 +1496,7 @@
 127.0.0.1 fkpres.com.tr
 127.0.0.1 flash.banners-service.info
 127.0.0.1 flashtalking.com
+127.0.0.1 flirtsexmeet.info
 127.0.0.1 flix360.com
 127.0.0.1 flixcar.com
 127.0.0.1 flixfacts.com
@@ -1509,10 +1515,12 @@
 127.0.0.1 fotos-paisajes.net
 127.0.0.1 foxpush.com
 127.0.0.1 fpsdbfo.paylasimnet.com
+127.0.0.1 free-girls-vids.com
 127.0.0.1 free.classicgift.download
 127.0.0.1 freegeoip.net
 127.0.0.1 freemacware.com
 127.0.0.1 fula.com.tr
+127.0.0.1 fullhdfilmsitesi.pw
 127.0.0.1 fullpdfkitapindir.com
 127.0.0.1 fungiers.com
 127.0.0.1 funnwebs.com
@@ -1862,6 +1870,7 @@
 127.0.0.1 istbagcilr.com
 127.0.0.1 istekemlak.com.tr
 127.0.0.1 istepuleto.com
+127.0.0.1 itemist.com
 127.0.0.1 iuwniunver.site
 127.0.0.1 ivr.com.tr
 127.0.0.1 ivreprsident.tk
@@ -2006,11 +2015,14 @@
 127.0.0.1 kisses-room3.com
 127.0.0.1 kissmetrics.com
 127.0.0.1 kitap.brandeurs.ru
+127.0.0.1 kitap.live
+127.0.0.1 kitapbulindir.blogspot.com
 127.0.0.1 kitapci.ga
 127.0.0.1 kitapindir.gen.tr
 127.0.0.1 kitapindir.pw
 127.0.0.1 kitapindir.web.tr
 127.0.0.1 kitapindir.website
+127.0.0.1 kitapindirme.online
 127.0.0.1 kitaplar.ml
 127.0.0.1 kitaplar.rukomos.ru
 127.0.0.1 kitaplarpdfindir.com
@@ -2018,6 +2030,7 @@
 127.0.0.1 kitappdff.com
 127.0.0.1 kitappdffoku.com
 127.0.0.1 kitappdflerioku.org
+127.0.0.1 kitapucretsiz.com
 127.0.0.1 kizlarlasohbet.online
 127.0.0.1 klasfx27.com
 127.0.0.1 klasfx28.com
@@ -2371,6 +2384,7 @@
 127.0.0.1 moolahmedia.com
 127.0.0.1 mor-ankaraescortlarx-com.cdn.ampproject.org
 127.0.0.1 mor.ankaraescortlarx.com
+127.0.0.1 moradu.com
 127.0.0.1 morpheus.com.tr
 127.0.0.1 mostbet-az.com
 127.0.0.1 motto.com.tr
@@ -2561,6 +2575,7 @@
 127.0.0.1 onedmp.com
 127.0.0.1 onieruco.com
 127.0.0.1 onkologiabg.com
+127.0.0.1 onks2018.ch
 127.0.0.1 online-metrix.net
 127.0.0.1 onlinecyclecoaching.com
 127.0.0.1 onlinepluss.com
@@ -2672,11 +2687,13 @@
 127.0.0.1 pdfkitaparsivi.tk
 127.0.0.1 pdfkitaphanem.blogspot.com
 127.0.0.1 pdfkitapindirelim.net
+127.0.0.1 pdfkitapindirokuekitap.blogspot.com
 127.0.0.1 pdfkitaplariindir.wordpress.com
 127.0.0.1 pdfkitapligi.com
 127.0.0.1 pdfkitapokutr.com
 127.0.0.1 pdfkitapp.com
 127.0.0.1 pdfkitapsitesi.com
+127.0.0.1 pdfkutuphanesi.com
 127.0.0.1 pdfoku.net
 127.0.0.1 pdfwor.com
 127.0.0.1 pdmslrn.cf
@@ -2795,7 +2812,9 @@
 127.0.0.1 projeanaliz.com
 127.0.0.1 promiton.tech
 127.0.0.1 promo.eglencepte.com
+127.0.0.1 promosultan223.com
 127.0.0.1 promosultan278.com
+127.0.0.1 promosultan5.com
 127.0.0.1 promoviral.com
 127.0.0.1 pronetnakliyat.com.tr
 127.0.0.1 protecguvenlik.com.tr
@@ -2867,6 +2886,7 @@
 127.0.0.1 realist.gen.tr
 127.0.0.1 realistikbayi.live
 127.0.0.1 reallygoodlink.extremefreegames.com
+127.0.0.1 record.efesclubaffiliates.com
 127.0.0.1 recs.engageya.com
 127.0.0.1 redirect.privateadtracking.com
 127.0.0.1 redirector.gvt1.com
@@ -3050,6 +3070,7 @@
 127.0.0.1 sarinsaat.com.tr
 127.0.0.1 satilik.webprojemiz.com
 127.0.0.1 satilikevler.com
+127.0.0.1 satiliklar.net
 127.0.0.1 satiliksanat.com
 127.0.0.1 savaspark.com.tr
 127.0.0.1 savior.com.tr
@@ -3133,6 +3154,7 @@
 127.0.0.1 shahkara.com.tr
 127.0.0.1 shakesmobi.com
 127.0.0.1 sharkbayi.cf
+127.0.0.1 sheetnew.com
 127.0.0.1 shikshakhaber.com
 127.0.0.1 shootpower.com.tr
 127.0.0.1 shorteh.com
@@ -4500,6 +4522,7 @@
 127.0.0.1 www.bidserver.clickpapa.io
 127.0.0.1 www.bidstraff.com
 127.0.0.1 www.bigblackshark.info
+127.0.0.1 www.bildirim.eu
 127.0.0.1 www.bilgetarim.com
 127.0.0.1 www.bilgibahis.com
 127.0.0.1 www.bilink.xyz
@@ -4997,6 +5020,7 @@
 127.0.0.1 www.edgership-widscott.com
 127.0.0.1 www.edirneyuzme.com
 127.0.0.1 www.eeig.com.tr
+127.0.0.1 www.efesclubaffiliates.com
 127.0.0.1 www.effectivemeasure.net
 127.0.0.1 www.egesatizmir.com
 127.0.0.1 www.eglencepte.com
@@ -5009,6 +5033,7 @@
 127.0.0.1 www.ekinokstravel.com.tr
 127.0.0.1 www.ekitabix.club
 127.0.0.1 www.ekitapindirpdf.com
+127.0.0.1 www.ekitaplaroku.com
 127.0.0.1 www.ekli.net
 127.0.0.1 www.ekolfx5.com
 127.0.0.1 www.ekolfx6.com
@@ -5055,6 +5080,8 @@
 127.0.0.1 www.eokulegitim.com
 127.0.0.1 www.eotech-yoqblou5gqrdrn.netdna-ssl.com
 127.0.0.1 www.epdfkitapindir.com
+127.0.0.1 www.epdfkitapinndir.com
+127.0.0.1 www.epdfkitapp.com
 127.0.0.1 www.epoksizeminankara.com
 127.0.0.1 www.eptwulil.com
 127.0.0.1 www.eqads.com
@@ -5168,6 +5195,7 @@
 127.0.0.1 www.fkpres.com.tr
 127.0.0.1 www.flash.banners-service.info
 127.0.0.1 www.flashtalking.com
+127.0.0.1 www.flirtsexmeet.info
 127.0.0.1 www.flix360.com
 127.0.0.1 www.flixcar.com
 127.0.0.1 www.flixfacts.com
@@ -5186,10 +5214,12 @@
 127.0.0.1 www.fotos-paisajes.net
 127.0.0.1 www.foxpush.com
 127.0.0.1 www.fpsdbfo.paylasimnet.com
+127.0.0.1 www.free-girls-vids.com
 127.0.0.1 www.free.classicgift.download
 127.0.0.1 www.freegeoip.net
 127.0.0.1 www.freemacware.com
 127.0.0.1 www.fula.com.tr
+127.0.0.1 www.fullhdfilmsitesi.pw
 127.0.0.1 www.fullpdfkitapindir.com
 127.0.0.1 www.fungiers.com
 127.0.0.1 www.funnwebs.com
@@ -5539,6 +5569,7 @@
 127.0.0.1 www.istbagcilr.com
 127.0.0.1 www.istekemlak.com.tr
 127.0.0.1 www.istepuleto.com
+127.0.0.1 www.itemist.com
 127.0.0.1 www.iuwniunver.site
 127.0.0.1 www.ivr.com.tr
 127.0.0.1 www.ivreprsident.tk
@@ -5683,11 +5714,14 @@
 127.0.0.1 www.kisses-room3.com
 127.0.0.1 www.kissmetrics.com
 127.0.0.1 www.kitap.brandeurs.ru
+127.0.0.1 www.kitap.live
+127.0.0.1 www.kitapbulindir.blogspot.com
 127.0.0.1 www.kitapci.ga
 127.0.0.1 www.kitapindir.gen.tr
 127.0.0.1 www.kitapindir.pw
 127.0.0.1 www.kitapindir.web.tr
 127.0.0.1 www.kitapindir.website
+127.0.0.1 www.kitapindirme.online
 127.0.0.1 www.kitaplar.ml
 127.0.0.1 www.kitaplar.rukomos.ru
 127.0.0.1 www.kitaplarpdfindir.com
@@ -5695,6 +5729,7 @@
 127.0.0.1 www.kitappdff.com
 127.0.0.1 www.kitappdffoku.com
 127.0.0.1 www.kitappdflerioku.org
+127.0.0.1 www.kitapucretsiz.com
 127.0.0.1 www.kizlarlasohbet.online
 127.0.0.1 www.klasfx27.com
 127.0.0.1 www.klasfx28.com
@@ -6048,6 +6083,7 @@
 127.0.0.1 www.moolahmedia.com
 127.0.0.1 www.mor-ankaraescortlarx-com.cdn.ampproject.org
 127.0.0.1 www.mor.ankaraescortlarx.com
+127.0.0.1 www.moradu.com
 127.0.0.1 www.morpheus.com.tr
 127.0.0.1 www.mostbet-az.com
 127.0.0.1 www.motto.com.tr
@@ -6238,6 +6274,7 @@
 127.0.0.1 www.onedmp.com
 127.0.0.1 www.onieruco.com
 127.0.0.1 www.onkologiabg.com
+127.0.0.1 www.onks2018.ch
 127.0.0.1 www.online-metrix.net
 127.0.0.1 www.onlinecyclecoaching.com
 127.0.0.1 www.onlinepluss.com
@@ -6349,11 +6386,13 @@
 127.0.0.1 www.pdfkitaparsivi.tk
 127.0.0.1 www.pdfkitaphanem.blogspot.com
 127.0.0.1 www.pdfkitapindirelim.net
+127.0.0.1 www.pdfkitapindirokuekitap.blogspot.com
 127.0.0.1 www.pdfkitaplariindir.wordpress.com
 127.0.0.1 www.pdfkitapligi.com
 127.0.0.1 www.pdfkitapokutr.com
 127.0.0.1 www.pdfkitapp.com
 127.0.0.1 www.pdfkitapsitesi.com
+127.0.0.1 www.pdfkutuphanesi.com
 127.0.0.1 www.pdfoku.net
 127.0.0.1 www.pdfwor.com
 127.0.0.1 www.pdmslrn.cf
@@ -6472,7 +6511,9 @@
 127.0.0.1 www.projeanaliz.com
 127.0.0.1 www.promiton.tech
 127.0.0.1 www.promo.eglencepte.com
+127.0.0.1 www.promosultan223.com
 127.0.0.1 www.promosultan278.com
+127.0.0.1 www.promosultan5.com
 127.0.0.1 www.promoviral.com
 127.0.0.1 www.pronetnakliyat.com.tr
 127.0.0.1 www.protecguvenlik.com.tr
@@ -6544,6 +6585,7 @@
 127.0.0.1 www.realist.gen.tr
 127.0.0.1 www.realistikbayi.live
 127.0.0.1 www.reallygoodlink.extremefreegames.com
+127.0.0.1 www.record.efesclubaffiliates.com
 127.0.0.1 www.recs.engageya.com
 127.0.0.1 www.redirect.privateadtracking.com
 127.0.0.1 www.redirector.gvt1.com
@@ -6727,6 +6769,7 @@
 127.0.0.1 www.sarinsaat.com.tr
 127.0.0.1 www.satilik.webprojemiz.com
 127.0.0.1 www.satilikevler.com
+127.0.0.1 www.satiliklar.net
 127.0.0.1 www.satiliksanat.com
 127.0.0.1 www.savaspark.com.tr
 127.0.0.1 www.savior.com.tr
@@ -6810,6 +6853,7 @@
 127.0.0.1 www.shahkara.com.tr
 127.0.0.1 www.shakesmobi.com
 127.0.0.1 www.sharkbayi.cf
+127.0.0.1 www.sheetnew.com
 127.0.0.1 www.shikshakhaber.com
 127.0.0.1 www.shootpower.com.tr
 127.0.0.1 www.shorteh.com
@@ -7412,6 +7456,7 @@
 127.0.0.1 www.xsport.mobi
 127.0.0.1 www.xsports.mobi
 127.0.0.1 www.xtugsvl.tk
+127.0.0.1 www.xxccdshj.com
 127.0.0.1 www.xxxfilm-5.ru
 127.0.0.1 www.xyzliveads.com
 127.0.0.1 www.xyztanitim.com
@@ -7601,6 +7646,7 @@
 127.0.0.1 xsport.mobi
 127.0.0.1 xsports.mobi
 127.0.0.1 xtugsvl.tk
+127.0.0.1 xxccdshj.com
 127.0.0.1 xxxfilm-5.ru
 127.0.0.1 xyzliveads.com
 127.0.0.1 xyztanitim.com
