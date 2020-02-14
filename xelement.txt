@@ -1,7 +1,7 @@
 # Title: ❤nurcan❤ Türk element-ad-list
 # Format: Element Bloklist
-# Released: 01.02.2020
-# Entries: 1289
+# Released: 14.02.2020
+# Entries: 1354
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -12,8 +12,11 @@
 # Report an ad / contact: xorcan@yandex.com
 
 # xorcan/hosts başla #
+###adv-link
+###bet-kayan2
 ###iv-kayan
 ###ivr-bar
+###jopjvde12qo
 ###preRollVideoAd
 ###preRollVideoAdTimer
 ###videoreklam
@@ -23,6 +26,7 @@
 ###vrsalert
 ##.container.footerFixedAdWrapper
 ##.middle.ad
+##.midsites
 ##.rekivr1
 ##.rekivr2
 ##.reklam-t
@@ -326,6 +330,7 @@
 ##[href^="http://yon.ir/mUxSx"]
 ##[href^="http://yuridepalo85.files.wordpress.com"]
 ##[href^="http://yuridepalo85.wordpress.com"]
+##[href^="http://z.cdn.ftd.agency/go"]
 ##[href^="https://10dfjhvbdfhv.xyz"]
 ##[href^="https://4club.reisen/landing"]
 ##[href^="https://4club.reisen/policy"]
@@ -532,6 +537,7 @@
 ##[href^="https://yon.ir/mUxSx"]
 ##[href^="https://yuridepalo85.files.wordpress.com"]
 ##[href^="https://yuridepalo85.wordpress.com"]
+##[href^="https://z.cdn.ftd.agency/go"]
 ##[href^="instazero.com"]
 ##[href^="instazero.com/"]
 ##[href^="is.gd/vd4fv"]
@@ -839,10 +845,9 @@
 *turkanime*##.row > div.col-xs-6:nth-of-type(1)
 /*/*/wp-content/uploads/*/*vardh*.gif
 /*/*/wp-content/uploads/*/*yenivideoalt*.gif
-||*/wpsite-background-takeover/js/wpsite_clickable.js
-||*cdn.adreda.com/brda_trlk.js
-||*download-free.site*.js
 abcfilmizle.com##.body-clickable
+aradiginindir.blogspot.com##.linktl_flashad_wrap.linktl_flashad_reset
+bildirim.eu##*
 chaicdn.com*/3.gif$image
 dizibox.pw###adcblock
 dizibox.pw###PlayerBlock
@@ -868,15 +873,21 @@ filmkovani.com###fkqmbgvazoex
 filmkovani.com###lznjhydxqkbr
 filmkovani.com##[href^="https://bgel.ncmfck.com/"]
 filmw.org##.hoverZoomLink.loaded
+flirtsexmeet.info##*
+fullhdfilmsitesi.pw##*
 fullprogramlarindir.com​###yenidosya_indir
 hilelioyun.net##div.reklam-sag:nth-of-type(1)
 hilelioyun.net##div.reklam-sag:nth-of-type(2)
 hilelioyun.net##div.reklam-yatay:nth-of-type(1)
 incisozluk.com.tr###b-masthead
+itemist.com##*
 jetfilmizle.pw###reklamCodeiframe
+keepsaveit.com###one-banner
+keepsaveit.com##[href="https://keepchangeit.com/video-fast-motion"]
 ktun.edu.tr###loader
 lessmo.pro##.fix
 lessmo.pro##.main-content
+moradu.com##*
 morfilmizle.com###amans
 morfilmizle.com##[src="https://www.youtube.com/embed/UHb86zXgsG4"]
 pcgamer.site/*/*/images/background_video.mp4$media
@@ -893,6 +904,8 @@ rutracker.org###bn-top-right
 rutracker.org##[href^="go2.php"]
 seedpeer.me##.has-text-left.is-medium.is-warning.button
 seedpeer.me##.torrent-details-actions.is-one-third.column > p:nth-of-type(5)
+solidshare.net###baslik
+solidshare.net##div.main:nth-of-type(1)
 telegramchannels.me###btm-pr
 telegramchannels.me​###pr-a
 torrentdownload.ch##table.table2:nth-of-type(1) > tbody > tr:nth-of-type(4) > td
@@ -925,6 +938,7 @@ www.720pizleme.com##.footer-sticky
 www.doeda.com###video > center
 www.filmkovani.com###lznjhydxqkbr
 www.oyunkuzusu.com###video-oyun
+xxccdshj.com##*
 yabancidizi.org###PlayerBlock
 yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(1) > .extneed
 yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
@@ -955,6 +969,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*/*/rotahdr.gif$image
 ||*/*/sul-hdr.gif$image
 ||*/*/sul-vid.gif$image
+||*/*/v*/*dep_soccer*basketball*dizigag*.jpg
 ||*/*1xbet*.mp4$media
 ||*/*betasus*.mov$media
 ||*/*fenomen*.gif$image
@@ -977,11 +992,22 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*/pageskinlord150withouheader.jpg$image
 ||*/rotahdr_l7hurd.gif$image
 ||*/titanx.png$image
+||*/uploads/*/Obilet.jpg$image
 ||*/wp-content/*/*pornbg*.jpg$image
+||*/wp-content/uploads/*/*/*betebet*.gif$image
+||*/wp-content/uploads/*/*/*ego*.gif$image
+||*/wp-content/uploads/*/*/*lunabit*.gif$image
+||*/wp-content/uploads/*/*/*youwin*sports*.gif$image
 ||*/Wpdeo_Rise*/yatay.jpg$image
+||*/wpsite-background-takeover/js/wpsite_clickable.js
 ||*/yarak-banner.gif$image
+||*720p-izle.com/images/800_x_100.gif$image
+||*720p-izle.com/images/betorder.gif$image
+||*720p-izle.com/images/perabet.gif$image
+||*adnanahmad.digital/img/housunrise.jpg$image
 ||*adsimages/cpa/*indir*/*.gif$image
 ||*adsimages/cpc/*mesaj*/*.gif$image
+||*aynitap.com*^$popup
 ||*bahsegel*.gif$image
 ||*bahsegel*.jpeg$image
 ||*bahsegel*.jpg$image
@@ -989,11 +1015,18 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*basvformu*.onl*/*form*.php$subdocument
 ||*basvformu*.web*/*form*.php$subdocument
 ||*baysansliortaklik*.com/click.php$document
+||*bc.vc/cdbmyOk^$popup
+||*bc.vc/cGhm2wB^$popup
+||*bc.vc/hP8eoDT^$popup
+||*bc.vc/KRih7qs^$popup
+||*bc.vc/slLy3W2^$popup
 ||*bestacademicrecommendation*^$popup
 ||*betonbet*.gif
 ||*betonbet*.gif$image
 ||*betpas*.gif
 ||*betpas*.gif$image
+||*bgel.ncmfck.com*^$popup
+||*bildirim.eu*^$popup
 ||*blogspot.com/*/*/slotbar.gif
 ||*blok.link/*/*milf*.jpg$image
 ||*blok.link/*indir*.gif$image
@@ -1011,6 +1044,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*bruceleadx*.com/ck.php^$document
 ||*canliradyodinle-vip.cdn.ampproject.org*^$popup
 ||*canliradyodinle-vip.cdn.ampproject.org/c/s/canliradyodinle.vip*^$popup
+||*cdn.adreda.com/brda_trlk.js
 ||*cdn.blok.link/code/*milf*.gif
 ||*cdn.blok.link/code/*milf*.jpeg
 ||*cdn.blok.link/code/*milf*.jpg
@@ -1032,18 +1066,36 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*download-free.site*.*^
 ||*download-free.site*.*^$popup
 ||*download-free.site*.css
+||*download-free.site*.js
 ||*download-free.site*^$third-party
+||*drive.google.com/file/d/13RyhoGPMX7Utp1Elan121FBYjxhwo6iK*^$popup
+||*drive.google.com/file/d/16SwW4172ZFo6o_IgAJEzoEErmpnMdMNm*^$popup
+||*drive.google.com/file/d/1yUZqjSLEuJZyygLNslYP2bA7mxka4UlX*^$popup
+||*drive.google.com/open?id=13RyhoGPMX7Utp1Elan121FBYjxhwo6iK*^$popup
+||*drive.google.com/open?id=16SwW4172ZFo6o_IgAJEzoEErmpnMdMNm*^$popup
+||*drive.google.com/open?id=1yUZqjSLEuJZyygLNslYP2bA7mxka4UlX*^$popup
+||*efesclubaffiliates.com*^$popup
+||*ekitaplaroku.com*^$popup
+||*epdfkitapinndir.com*^$popup
+||*epdfkitapp.com*^$popup
 ||*fileru.net/*/assets/bg/mobile*.jpg$image
 ||*filmkovani.com/wp-content/*/sbhive2page.png$image
 ||*filmw.org*^$popup
 ||*filmyani.com/wp-content/uploads/*/*filmyani*.gif
+||*flirtsexmeet.info*^$popup
+||*free-girls-vids.com*^$popup
 ||*gplinks.in/img/ad*/DownloadNow*.gif^$image
 ||*greatdexchange*^$popup
 ||*hizliresim.com/jgE0Lr.jpg$image
+||*itemist.com*^$popup
 ||*jigolo*.jpg$image
 ||*keycdn.info*^$popup
 ||*keycdn.info/*.php
 ||*kisses-room1.com*^$popup
+||*kitap.live*^$popup
+||*kitapbulindir.blogspot.com*^$popup
+||*kitapindirme.online*^$popup
+||*kitapucretsiz.com*^$popup
 ||*lessmo.pro*^$popup
 ||*lessmo.pro/*.*
 ||*logtur*.*/98co35.mp4$media
@@ -1051,8 +1103,12 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*makronew*.gif$image
 ||*marsbahis*^$popup
 ||*marsbahisaffiliates*^$popup
+||*moradu.com*^$popup
 ||*my-privacy-protection*^$popup
+||*onks2018.ch*^$popup
 ||*pageskinlord*.jpg$image
+||*pdfkitapindirokuekitap.blogspot.com*^$popup
+||*pdfkutuphanesi.com*^$popup
 ||*perabet*.gif$image
 ||*peralarge*.gif$image
 ||*performit.*^$popup
@@ -1066,16 +1122,21 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*ppcnt*^$popup
 ||*premiumdownload.icu*^$popup
 ||*promosultan*.*^$popup
+||*promosultan223.com*^$popup
 ||*promosultan3.com*^$popup
+||*promosultan5.com*^$popup
 ||*pushworldtool.com*^$popup
 ||*realpush.media^$third-party
+||*record.efesclubaffiliates.com*^$popup
 ||*record.efesclubaffiliates.com/*
 ||*rlink.xyz*.jpg$image
 ||*rotahdr*.gif$image
 ||*rutrk.org/*/*_01.gif^$image
 ||*safbc.com/videos/*.mp4$media
+||*satiliklar.net*^$popup
 ||*sekahdr*.gif$image
 ||*seks4.com*/*.gif$image
+||*sheetnew.com*^$popup
 ||*sohbethattin*.*/cevmor/*/*.gif
 ||*sohbethattin*.*/cevmor/*/*.jpeg
 ||*sohbethattin*.*/cevmor/*/*.jpg
@@ -1095,6 +1156,10 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*wlfenomenbet*^$popup
 ||*wlpronet*^$popup
 ||*wlsuperbahis.adsrv.eacdn.com/C.ashx$popup,subdocument
+||*xxccdshj.com*^$popup
+||*yadi.sk/d/D96P_3No544yig*^$popup
+||*yadi.sk/d/E3TEa8IPoHNhSg*^$popup
+||*yadi.sk/d/KHluAXD69MdKsg*^$popup
 ||*yarak-banner*.gif$image
 ||*your-bestsex-here1*^$popup
 ||/*betonbet*.gif$image
