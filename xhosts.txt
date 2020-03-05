@@ -1,13 +1,13 @@
 # Title: ❤nurcan❤ Türk ad-list
 # Format: Hosts
-# Released: 14.02.2020
-# Entries: 7778
+# Released: 05.03.2020
+# Entries: 7777
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
 # License: https://raw.githubusercontent.com/xorcan/hosts/master/LICENSE
 
-# Copyright 2019 xorcan
+# Copyright 2020 xorcan
 # Reklam bildirimi / iletişim: xorcan@yandex.com
 # Report an ad / contact: xorcan@yandex.com
 
@@ -2768,7 +2768,6 @@
 127.0.0.1 pmelon.com
 127.0.0.1 pomada.org
 127.0.0.1 ponylo.freesite.host
-127.0.0.1 pool.ntp.org
 127.0.0.1 popads.net
 127.0.0.1 popcash.net
 127.0.0.1 popcent.net
