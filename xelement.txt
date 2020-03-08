@@ -1,15 +1,15 @@
 # Title: ❤nurcan❤ Türk element-ad-list
 # Format: Element Bloklist
-# Released: 14.02.2020
-# Entries: 1354
+# Released: 08.03.2020
+# Entries: 1369
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
 # License: https://raw.githubusercontent.com/xorcan/hosts/master/LICENSE
 
 # Copyright 2019 xorcan
-# Reklam bildirimi / iletişim: xorcan@yandex.com
-# Report an ad / contact: xorcan@yandex.com
+# Reklam bildirimi / iletişim: xorcan@protonmail.com
+# Report an ad / contact: xorcan@protonmail.com
 
 # xorcan/hosts başla #
 ###adv-link
@@ -36,6 +36,7 @@
 ##.reklamblur2
 ##.reklamblur3
 ##.ss-ic.s_stk
+##[href="http://www.doeda.com/zero/"]
 ##[href^="10dfjhvbdfhv.xyz"]
 ##[href^="4club.reisen/landing"]
 ##[href^="4club.reisen/policy"]
@@ -847,6 +848,8 @@
 /*/*/wp-content/uploads/*/*yenivideoalt*.gif
 abcfilmizle.com##.body-clickable
 aradiginindir.blogspot.com##.linktl_flashad_wrap.linktl_flashad_reset
+archive.is##.body > div:nth-of-type(2)
+bcvc.live##[href^="https://rdr3.xyz/tig.php"]
 bildirim.eu##*
 chaicdn.com*/3.gif$image
 dizibox.pw###adcblock
@@ -857,6 +860,7 @@ dizilab.pw##.previd-link
 dizilla.com##a.block:nth-of-type(1)
 dizilla.com##a.block:nth-of-type(2)
 dizipub1.net###pubxvideox
+drive.gsb.gov.tr##.cerezPolitikasiDiv.show.fade.alert-elevate.alert-light.alert
 eksisozluk.com###netflix-ad-container
 eksisozluk.com###open-ad-tab
 eksisozluk.com##.ads-trendyol.anim-text-flow
@@ -1188,6 +1192,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||bayan06.com*^$popup
 ||baysansliortaklik.com*^$popup
 ||bc.vc/WRrYdnR*^$popup
+||bcvc.live/dist/img/b*g$image
 ||ben-nazli.gif
 ||betbaba43.com*^$popup
 ||betvole362.com*^$popup
@@ -1204,6 +1209,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||canlialem.com*^$popup
 ||canlitv.news/img/plarka.jpg$image
 ||cdn*.turkakisi.com/content/stream/*bet/*Meltur*/Meltur*.mp4$media
+||cdn.taboola.com*^$popup
 ||cdn11.online/ivr.php^$document
 ||cdnrefpa*/*AdAgent*/*.gif$image
 ||chaicdn.com*/1.gif$image
@@ -1223,6 +1229,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||filmyani.com*^$popup
 ||findfavour.com^
 ||firstsexmeet.info*^$popup
+||flirtsexmeet.info*^popup
 ||flmallplayer.*/*sultan*bet*.mp4$media
 ||flmallplayer.*/*sultanbet*.mp4$media
 ||freemacware.com
@@ -1316,6 +1323,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||popcent.net*^$popup
 ||popcent.org*^$popup
 ||pornfilmsex.com/*.gif$image
+||portbet.net*^popup
 ||ppcnt.net*^$popup
 ||predictiondexchange.com*^$popup
 ||press-here-to-continue.com*^$popup
@@ -1333,10 +1341,12 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||st.fl.ru/images/banners/*_1.png
 ||st.fl.ru/images/banners/*_2.png
 ||supermesaj.tv*^$popup
+||taboola.com*^$popup
 ||technopat*/wp-content/uploads/*/*/*technopat*siteskin*.jpg$image
 ||telreh.com*^$popup
 ||tr.link/GbeG*^$popup
 ||track.special-promotions.online*^$popup
+||tutusapp.com*^popup
 ||ucbetting.com*^$popup
 ||ultrabet113.com*^$popup
 ||ultrabet120.com*^$popup
@@ -1351,7 +1361,9 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||www.bit.ly/38tqwJT*^$popup
 ||www.buywanted.com*^$popup
 ||www.canlialem.com*^$popup
+||www.cdn.taboola.com*^$popup
 ||www.filmfiz.com*^$popup
+||www.flirtsexmeet.info*^popup
 ||www.hendico.com*^$popup
 ||www.instazero.com*^$popup
 ||www.kamuevlilik.com*^$popup
@@ -1361,7 +1373,10 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||www.oneagleswingsnorth.com*^$popup
 ||www.onlinecyclecoaching.com*^$popup
 ||www.pdfindiroku.xyz*^$popup
+||www.portbet.net*^popup
 ||www.promosultan278.com*^$popup
+||www.taboola.com*^$popup
+||www.tutusapp.com*^popup
 ||www.ucbetting.com*^$popup
 ||www.ultrabet113.com*^$popup
 ||www.ultrabet120.com*^$popup
