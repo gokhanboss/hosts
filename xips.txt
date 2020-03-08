@@ -1,6 +1,6 @@
 # Title: ❤nurcan❤ Türk ip-list
 # Format: IP List
-# Released: 01.02.2020
+# Released: 08.03.2020
 # Entries: 15
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
@@ -8,8 +8,8 @@
 # License: https://raw.githubusercontent.com/xorcan/hosts/master/LICENSE
 
 # Copyright 2019 xorcan
-# Reklam bildirimi / iletişim: xorcan@yandex.com
-# Report an ad / contact: xorcan@yandex.com
+# Reklam bildirimi / iletişim: xorcan@protonmail.com
+# Report an ad / contact: xorcan@protonmail.com
 
 # xorcan/hosts başla #
 109.73.75.29
