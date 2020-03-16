@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 # Title: ❤nurcan❤ Türk ad-list
 # Format: Hosts
 # Released: 08.03.2020
