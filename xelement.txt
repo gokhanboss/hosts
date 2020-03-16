@@ -1,7 +1,8 @@
+[Adblock Plus 2.0]
 # Title: ❤nurcan❤ Türk element-ad-list
 # Format: Element Bloklist
 # Released: 08.03.2020
-# Entries: 1369
+# Entries: 1370
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -12,6 +13,7 @@
 # Report an ad / contact: xorcan@protonmail.com
 
 # xorcan/hosts başla #
+||adbetnetwork.com$subdocument
 ###adv-link
 ###bet-kayan2
 ###iv-kayan
