@@ -2,7 +2,7 @@
 name: yanlış engelleme
 about: gerekli birşeyler mi engellenmiş?
 title: "**buraya alan adını yaz**"
-labels: ''
+labels: yanlış engel
 assignees: ''
 
 ---
