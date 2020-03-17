@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-# Title: ❤nurcan❤ Türk element-ad-list
+# Title: nurcan Türk element-ad-list
 # Format: Element Bloklist
 # Released: 08.03.2020
 # Entries: 1370
