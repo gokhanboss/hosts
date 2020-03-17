@@ -1,7 +1,7 @@
 ---
 name: reklam bildir
 about: bildir ki engelleyelim
-title: ''
+title: "**buraya alan adını yaz**"
 labels: engellenmemiş
 assignees: ''
 
