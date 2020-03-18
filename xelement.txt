@@ -1,4 +1,3 @@
-[Adblock Plus 2.0]
 # Title: nurcan Türk element-ad-list
 # Format: Element Bloklist
 # Released: 17.03.2020
