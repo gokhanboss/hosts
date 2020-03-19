@@ -1,7 +1,7 @@
 # Title: nurcan Türk element-ad-list
 # Format: Element Bloklist
-# Released: 17.03.2020
-# Entries: 1371
+# Released: 19.03.2020
+# Entries: 1407
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -12,8 +12,6 @@
 # Report an ad / contact: xorcan@protonmail.com
 
 # xorcan/hosts başla #
-||vizyonfilmizle.tv/bet*.jpg$image
-||adbetnetwork.com$subdocument
 ###adv-link
 ###bet-kayan2
 ###iv-kayan
@@ -21,12 +19,14 @@
 ###jopjvde12qo
 ###preRollVideoAd
 ###preRollVideoAdTimer
+###reklamCodeiframe
 ###videoreklam
 ###vrs-Alert
 ###vrs-alert
 ###vrsAlert
 ###vrsalert
 ##.container.footerFixedAdWrapper
+##.hrknReklam
 ##.middle.ad
 ##.midsites
 ##.rekivr1
@@ -277,6 +277,9 @@
 ##[href^="http://tr.link/29LRD"]
 ##[href^="http://tr.link/99ba"]
 ##[href^="http://tracker-pm2.rioaffiliates.com"]
+##[href^="http://trendbet42.com"]
+##[href^="http://trendbet42.com/"]
+##[href^="http://trendbet42.com/#/"]
 ##[href^="http://ultrabet113.com"]
 ##[href^="http://ultrabet113.com/"]
 ##[href^="http://ultrabet113.com/#"]
@@ -289,6 +292,9 @@
 ##[href^="http://wlthebetend.adsrv.eacdn.com"]
 ##[href^="http://wlthebetend.adsrv.eacdn.com/"]
 ##[href^="http://wlthebetend.adsrv.eacdn.com/C.ashx​?"]
+##[href^="http://www.akbet60.com"
+##[href^="http://www.akbet60.com/"]
+##[href^="http://www.akbet60.com/affiliates/"]
 ##[href^="http://www.baysansli14.com"]
 ##[href^="http://www.baysansliortaklik.com"]
 ##[href^="http://www.baysansliortaklik.com/"]
@@ -319,6 +325,8 @@
 ##[href^="http://www.rotabetlink.com"]
 ##[href^="http://www.rotabetlink.com/yd-hdr"]
 ##[href^="http://www.rotabetlink.com/yd-va"]
+##[href^="http://www.trendbet42.com"]
+##[href^="http://www.trendbet42.com/"]
 ##[href^="http://www.ultrabet113.com"]
 ##[href^="http://www.ultrabet113.com/"]
 ##[href^="http://www.ultrabet113.com/#"]
@@ -484,6 +492,9 @@
 ##[href^="https://tr.link/29LRD"]
 ##[href^="https://tr.link/99ba"]
 ##[href^="https://tracker-pm2.rioaffiliates.com"]
+##[href^="https://trendbet42.com"]
+##[href^="https://trendbet42.com/"]
+##[href^="https://trendbet42.com/#/"]
 ##[href^="https://ultrabet113.com"]
 ##[href^="https://ultrabet113.com/"]
 ##[href^="https://ultrabet113.com/#"]
@@ -496,6 +507,9 @@
 ##[href^="https://wlthebetend.adsrv.eacdn.com"]
 ##[href^="https://wlthebetend.adsrv.eacdn.com/"]
 ##[href^="https://wlthebetend.adsrv.eacdn.com/C.ashx​?"]
+##[href^="https://www.akbet60.com"]
+##[href^="https://www.akbet60.com/"]
+##[href^="https://www.akbet60.com/affiliates/"]
 ##[href^="https://www.baysansli14.com"]
 ##[href^="https://www.baysansliortaklik.com"]
 ##[href^="https://www.baysansliortaklik.com/"]
@@ -526,6 +540,8 @@
 ##[href^="https://www.rotabetlink.com"]
 ##[href^="https://www.rotabetlink.com/yd-hdr"]
 ##[href^="https://www.rotabetlink.com/yd-va"]
+##[href^="https://www.trendbet42.com"]
+##[href^="https://www.trendbet42.com/"]
 ##[href^="https://www.ultrabet113.com"]
 ##[href^="https://www.ultrabet113.com/"]
 ##[href^="https://www.ultrabet113.com/#"]
@@ -760,6 +776,9 @@
 ##[href^="tr.link/99ba"]
 ##[href^="tr.link/GbeG"]
 ##[href^="tracker-pm2.rioaffiliates.com"]
+##[href^="trendbet42.com"]
+##[href^="trendbet42.com/"]
+##[href^="trendbet42.com/#/"]
 ##[href^="ultrabet113.com"]
 ##[href^="ultrabet113.com/"]
 ##[href^="ultrabet113.com/#"]
@@ -772,6 +791,10 @@
 ##[href^="wlthebetend.adsrv.eacdn.com"]
 ##[href^="wlthebetend.adsrv.eacdn.com/"]
 ##[href^="wlthebetend.adsrv.eacdn.com/C.ashx​?"]
+##[href^="www.akbet60.com"
+##[href^="www.akbet60.com"]
+##[href^="www.akbet60.com/"]
+##[href^="www.akbet60.com/affiliates/"]
 ##[href^="www.baysansli14.com"]
 ##[href^="www.baysansliortaklik.com"]
 ##[href^="www.baysansliortaklik.com/"]
@@ -802,6 +825,8 @@
 ##[href^="www.rotabetlink.com"]
 ##[href^="www.rotabetlink.com/yd-hdr"]
 ##[href^="www.rotabetlink.com/yd-va"]
+##[href^="www.trendbet42.com"]
+##[href^="www.trendbet42.com/"]
 ##[href^="www.ultrabet113.com"]
 ##[href^="www.ultrabet113.com/"]
 ##[href^="www.ultrabet113.com/#"]
@@ -1190,6 +1215,8 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||5posta.org
 ||abcfilmizle.com/wp-content/uploads/*/*/*Buton*.gif$image
 ||abcfilmizle.com/wp-content/uploads/*/*/*pageskin*.jpg
+||adbetnetwork.com$subdocument
+||akbet60.com*^$popup
 ||bayan0*.com*^$popup
 ||bayan06.com*^$popup
 ||baysansliortaklik.com*^$popup
@@ -1202,6 +1229,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||bgel.ncmfck.com*^$popup
 ||bit.ly/2Ctslt0*^$popup
 ||bit.ly/2QmI8BT*^$popup
+||bit.ly/30EfEGr^$popup
 ||bit.ly/38tqwJT*^$popup
 ||bit.ly/3avkmun*^$popup
 ||blok.link*^$popup
@@ -1211,6 +1239,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||canlialem.com*^$popup
 ||canlitv.news/img/plarka.jpg$image
 ||cdn*.turkakisi.com/content/stream/*bet/*Meltur*/Meltur*.mp4$media
+||cdn.advg.agency/static/offer/*/banners/*/*.jpg$image
 ||cdn.taboola.com*^$popup
 ||cdn11.online/ivr.php^$document
 ||cdnrefpa*/*AdAgent*/*.gif$image
@@ -1223,6 +1252,8 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||dizimag*/insert/*/spacer.gif$image
 ||dizipub*/*pageskin_template.jpg$image
 ||dizipub*/*x*.gif$image
+||dizizle.xyz/akbet.gif$image
+||dizizle.xyz/yen1.gif$image
 ||dnslytics.com/images/ads/*.gif^$image
 ||doeda.com/wp-content/*/*/*image*/*loading*.gif$image
 ||eviewporn*/milf-min.png$image
@@ -1241,6 +1272,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||hendico.com*^$popup
 ||http://baysansliortaklik.com*^$popup
 ||http://betvole362.com*^$popup
+||http://bit.ly/30EfEGr^$popup
 ||http://bit.ly/38tqwJT*^$popup
 ||http://buywanted.com*^$popup
 ||http://canlialem.com*^$popup
@@ -1271,6 +1303,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||https://arabeni.rlink.live/assets/images/bg.jpg$image
 ||https://baysansliortaklik.com*^$popup
 ||https://betvole362.com*^$popup
+||https://bit.ly/30EfEGr^$popup
 ||https://bit.ly/38tqwJT*^$popup
 ||https://buywanted.com*^$popup
 ||https://canlialem.com*^$popup
@@ -1337,6 +1370,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||rublacklist.net/images/rutracker_image.png$image
 ||rutrk.org/iframe/kwork-1.html$subdocument
 ||secondlife.com*^$popup
+||setfilmizle.vip/video_onu_yeni.php$subdocument
 ||slideff.com^$document
 ||slideff.com^$popup
 ||sohbetara69.xyz*^$popup
@@ -1348,12 +1382,14 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||telreh.com*^$popup
 ||tr.link/GbeG*^$popup
 ||track.special-promotions.online*^$popup
+||trendbet42.com*^$popup
 ||tutusapp.com*^popup
 ||ucbetting.com*^$popup
 ||ultrabet113.com*^$popup
 ||ultrabet120.com*^$popup
 ||uludagsozluk.com/theme/resy/widget/sponsor2.php$subdocument
 ||vardh.com/*/*uploads*/*/*/vardh.gif^$image
+||vizyonfilmizle.tv/bet*.jpg$image
 ||whatsapp.rlink.live*^$popup
 ||whatsappsohbet.top*^$popup
 ||www.baysansliortaklik.com*^$popup
