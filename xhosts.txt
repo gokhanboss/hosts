@@ -1,7 +1,7 @@
 # Title: nurcan Türk ad-list
 # Format: Hosts
 # Released: 31.03.2020
-# Entries: 7795
+# Entries: 7799
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -786,6 +786,7 @@
 127.0.0.1 betkanyon100.com
 127.0.0.1 betmatik553.com
 127.0.0.1 betokont.com.tr
+127.0.0.1 betonbetaffiliates.com
 127.0.0.1 betpas278.com
 127.0.0.1 betpot5.com
 127.0.0.1 betticket.biz
@@ -1598,6 +1599,7 @@
 127.0.0.1 gkmforex4.com
 127.0.0.1 global.appnext.com
 127.0.0.1 global.msads.net
+127.0.0.1 gndrglsn.com
 127.0.0.1 go-mpulse.net
 127.0.0.1 go.admost.com
 127.0.0.1 go.coolthingstofind.xyz
@@ -4499,6 +4501,7 @@
 127.0.0.1 www.betkanyon100.com
 127.0.0.1 www.betmatik553.com
 127.0.0.1 www.betokont.com.tr
+127.0.0.1 www.betonbetaffiliates.com
 127.0.0.1 www.betpas278.com
 127.0.0.1 www.betpot5.com
 127.0.0.1 www.betticket.biz
@@ -5308,6 +5311,7 @@
 127.0.0.1 www.gkmforex4.com
 127.0.0.1 www.global.appnext.com
 127.0.0.1 www.global.msads.net
+127.0.0.1 www.gndrglsn.com
 127.0.0.1 www.go-mpulse.net
 127.0.0.1 www.go.admost.com
 127.0.0.1 www.go.coolthingstofind.xyz
