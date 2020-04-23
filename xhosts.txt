@@ -1,6 +1,6 @@
 # Title: nurcan Türk ad-list
 # Format: Hosts
-# Released: 20.04.2020
+# Released: 23.04.2020
 # Entries: 7832
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
