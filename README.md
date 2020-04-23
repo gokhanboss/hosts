@@ -61,7 +61,7 @@ Ardından sanki Chrome tarayıcınıza yüklüyormuş gibi şuradan "Opera'ya ek
 
 ## Android için Seçenekler
 
-Ücretsiz yazılımlar genelde hosts seviyesinde reklam engelleyebilmekte ve çoğu zaman uygulamalarda reklamları engelleyememektedir. Android için [şuraya](https://telegra.ph/t%C3%BCrk-reklamlar%C4%B1-engellemek-04-05) bakmanızı öneririm birisi güzel anlatmış: 
+Ücretsiz yazılımlar genelde hosts seviyesinde reklam engelleyebilmekte ve çoğu zaman uygulamalarda reklamları engelleyememektedir. Android için [şuraya](https://telegra.ph/t%C3%BCrk-reklamlar%C4%B1-engellemek-04-05) bakmanızı öneririm.
 
 ### Android için AdGuard (ÜCRETLİ)
 Android için AdGuard yazılımı bu konuda en iyisi denilebilir. Ücretli (Premium) sürümde birçok filtre kullanma imkanı size sunuyor ve daha gelişmiş bir reklam engelleme teknolojisi kullanıyor. Dediğim gibi bu uygulama ücretlidir ve [Google reklam politikalarının işine gelmedeği için Google Play'den kaldırılmıştır](https://blog.adguard.com/en/google-removes-adguard-android-app-google-play/).
