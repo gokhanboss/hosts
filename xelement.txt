@@ -1,7 +1,7 @@
 # Title: nurcan Türk element-ad-list
 # Format: Element Bloklist
-# Released: 12.04.2020
-# Entries: 2633
+# Released: 23.04.2020
+# Entries: 2697
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -12,6 +12,7 @@
 # Report an ad / contact: xorcan@protonmail.com
 
 # xorcan/hosts başla #
+
 ###adContentWrapper
 ###adv-link
 ###bet-kayan2
@@ -45,6 +46,7 @@
 ##.headreklam
 ##.hide-mobile > .adsbygoogle
 ##.hrknReklam
+##.m-b-10.ad_300x250
 ##.middle.ad
 ##.midsites
 ##.once-reklam
@@ -99,6 +101,7 @@
 ##[href="https://gndrglsn.com/"]
 ##[href="https://ncmfck.com"]
 ##[href="https://ncmfck.com/"]
+##[href="https://rebrand.ly/9be06"]
 ##[href="https://tanisma.supermesaj.tv/"]
 ##[href="https://www.ardream.world"]
 ##[href="https://www.betonbetaffiliates.com"]
@@ -1622,17 +1625,32 @@
 ##[href^="yuridepalo85.files.wordpress.com"]
 ##[href^="yuridepalo85.wordpress.com"]
 ##[src="35.224.227.218"]
+##[src="bahisbeluga5.com/"]
+##[src="bahisbeluga5.com/BELUGA.jpg"]
+##[src="booksurfers.co.uk"]
 ##[src="http://35.224.227.218"]
+##[src="http://bahisbeluga5.com/"]
+##[src="http://bahisbeluga5.com/BELUGA.jpg"]
 ##[src="http://bformu4.tk"]
 ##[src="http://bformu4.tk/form.php"]
+##[src="http://booksurfers.co.uk"]
 ##[src="http://melban3.top/"]
+##[src="http://telegramchannels.me/gopr/57"]
+##[src="http://www.booksurfers.co.uk"]
 ##[src="https://35.224.227.218"]
+##[src="https://bahisbeluga5.com/"]
+##[src="https://bahisbeluga5.com/BELUGA.jpg"]
 ##[src="https://bformu4.tk"]
 ##[src="https://bformu4.tk/form.php"]
+##[src="https://booksurfers.co.uk"]
 ##[src="https://fileru-net.cdn.ampproject.org/i/s/fileru.net/img/ak7.gif"]
 ##[src="https://fileru-net.cdn.ampproject.org/i/s/fileru.net/img/redyan.gif"]
 ##[src="https://melban3.top/"]
+##[src="https://telegramchannels.me/gopr/57"]
+##[src="https://www.booksurfers.co.uk"]
 ##[src="my-privacy-protection.com"]
+##[src="telegramchannels.me/gopr/57"]
+##[src="www.booksurfers.co.uk"]
 ##center:nth-of-type(1) > .adsbygoogle
 ##center:nth-of-type(2) > .adsbygoogle
 ##div > center > .adsbygoogle
@@ -1669,6 +1687,7 @@
 */*/*vardh*/wp-content/*/*/*/*yenivideoalt*.gif
 */fileru.net/video_onu/*/dizilla-desktop.*
 *ampproject.org###iOssi
+*bahis*.com/BELUGA.jpg^$image
 *doeda*.cdn.ampproject.org​##.e_1637951423
 *file-up.org###boxes
 *mrunlock.kim​##[href="/lorem2/xyy/"]
@@ -1689,6 +1708,8 @@
 320volt.com##div.spp:nth-of-type(3) > .adsbygoogle
 720pizle.org##.a950.golge.oval
 720pizle.org##body > iframe
+@@||s1.filmmodu.org/uploads/movie/*
+@@||s1.filmmodu.org/uploads/user/*
 abcfilmizle.com##.body-clickable
 aradiginindir.blogspot.com##.linktl_flashad_wrap.linktl_flashad_reset
 archive.is##.body > div:nth-of-type(2)
@@ -1764,6 +1785,8 @@ blogspot.com##center:nth-of-type(6) > a#yenidosya_indir:nth-of-type(9)
 blogspot.com##center:nth-of-type(7) > .adsbygoogle
 blogspot.com##center:nth-of-type(8) > .adsbygoogle
 blogspot.com##center:nth-of-type(9) > .adsbygoogle
+booksurfers.co.uk##.waves-light.waves-effect.btn-danger.font-weight-bold.btn-lg.btn
+booksurfers.co.uk##.waves-light.waves-effect.btn-primary.font-weight-bold.btn-lg.btn
 cdn.ampproject.org##div.top5.z-indx.col-xs-12:nth-of-type(1) > .ara-banner
 cdn.ampproject.org##div.top5.z-indx.col-xs-12:nth-of-type(10) > .ara-banner
 cdn.ampproject.org##div.top5.z-indx.col-xs-12:nth-of-type(11) > .ara-banner
@@ -1785,6 +1808,7 @@ cdn.ampproject.org##div.top5.z-indx.col-xs-12:nth-of-type(7) > .ara-banner
 cdn.ampproject.org##div.top5.z-indx.col-xs-12:nth-of-type(8) > .ara-banner
 cdn.ampproject.org##div.top5.z-indx.col-xs-12:nth-of-type(9) > .ara-banner
 chaicdn.com*/3.gif$image
+comss.ru##div > .adsbygoogle
 dizibox.pw###adcblock
 dizibox.pw###PlayerBlock
 dizibox.pw###video-area-div
@@ -1792,6 +1816,7 @@ dizibox.pw##.skip_button_volume
 dizilab.pw##.previd-link
 dizilla.com##a.block:nth-of-type(1)
 dizilla.com##a.block:nth-of-type(2)
+dizimag.cc#@#body:style(background-image: none!important;)
 dizipub1.net###pubxvideox
 drive.gsb.gov.tr##.cerezPolitikasiDiv.show.fade.alert-elevate.alert-light.alert
 edebiyatkitabi.com###overflow-container
@@ -1819,6 +1844,7 @@ fullprogramlarindir.com​###yenidosya_indir
 hilelioyun.net##div.reklam-sag:nth-of-type(1)
 hilelioyun.net##div.reklam-sag:nth-of-type(2)
 hilelioyun.net##div.reklam-yatay:nth-of-type(1)
+https://telegramchannels.me/storage/prs/N227TgUMCdzzJhsm.svg^$image
 incisozluk.com.tr###b-masthead
 iskysoft.com###POYTY
 itemist.com##*
@@ -1838,6 +1864,8 @@ pcgamer.site/*/*/images/background_video.mp4$media
 pdfkitapp.com##.swal2-in.swal2-fade.swal2-container
 porn-desip-org.cdn.ampproject.org##.marquee
 porn-desip-org.cdn.ampproject.org##.marquee-outer
+rakip1.tv##.m-b-10.ad_300x250
+rakip1.tv##[href="https://rebrand.ly/9be06"]
 realfilmizle.net###footer
 rlink.live##.clearfix.profiles-listing
 rlink.live##.site-wrap
@@ -1847,6 +1875,7 @@ rutracker.net##[href^="go2.php"]
 rutracker.org###bn-top-block
 rutracker.org###bn-top-right
 rutracker.org##[href^="go2.php"]
+rutracker.org##[src="https://rutracker.appspot.com/iframe/sape-appspot-240x400-gen.html"]
 seedpeer.me##.has-text-left.is-medium.is-warning.button
 seedpeer.me##.torrent-details-actions.is-one-third.column > p:nth-of-type(5)
 sexfindyou25.com##.wrapper
@@ -1873,6 +1902,7 @@ torrentz2.is##.xpressa
 torrentz2.is##[href="/lorem2/xy/"]
 tr.link##.sweet-overlay
 tr.link##.visible.showSweetAlert.sweet-alert
+turkanime.net##div.col-xs-6:nth-of-type(2)
 unikampus.net##.jgcabd-container
 uploadrar.com##.btn-primary.btn
 uploadrar.com##.lastnews
@@ -1882,9 +1912,11 @@ webtekno.com##.hide-mobile > .adsbygoogle
 webtekno.com##.wt-masthead__horizontal
 wondershare.com###wsc-plugin-seasonal
 www.720pizleme.com##.footer-sticky
+www.comss.ru##div > .adsbygoogle
 www.doeda.com###video > center
 www.filmkovani.com###lznjhydxqkbr
 www.oyunkuzusu.com###video-oyun
+www.webtekno.com##.hide-mobile > .adsbygoogle
 xxccdshj.com##*
 yabancidizi.org###PlayerBlock
 yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(1) > .extneed
@@ -2172,6 +2204,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||/*video*onu*/*/*gencobahis*.mp4$media
 ||/*video*onu*/*/*sultan*bet*.mp4$media
 ||/*video*onu*/*/*sultanbet*.mp4$media
+||1.black-snake-oil.info​*^$popup
 ||35.194.16.41*^$popup
 ||35.224.227.218*^$popup
 ||3b66.veriprtroutg.com*^$popup
@@ -2186,6 +2219,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||akbet60.com*^$popup
 ||b.findyourpleasure1.life/^$popup
 ||b.findyourpleasure1.life^$popup
+||bahisbeluga5.com*^$popup
 ||bayan0*.com*^$popup
 ||bayan06.com*^$popup
 ||baysansliortaklik.com*^$popup
@@ -2201,7 +2235,9 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||bit.ly/30EfEGr^$popup
 ||bit.ly/38tqwJT*^$popup
 ||bit.ly/3avkmun*^$popup
+||black-snake-oil.info​*^$popup
 ||blok.link*^$popup
+||booksurfers.co.uk*^$popup
 ||booksurfers.co.uk/^$popup
 ||booksurfers.co.uk^$popup
 ||bruceleadx2.com*^$popup
@@ -2237,6 +2273,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||duerkopellyana85.files.wordpress.com^$popup
 ||duerkopellyana85.wordpress.com/^$popup
 ||duerkopellyana85.wordpress.com^$popup
+||e-kredim.org/wp-content/uploads/rek/*
 ||edebiyatkitabi.com/^$popup
 ||edebiyatkitabi.com^$popup
 ||ekitap-indir.net/^$popup
@@ -2248,6 +2285,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||fileru-net.cdn.ampproject.org/i/s/fileru.net/img/redyan.gif$image
 ||fileru.net/*video*onu*/poster/*.png^$image
 ||filmfiz.com*^$popup
+||filmilla.com*^$popup
 ||filmyani.com*^$popup
 ||findfavour.com^
 ||findyourpleasure1.life/^$popup
@@ -2257,8 +2295,12 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||flmallplayer.*/*sultan*bet*.mp4$media
 ||flmallplayer.*/*sultanbet*.mp4$media
 ||freemacware.com
+||fullizlet.com*^$popup
 ||go2linkfast.com*^$popup
 ||gplinks.in/advertising/campaign.php^$document
+||guvenlifilmizle.com*^$popup
+||hddiziport.com*^$popup
+||hdfilmizle.pw/uploads/rek/*
 ||hdmobilizle.com*^$popup
 ||hendico.com*^$popup
 ||http://affibtm.com/^$popup
@@ -2291,6 +2333,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||http://filmyani.com*^$popup
 ||http://findyourpleasure1.life/^$popup
 ||http://findyourpleasure1.life^$popup
+||http://hddiziport.com*^$popup
 ||http://hendico.com*^$popup
 ||http://i.findyourpleasure1.life/^$popup
 ||http://i.findyourpleasure1.life^$popup
@@ -2311,7 +2354,9 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||http://kisalink.xyz/i^$popup
 ||http://kisalink.xyz^$popup
 ||http://kralfilm.com*^$popup
+||http://krsk-kvest.ru*^$popup
 ||http://mobil-izle.xyz*^$popup
+||http://nigthyoustr10.live*^$popup
 ||http://pampikcim.xyz/^$popup
 ||http://pampikcim.xyz/adr/^$popup
 ||http://pampikcim.xyz/adr^$popup
@@ -2342,9 +2387,11 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||http://tnewurl2.com^$popup
 ||http://tr.link/mkn2pn/^$popup
 ||http://tr.link/mkn2pn^$popup
+||http://turbotractor.ru*^$popup
 ||http://ucbetting.com*^$popup
 ||http://ultrabet113.com*^$popup
 ||http://ultrabet120.com*^$popup
+||http://wattmooi.nl*^$popup
 ||http://www.affibtm.com/^$popup
 ||http://www.affibtm.com^$popup
 ||http://www.baysansliortaklik.com*^$popup
@@ -2406,6 +2453,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||https://filmyani.com*^$popup
 ||https://findyourpleasure1.life/^$popup
 ||https://findyourpleasure1.life^$popup
+||https://hddiziport.com*^$popup
 ||https://hendico.com*^$popup
 ||https://i.findyourpleasure1.life/^$popup
 ||https://i.findyourpleasure1.life^$popup
@@ -2426,7 +2474,9 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||https://kisalink.xyz/i^$popup
 ||https://kisalink.xyz^$popup
 ||https://kralfilm.com*^$popup
+||https://krsk-kvest.ru*^$popup
 ||https://mobil-izle.xyz*^$popup
+||https://nigthyoustr10.live*^$popup
 ||https://nysse-seks4-com.cdn.ampproject.org/*/w2.png$image
 ||https://pampikcim.xyz/^$popup
 ||https://pampikcim.xyz/adr/^$popup
@@ -2459,9 +2509,11 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||https://tnewurl2.com^$popup
 ||https://tr.link/mkn2pn/^$popup
 ||https://tr.link/mkn2pn^$popup
+||https://turbotractor.ru*^$popup
 ||https://ucbetting.com*^$popup
 ||https://ultrabet113.com*^$popup
 ||https://ultrabet120.com*^$popup
+||https://wattmooi.nl*^$popup
 ||https://www.affibtm.com/^$popup
 ||https://www.affibtm.com^$popup
 ||https://www.baysansliortaklik.com*^$popup
@@ -2516,14 +2568,18 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||kisalink.xyz^$popup
 ||kisaltma.link*^$popup
 ||kralfilm.com*^$popup
+||krsk-kvest.ru*^$popup
 ||link-redirect.xyz*^$popup
 ||makrobetcdn.com*^$popup
 ||mob1ledev1ces.com*^$popup
 ||mobil-izle.xyz*^$popup
 ||morfilmizle.com/wp-content/uploads/*/*/*banner*.jpg$image
 ||myfotolife.xyz*^$popup
+||nigthyoustr10.live*^$popup
 ||notification-list.com*^$popup
 ||now.loading-wsite.com*^$popup
+||ofphanpytor.com*^$popup
+||ofphanpytor.com^$document
 ||oneagleswingsnorth.com*^$popup
 ||onlinecyclecoaching.com*^$popup
 ||oyunkuzusu.com/images/tras-et-beni-mobil.jpg$image
@@ -2560,6 +2616,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||rsalcdp.com^$document
 ||rublacklist.net/images/rutracker_image.png$image
 ||rutrk.org/iframe/kwork-1.html$subdocument
+||s1.filmmodu.org/uploads/*
 ||secondlife.com*^$popup
 ||setfilmizle.vip/video_onu_yeni.php$subdocument
 ||setrabet.com/^$popup
@@ -2593,6 +2650,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||tr.link/mkn2pn^$popup
 ||track.special-promotions.online*^$popup
 ||trendbet42.com*^$popup
+||turbotractor.ru*^$popup
 ||tutusapp.com*^popup
 ||ucbetting.com*^$popup
 ||ultrabet113.com*^$popup
@@ -2600,6 +2658,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||uludagsozluk.com/theme/resy/widget/sponsor2.php$subdocument
 ||vardh.com/*/*uploads*/*/*/vardh.gif^$image
 ||vizyonfilmizle.tv/bet*.jpg$image
+||wattmooi.nl*^$popup
 ||whatsapp.rlink.live*^$popup
 ||whatsappsohbet.top*^$popup
 ||www.affibtm.com/^$popup
@@ -2617,7 +2676,10 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||www.edebiyatkitabi.com/^$popup
 ||www.edebiyatkitabi.com^$popup
 ||www.filmfiz.com*^$popup
+||www.filmilla.com*^$popup
 ||www.flirtsexmeet.info*^popup
+||www.fullizlet.com*^$popup
+||www.guvenlifilmizle.com*^$popup
 ||www.hendico.com*^$popup
 ||www.instazero.com*^$popup
 ||www.kamuevlilik.com*^$popup
@@ -2644,5 +2706,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||www.ucbetting.com*^$popup
 ||www.ultrabet113.com*^$popup
 ||www.ultrabet120.com*^$popup
+||www.yapıkredi.com*^$popup
 ||x5w5.veriprtroutg.com*^$popup
+||yapıkredi.com*^$popup
 # xorcan/hosts bitir #
