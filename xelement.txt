@@ -1,7 +1,7 @@
 # Title: nurcan Türk element-ad-list
 # Format: Element Bloklist
 # Released: 23.04.2020
-# Entries: 2697
+# Entries: 2703
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -12,7 +12,6 @@
 # Report an ad / contact: xorcan@protonmail.com
 
 # xorcan/hosts başla #
-
 ###adContentWrapper
 ###adv-link
 ###bet-kayan2
@@ -27,10 +26,10 @@
 ###reklam-video-yani
 ###reklamCodeiframe
 ###videoreklam
-###vrs-Alert
 ###vrs-alert
-###vrsAlert
+###vrs-Alert
 ###vrsalert
+###vrsAlert
 ##.code-block-0.code-block > .adsbygoogle
 ##.code-block-1.code-block > .adsbygoogle
 ##.code-block-2.code-block > .adsbygoogle
@@ -1656,10 +1655,10 @@
 ##div > center > .adsbygoogle
 ##div.top5.z-indx.col-xs-12:nth-of-type(1) > .ara-banner
 ##td:nth-of-type(2) > .adsbygoogle
-##vrs-Alert
 ##vrs-alert
-##vrsAlert
+##vrs-Alert
 ##vrsalert
+##vrsAlert
 *.ampproject.org###header-reklam
 *.ampproject.org##.jrek
 *.ampproject.org*porn*yuklen*.gif^$image
@@ -1711,6 +1710,8 @@
 @@||s1.filmmodu.org/uploads/movie/*
 @@||s1.filmmodu.org/uploads/user/*
 abcfilmizle.com##.body-clickable
+ademocut.com##.yazi-icerik > .aligncenter
+ademocut.com##.yazi-icerik > div:nth-of-type(2)
 aradiginindir.blogspot.com##.linktl_flashad_wrap.linktl_flashad_reset
 archive.is##.body > div:nth-of-type(2)
 bcvc.live##[href^="https://rdr3.xyz/tig.php"]
@@ -1851,6 +1852,7 @@ itemist.com##*
 jetfilmizle.pw###reklamCodeiframe
 keepsaveit.com###one-banner
 keepsaveit.com##[href="https://keepchangeit.com/video-fast-motion"]
+keskinvideo.blogspot.com##.mobsplOverlaylinktl_popad_
 ktun.edu.tr###loader
 lessmo.pro##.fix
 lessmo.pro##.main-content
@@ -1903,6 +1905,10 @@ torrentz2.is##[href="/lorem2/xy/"]
 tr.link##.sweet-overlay
 tr.link##.visible.showSweetAlert.sweet-alert
 turkanime.net##div.col-xs-6:nth-of-type(2)
+turkcealtyazi.org##.ncenter.nblock > .adsbygoogle
+turkcealtyazi.org##.ncenter.nm-block > .adsbygoogle
+turkcealtyazi.org##.ncorner-bottom.main-center > .adsbygoogle
+turkcealtyazi.org##.nright.ana-sag-blok > .adsbygoogle
 unikampus.net##.jgcabd-container
 uploadrar.com##.btn-primary.btn
 uploadrar.com##.lastnews
