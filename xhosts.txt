@@ -1,7 +1,7 @@
 # Title: nurcan Türk ad-list
 # Format: Hosts
 # Released: 18.05.2020
-# Entries: 8167
+# Entries: 8175
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -4207,6 +4207,7 @@
 127.0.0.1 www.adfox.ru
 127.0.0.1 www.adgain-publisher.com
 127.0.0.1 www.adhood.com
+127.0.0.1 www.adhouse.cubecdn.net
 127.0.0.1 www.adhunter.media
 127.0.0.1 www.adimage.media
 127.0.0.1 www.adimg.rekmob.com
@@ -4231,6 +4232,7 @@
 127.0.0.1 www.admitlead.ru
 127.0.0.1 www.admob.com
 127.0.0.1 www.admost.com
+127.0.0.1 www.admoxi.com
 127.0.0.1 www.adnamo.net
 127.0.0.1 www.adnangul.av.tr
 127.0.0.1 www.adnatro.com
@@ -4240,7 +4242,9 @@
 127.0.0.1 www.adnimo.com
 127.0.0.1 www.adnium.com
 127.0.0.1 www.adnxs.com
+127.0.0.1 www.adobecorp.sc.omtrdc.net
 127.0.0.1 www.adocean.pl
+127.0.0.1 www.adon.io
 127.0.0.1 www.adopexchange.com
 127.0.0.1 www.adoutput.com
 127.0.0.1 www.adplxmd.com
@@ -4255,6 +4259,8 @@
 127.0.0.1 www.adrayon.net
 127.0.0.1 www.adrazzi.com
 127.0.0.1 www.adrecover.com
+127.0.0.1 www.adreda.com
+127.0.0.1 www.adrervice.google.com
 127.0.0.1 www.adroll.com
 127.0.0.1 www.adrttt.com
 127.0.0.1 www.ads-hl.noktamedya.com.tr
@@ -4363,6 +4369,7 @@
 127.0.0.1 www.adsrv.eacdn.com
 127.0.0.1 www.adsupp.network
 127.0.0.1 www.adsymptotic.com
+127.0.0.1 www.adtarget.com.tr
 127.0.0.1 www.adtech.com
 127.0.0.1 www.adtech.de
 127.0.0.1 www.adtiming.com
@@ -7273,6 +7280,7 @@
 127.0.0.1 www.smopy.com
 127.0.0.1 www.smrtbnr.club
 127.0.0.1 www.smrtbnr.com
+127.0.0.1 www.smrtbnr.info
 127.0.0.1 www.smrtbnr.net
 127.0.0.1 www.smrtbnr.org
 127.0.0.1 www.smrtbnr.site
