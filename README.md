@@ -42,8 +42,6 @@ Ardından sanki Chrome tarayıcınıza yüklüyormuş gibi şuradan "Opera'ya ek
 Ardından sanki Chrome tarayıcınıza yüklüyormuş gibi şuradan "Opera'ya ekle" diyeceksiniz:
 - [Chrome için nano defender](https://chrome.google.com/webstore/detail/nano-defender/ggolfgbegefeeoocgjbmkembbncoadlb)
 
-![şöyle olacak](https://i.postimg.cc/cC412tkY/screenshot-2019-08-04-at-11-24-44.png)
-
 ## Ayarlamalarınız Bittiğinde Şöyle Görünmelidir:
 
 ![1](https://i.postimg.cc/fbNN10JL/screenshot-2019-08-04-at-11-11-29.png)
@@ -105,7 +103,7 @@ Telefonunuzda root işlemi yapmak zor ve riskli olabilir. Telefonunuzu garanti k
 4. ```https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext```
 5. ```https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts```
 6. ```https://someonewhocares.org/hosts/hosts```
-7. ```https://raw.githubusercontent.com/xorcan/disconnect.me-lists/master/simple_malvertising.txt```
+7. ```https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt```
 
 - Ana menüye dönün, güncellemeleri denetleyip uygulayın. Cihazınızı yeniden başlatın.
 
