@@ -32,6 +32,10 @@ bu host listeleri zaten xorcan/hosts ta bulunuyor ve d√ºzenli olarak onlar da g√
 
 #### ```https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt```
 
+#### ```https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt```
+
+#### ```https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt```
+
 #### ```https://someonewhocares.org/hosts/hosts```
 
 #### ```https://www.malwaredomainlist.com/hostslist/hosts.txt```
