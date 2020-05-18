@@ -1,7 +1,7 @@
 # Title: nurcan Türk element-ad-list
 # Format: Element Bloklist
-# Released: 14.05.2020
-# Entries: 2899
+# Released: 18.05.2020
+# Entries: 3147
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -15,6 +15,7 @@
 ###adContentWrapper
 ###adv-link
 ###bet-kayan2
+###head > div.adsLoad.akAds
 ###header-reklam
 ###iv-kayan
 ###ivr-bar
@@ -30,6 +31,7 @@
 ###vrs-Alert
 ###vrsalert
 ###vrsAlert
+##.articleContent > .adsbygoogle
 ##.code-block-0.code-block > .adsbygoogle
 ##.code-block-1.code-block > .adsbygoogle
 ##.code-block-2.code-block > .adsbygoogle
@@ -46,8 +48,19 @@
 ##.hide-mobile > .adsbygoogle
 ##.hrknReklam
 ##.m-b-10.ad_300x250
+##.m-b-10.ad_300x300
+##.main-content.col-1 > .adsbygoogle
+##.main-content.col-2 > .adsbygoogle
+##.main-content.col-3 > .adsbygoogle
+##.main-content.col-4 > .adsbygoogle
+##.main-content.col-5 > .adsbygoogle
+##.main-content.col-6 > .adsbygoogle
+##.main-content.col-7 > .adsbygoogle
+##.main-content.col-8 > .adsbygoogle
+##.main-content.col-9 > .adsbygoogle
 ##.middle.ad
 ##.midsites
+##.mngez_download1 > .adsbygoogle
 ##.once-reklam
 ##.rekivr1
 ##.rekivr2
@@ -58,6 +71,18 @@
 ##.reklamblur2
 ##.reklamblur3
 ##.reklamcontainer
+##.rnews > div:nth-of-type(1) > div.adsLoad.akAds
+##.rnews > div:nth-of-type(10) > div.adsLoad.akAds
+##.rnews > div:nth-of-type(11) > div.adsLoad.akAds
+##.rnews > div:nth-of-type(2) > div.adsLoad.akAds
+##.rnews > div:nth-of-type(3) > div.adsLoad.akAds
+##.rnews > div:nth-of-type(4) > div.adsLoad.akAds
+##.rnews > div:nth-of-type(5) > div.adsLoad.akAds
+##.rnews > div:nth-of-type(6) > div.adsLoad.akAds
+##.rnews > div:nth-of-type(7) > div.adsLoad.akAds
+##.rnews > div:nth-of-type(8) > div.adsLoad.akAds
+##.rnews > div:nth-of-type(9) > div.adsLoad.akAds
+##.side > div.adsLoad.akAds
 ##.ss-ic.s_stk
 ##[href="betonbetaffiliates.com"]
 ##[href="betonbetaffiliates.com/"]
@@ -244,6 +269,107 @@
 ##[href^="ganfoninjomo.files.wordpress.com"]
 ##[href^="getyourprz14.live"]
 ##[href^="getyourprz14.live/"]
+##[href^="gmgreklam.com"]
+##[href^="gmgreklam.com/click/1"]
+##[href^="gmgreklam.com/click/10"]
+##[href^="gmgreklam.com/click/100"]
+##[href^="gmgreklam.com/click/11"]
+##[href^="gmgreklam.com/click/12"]
+##[href^="gmgreklam.com/click/13"]
+##[href^="gmgreklam.com/click/14"]
+##[href^="gmgreklam.com/click/15"]
+##[href^="gmgreklam.com/click/16"]
+##[href^="gmgreklam.com/click/17"]
+##[href^="gmgreklam.com/click/18"]
+##[href^="gmgreklam.com/click/19"]
+##[href^="gmgreklam.com/click/2"]
+##[href^="gmgreklam.com/click/20"]
+##[href^="gmgreklam.com/click/21"]
+##[href^="gmgreklam.com/click/22"]
+##[href^="gmgreklam.com/click/23"]
+##[href^="gmgreklam.com/click/24"]
+##[href^="gmgreklam.com/click/25"]
+##[href^="gmgreklam.com/click/26"]
+##[href^="gmgreklam.com/click/27"]
+##[href^="gmgreklam.com/click/28"]
+##[href^="gmgreklam.com/click/29"]
+##[href^="gmgreklam.com/click/3"]
+##[href^="gmgreklam.com/click/30"]
+##[href^="gmgreklam.com/click/31"]
+##[href^="gmgreklam.com/click/32"]
+##[href^="gmgreklam.com/click/33"]
+##[href^="gmgreklam.com/click/34"]
+##[href^="gmgreklam.com/click/35"]
+##[href^="gmgreklam.com/click/36"]
+##[href^="gmgreklam.com/click/37"]
+##[href^="gmgreklam.com/click/38"]
+##[href^="gmgreklam.com/click/39"]
+##[href^="gmgreklam.com/click/4"]
+##[href^="gmgreklam.com/click/40"]
+##[href^="gmgreklam.com/click/41"]
+##[href^="gmgreklam.com/click/42"]
+##[href^="gmgreklam.com/click/43"]
+##[href^="gmgreklam.com/click/44"]
+##[href^="gmgreklam.com/click/45"]
+##[href^="gmgreklam.com/click/46"]
+##[href^="gmgreklam.com/click/47"]
+##[href^="gmgreklam.com/click/48"]
+##[href^="gmgreklam.com/click/49"]
+##[href^="gmgreklam.com/click/5"]
+##[href^="gmgreklam.com/click/50"]
+##[href^="gmgreklam.com/click/51"]
+##[href^="gmgreklam.com/click/52"]
+##[href^="gmgreklam.com/click/53"]
+##[href^="gmgreklam.com/click/54"]
+##[href^="gmgreklam.com/click/55"]
+##[href^="gmgreklam.com/click/56"]
+##[href^="gmgreklam.com/click/57"]
+##[href^="gmgreklam.com/click/58"]
+##[href^="gmgreklam.com/click/59"]
+##[href^="gmgreklam.com/click/6"]
+##[href^="gmgreklam.com/click/60"]
+##[href^="gmgreklam.com/click/61"]
+##[href^="gmgreklam.com/click/62"]
+##[href^="gmgreklam.com/click/63"]
+##[href^="gmgreklam.com/click/64"]
+##[href^="gmgreklam.com/click/65"]
+##[href^="gmgreklam.com/click/66"]
+##[href^="gmgreklam.com/click/67"]
+##[href^="gmgreklam.com/click/68"]
+##[href^="gmgreklam.com/click/69"]
+##[href^="gmgreklam.com/click/7"]
+##[href^="gmgreklam.com/click/70"]
+##[href^="gmgreklam.com/click/71"]
+##[href^="gmgreklam.com/click/72"]
+##[href^="gmgreklam.com/click/73"]
+##[href^="gmgreklam.com/click/74"]
+##[href^="gmgreklam.com/click/75"]
+##[href^="gmgreklam.com/click/76"]
+##[href^="gmgreklam.com/click/77"]
+##[href^="gmgreklam.com/click/78"]
+##[href^="gmgreklam.com/click/79"]
+##[href^="gmgreklam.com/click/8"]
+##[href^="gmgreklam.com/click/80"]
+##[href^="gmgreklam.com/click/81"]
+##[href^="gmgreklam.com/click/82"]
+##[href^="gmgreklam.com/click/83"]
+##[href^="gmgreklam.com/click/84"]
+##[href^="gmgreklam.com/click/85"]
+##[href^="gmgreklam.com/click/86"]
+##[href^="gmgreklam.com/click/87"]
+##[href^="gmgreklam.com/click/88"]
+##[href^="gmgreklam.com/click/89"]
+##[href^="gmgreklam.com/click/9"]
+##[href^="gmgreklam.com/click/90"]
+##[href^="gmgreklam.com/click/91"]
+##[href^="gmgreklam.com/click/92"]
+##[href^="gmgreklam.com/click/93"]
+##[href^="gmgreklam.com/click/94"]
+##[href^="gmgreklam.com/click/95"]
+##[href^="gmgreklam.com/click/96"]
+##[href^="gmgreklam.com/click/97"]
+##[href^="gmgreklam.com/click/98"]
+##[href^="gmgreklam.com/click/99"]
 ##[href^="good4all.ru"]
 ##[href^="gozatar.com"]
 ##[href^="gplinks.in/advertising/campaign.php"]
@@ -1792,10 +1918,124 @@
 ##[src="my-privacy-protection.com"]
 ##[src="telegramchannels.me/gopr/57"]
 ##[src="www.booksurfers.co.uk"]
+##center > div > div:nth-of-type(1) > .adsLoad.akAds
+##center > div > div:nth-of-type(10) > .adsLoad.akAds
+##center > div > div:nth-of-type(2) > .adsLoad.akAds
+##center > div > div:nth-of-type(3) > .adsLoad.akAds
+##center > div > div:nth-of-type(4) > .adsLoad.akAds
+##center > div > div:nth-of-type(5) > .adsLoad.akAds
+##center > div > div:nth-of-type(6) > .adsLoad.akAds
+##center > div > div:nth-of-type(7) > .adsLoad.akAds
+##center > div > div:nth-of-type(8) > .adsLoad.akAds
+##center > div > div:nth-of-type(9) > .adsLoad.akAds
 ##center:nth-of-type(1) > .adsbygoogle
 ##center:nth-of-type(2) > .adsbygoogle
 ##div > center > .adsbygoogle
+##div.adsLoad.akAds
+##div.sugo:nth-of-type(16) > .adsLoad.akAds
 ##div.top5.z-indx.col-xs-12:nth-of-type(1) > .ara-banner
+##div:nth-of-type(1) > .gadz
+##div:nth-of-type(10) > .gadz
+##div:nth-of-type(100) > .gadz
+##div:nth-of-type(11) > .gadz
+##div:nth-of-type(12) > .gadz
+##div:nth-of-type(13) > .gadz
+##div:nth-of-type(14) > .gadz
+##div:nth-of-type(15) > .gadz
+##div:nth-of-type(16) > .gadz
+##div:nth-of-type(17) > .gadz
+##div:nth-of-type(18) > .gadz
+##div:nth-of-type(19) > .gadz
+##div:nth-of-type(2) > .gadz
+##div:nth-of-type(20) > .gadz
+##div:nth-of-type(21) > .gadz
+##div:nth-of-type(22) > .gadz
+##div:nth-of-type(23) > .gadz
+##div:nth-of-type(24) > .gadz
+##div:nth-of-type(25) > .gadz
+##div:nth-of-type(26) > .gadz
+##div:nth-of-type(27) > .gadz
+##div:nth-of-type(28) > .gadz
+##div:nth-of-type(29) > .gadz
+##div:nth-of-type(3) > .gadz
+##div:nth-of-type(30) > .gadz
+##div:nth-of-type(31) > .gadz
+##div:nth-of-type(32) > .gadz
+##div:nth-of-type(33) > .gadz
+##div:nth-of-type(34) > .gadz
+##div:nth-of-type(35) > .gadz
+##div:nth-of-type(36) > .gadz
+##div:nth-of-type(37) > .gadz
+##div:nth-of-type(38) > .gadz
+##div:nth-of-type(39) > .gadz
+##div:nth-of-type(4) > .gadz
+##div:nth-of-type(40) > .gadz
+##div:nth-of-type(41) > .gadz
+##div:nth-of-type(42) > .gadz
+##div:nth-of-type(43) > .gadz
+##div:nth-of-type(44) > .gadz
+##div:nth-of-type(45) > .gadz
+##div:nth-of-type(46) > .gadz
+##div:nth-of-type(47) > .gadz
+##div:nth-of-type(48) > .gadz
+##div:nth-of-type(49) > .gadz
+##div:nth-of-type(5) > .gadz
+##div:nth-of-type(50) > .gadz
+##div:nth-of-type(51) > .gadz
+##div:nth-of-type(52) > .gadz
+##div:nth-of-type(53) > .gadz
+##div:nth-of-type(54) > .gadz
+##div:nth-of-type(55) > .gadz
+##div:nth-of-type(56) > .gadz
+##div:nth-of-type(57) > .gadz
+##div:nth-of-type(58) > .gadz
+##div:nth-of-type(59) > .gadz
+##div:nth-of-type(6) > .gadz
+##div:nth-of-type(60) > .gadz
+##div:nth-of-type(61) > .gadz
+##div:nth-of-type(62) > .gadz
+##div:nth-of-type(63) > .gadz
+##div:nth-of-type(64) > .gadz
+##div:nth-of-type(65) > .gadz
+##div:nth-of-type(66) > .gadz
+##div:nth-of-type(67) > .gadz
+##div:nth-of-type(68) > .gadz
+##div:nth-of-type(69) > .gadz
+##div:nth-of-type(7) > .gadz
+##div:nth-of-type(7) > div.adsLoad.akAds
+##div:nth-of-type(70) > .gadz
+##div:nth-of-type(71) > .gadz
+##div:nth-of-type(72) > .gadz
+##div:nth-of-type(73) > .gadz
+##div:nth-of-type(74) > .gadz
+##div:nth-of-type(75) > .gadz
+##div:nth-of-type(76) > .gadz
+##div:nth-of-type(77) > .gadz
+##div:nth-of-type(78) > .gadz
+##div:nth-of-type(79) > .gadz
+##div:nth-of-type(8) > .gadz
+##div:nth-of-type(80) > .gadz
+##div:nth-of-type(81) > .gadz
+##div:nth-of-type(82) > .gadz
+##div:nth-of-type(83) > .gadz
+##div:nth-of-type(84) > .gadz
+##div:nth-of-type(85) > .gadz
+##div:nth-of-type(86) > .gadz
+##div:nth-of-type(87) > .gadz
+##div:nth-of-type(88) > .gadz
+##div:nth-of-type(89) > .gadz
+##div:nth-of-type(9) > .gadz
+##div:nth-of-type(90) > .gadz
+##div:nth-of-type(91) > .gadz
+##div:nth-of-type(92) > .gadz
+##div:nth-of-type(93) > .gadz
+##div:nth-of-type(94) > .gadz
+##div:nth-of-type(95) > .gadz
+##div:nth-of-type(96) > .gadz
+##div:nth-of-type(97) > .gadz
+##div:nth-of-type(98) > .gadz
+##div:nth-of-type(99) > .gadz
+##ins.adsbygoogle
 ##td:nth-of-type(2) > .adsbygoogle
 ##vrs-alert
 ##vrs-Alert
@@ -1841,6 +2081,10 @@
 *turkanime*##.row > div.col-xs-6:nth-of-type(1)
 /*/*/wp-content/uploads/*/*vardh*.gif
 /*/*/wp-content/uploads/*/*yenivideoalt*.gif
+1000kitap.com##.container > .satisLink
+1000kitap.com##.satis-banner.analiz.reklam1k
+1000kitap.com##div.embed.analiz.reklam1k
+1000kitap.com##div.iletiGonderi.gonderi.analiz
 320volt.com##article.excerpt.post:nth-of-type(1) > .adsbygoogle
 320volt.com##article.excerpt.post:nth-of-type(2) > .adsbygoogle
 320volt.com##article.excerpt.post:nth-of-type(3) > .adsbygoogle
@@ -1863,7 +2107,9 @@ aradiginindir.blogspot.com##.linktl_flashad_wrap.linktl_flashad_reset
 archive.is##.body > div:nth-of-type(2)
 bcvc.live###b3c6a2115164fa0f27541ef6a07a65e01474808f9 > .adflex-b-reset
 bcvc.live##[href^="https://rdr3.xyz/tig.php"]
+bebarbilim.net > .adsbygoogle
 bildirim.eu##*
+bilgiyeriniz.com##.ad
 blogspot.com##center:nth-of-type(1) > .adsbygoogle
 blogspot.com##center:nth-of-type(1) > a#yenidosya_indir:nth-of-type(1)
 blogspot.com##center:nth-of-type(1) > a#yenidosya_indir:nth-of-type(10)
@@ -1936,6 +2182,8 @@ blogspot.com##center:nth-of-type(8) > .adsbygoogle
 blogspot.com##center:nth-of-type(9) > .adsbygoogle
 booksurfers.co.uk##.waves-light.waves-effect.btn-danger.font-weight-bold.btn-lg.btn
 booksurfers.co.uk##.waves-light.waves-effect.btn-primary.font-weight-bold.btn-lg.btn
+borsagundem.com##center > div > div:nth-of-type(1)
+borsagundem.com##center > div > div:nth-of-type(2)
 cdn.ampproject.org##div.top5.z-indx.col-xs-12:nth-of-type(1) > .ara-banner
 cdn.ampproject.org##div.top5.z-indx.col-xs-12:nth-of-type(10) > .ara-banner
 cdn.ampproject.org##div.top5.z-indx.col-xs-12:nth-of-type(11) > .ara-banner
