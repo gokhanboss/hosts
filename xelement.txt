@@ -1,7 +1,7 @@
 # Title: nurcan Türk element-ad-list
 # Format: Element Bloklist
-# Released: 18.05.2020
-# Entries: 3147
+# Released: 21.05.2020
+# Entries: 3182
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -144,6 +144,7 @@
 ##[href="www.ncmfck.com"]
 ##[href="www.ncmfck.com/"]
 ##[href^="10dfjhvbdfhv.xyz"]
+##[href^="1xbet-won.com"]
 ##[href^="4club.reisen/landing"]
 ##[href^="4club.reisen/policy"]
 ##[href^="ad.admitad.com/"]
@@ -227,6 +228,7 @@
 ##[href^="bit.ly/3arpK0S"]
 ##[href^="bit.ly/3avkmun"]
 ##[href^="bit.ly/3ay8bwh"]
+##[href^="bit.ly/720pizleme-efsane-kampanya-turksatkablo"]
 ##[href^="bit.ly/gencofilm0"]
 ##[href^="bit.ly/gencofilm1"]
 ##[href^="bit.ly/gencofilm2"]
@@ -234,6 +236,7 @@
 ##[href^="bit.ly/gencofilm4"]
 ##[href^="bit.ly/gencofilm5"]
 ##[href^="blok.link"]
+##[href^="bluefilmizle.com"]
 ##[href^="booksurfers.co.uk"]
 ##[href^="booksurfers.co.uk/"]
 ##[href^="buywanted.com"]
@@ -260,6 +263,7 @@
 ##[href^="ekitap.telreh.com"]
 ##[href^="ekitap.telreh.com/ara"]
 ##[href^="endirom.com"]
+##[href^="evlenirim.com"]
 ##[href^="filekeeper.topupload.ru"]
 ##[href^="filmmoz.net"]
 ##[href^="filmmoz.net/"]
@@ -964,6 +968,7 @@
 ##[href^="https://bit.ly/2SNGMyD"]
 ##[href^="https://bit.ly/2UPmIPR"]
 ##[href^="https://bit.ly/2WDvCys"]
+##[href^="https://bit.ly/2Whacr2"]
 ##[href^="https://bit.ly/2X2tjnI"]
 ##[href^="https://bit.ly/2x9cHmp"]
 ##[href^="https://bit.ly/2x9cHmp/"]
@@ -1543,6 +1548,7 @@
 ##[href^="press-here-to-continue.com"]
 ##[href^="press-here-to-continue.com/"]
 ##[href^="promosultan3.com"]
+##[href^="realfilmizle.com"]
 ##[href^="redirect750.us/sl"]
 ##[href^="redirect750.us/sl/"]
 ##[href^="refpabei.top"]
@@ -1773,6 +1779,7 @@
 ##[href^="ultrabet120.com/"]
 ##[href^="ultrabet120.com/#"]
 ##[href^="ultrabet120.com/#/"]
+##[href^="vdcasinopoker.com/en-iyi-casino-siteleri"]
 ##[href^="verzekeringenvandermeulen.be"]
 ##[href^="viopytisri.over-blog.com"]
 ##[href^="whatsapp.rlink.live​"]
@@ -2041,6 +2048,7 @@
 ##vrs-Alert
 ##vrsalert
 ##vrsAlert
+*###adcash-iframe-container
 *.ampproject.org###header-reklam
 *.ampproject.org##.jrek
 *.ampproject.org*porn*yuklen*.gif^$image
@@ -2093,6 +2101,7 @@
 320volt.com##div.spp:nth-of-type(3) > .adsbygoogle
 720pizle.org##.a950.golge.oval
 720pizle.org##body > iframe
+720pizleme.com###ics
 @@||s1.filmmodu.org/uploads/movie/*
 @@||s1.filmmodu.org/uploads/user/*
 abcfilmizle.com##.body-clickable
@@ -2258,6 +2267,7 @@ hottg.com##div.adad:nth-of-type(8) > .adsbygoogle
 hottg.com##div:nth-of-type(1) > .adsbygoogle
 hottg.com##div:nth-of-type(5) > .adsbygoogle
 https://telegramchannels.me/storage/prs/N227TgUMCdzzJhsm.svg^$image
+https://webteizle.vip/i/vid-onu.mp4$media
 incisozluk.com.tr###b-masthead
 iskysoft.com###POYTY
 itemist.com##*
@@ -2272,6 +2282,8 @@ limasollunaci.com##div:nth-of-type(2) > [href*="https://www.limasollunaci.com/in
 limasollunaci.com##p:nth-of-type(31) > [href="https://www.limasollunaci.com/ingilizce-egitim-setleri"]
 lnk.news###iframe_layer
 lnk.news##.bar
+mangallama.com###detected
+mangallama.com###livesearchm
 moradu.com##*
 morfilmizle.com###amans
 morfilmizle.com##[src="https://www.youtube.com/embed/UHb86zXgsG4"]
@@ -2301,6 +2313,7 @@ seedpeer.me##.torrent-details-actions.is-one-third.column > p:nth-of-type(5)
 sexfindyou25.com##.wrapper
 solidshare.net###baslik
 solidshare.net##div.main:nth-of-type(1)
+tarihiyolculuk.com##div.cookie-policy-footer
 telegramchannels.me###btm-pr
 telegramchannels.me​###pr-a
 torrentdownload.ch##table.table2:nth-of-type(1) > tbody > tr:nth-of-type(4) > td
@@ -2654,6 +2667,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||/*video*onu*/*/*sultan*bet*.mp4$media
 ||/*video*onu*/*/*sultanbet*.mp4$media
 ||1.black-snake-oil.info​*^$popup
+||1xbet-won.com*^$popup
 ||35.194.16.41*^$popup
 ||35.224.227.218*^$popup
 ||3b66.veriprtroutg.com*^$popup
@@ -2681,11 +2695,14 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||bgel.ncmfck.com*^$popup
 ||bit.ly/2Ctslt0*^$popup
 ||bit.ly/2QmI8BT*^$popup
+||bit.ly/2Whacr2*^$popup
 ||bit.ly/30EfEGr^$popup
 ||bit.ly/38tqwJT*^$popup
 ||bit.ly/3avkmun*^$popup
+||bit.ly/720pizleme-efsane-kampanya-turksatkablo*^$popup
 ||black-snake-oil.info​*^$popup
 ||blok.link*^$popup
+||bluefilmizle.com*^$popup
 ||booksurfers.co.uk*^$popup
 ||booksurfers.co.uk/^$popup
 ||booksurfers.co.uk^$popup
@@ -2697,6 +2714,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||canlialem.com*^$popup
 ||canlitv.news/img/plarka.jpg$image
 ||cdn*.turkakisi.com/content/stream/*bet/*Meltur*/Meltur*.mp4$media
+||cdn.advg.agency/static/offer/*/banners/*/*.jpeg$image
 ||cdn.advg.agency/static/offer/*/banners/*/*.jpg$image
 ||cdn.r10.net/pep/pephr.gif
 ||cdn.taboola.com*^$popup
@@ -2731,6 +2749,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||ekitap-indir.net/mkn2pn^$popup
 ||ekitap-indir.net^$popup
 ||eviewporn*/milf-min.png$image
+||evlenirim.com*^$popup
 ||fileru-net.cdn.ampproject.org/i/s/fileru.net/img/ak7.gif$image
 ||fileru-net.cdn.ampproject.org/i/s/fileru.net/img/redyan.gif$image
 ||fileru.net/*video*onu*/poster/*.png^$image
@@ -2753,6 +2772,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||hdfilmizle.pw/uploads/rek/*
 ||hdmobilizle.com*^$popup
 ||hendico.com*^$popup
+||http://1xbet-won.com*^$popup
 ||http://affibtm.com/^$popup
 ||http://affibtm.com^$popup
 ||http://airartapt.site/^$popup
@@ -2761,8 +2781,11 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||http://b.findyourpleasure1.life^$popup
 ||http://baysansliortaklik.com*^$popup
 ||http://betvole362.com*^$popup
+||http://bit.ly/2Whacr2*^$popup
 ||http://bit.ly/30EfEGr^$popup
 ||http://bit.ly/38tqwJT*^$popup
+||http://bit.ly/720pizleme-efsane-kampanya-turksatkablo*^$popup
+||http://bluefilmizle.com*^$popup
 ||http://booksurfers.co.uk/^$popup
 ||http://booksurfers.co.uk^$popup
 ||http://buywanted.com*^$popup
@@ -2841,6 +2864,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||http://ucbetting.com*^$popup
 ||http://ultrabet113.com*^$popup
 ||http://ultrabet120.com*^$popup
+||http://vdcasinopoker.com*^$popup
 ||http://wattmooi.nl*^$popup
 ||http://www.affibtm.com/^$popup
 ||http://www.affibtm.com^$popup
@@ -2853,6 +2877,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||http://www.canlialem.com*^$popup
 ||http://www.edebiyatkitabi.com/^$popup
 ||http://www.edebiyatkitabi.com^$popup
+||http://www.evlenirim.com*^$popup
 ||http://www.filmfiz.com*^$popup
 ||http://www.hendico.com*^$popup
 ||http://www.instazero.com*^$popup
@@ -2863,6 +2888,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||http://www.keycdn.info^$popup
 ||http://www.kralfilm.com*^$popup
 ||http://www.mobil-izle.xyz*^$popup
+||http://www.realfilmizle.com*^$popup
 ||http://www.setrabet.com/^$popup
 ||http://www.setrabet.com/affiliates/^$popup
 ||http://www.setrabet.com/affiliates^$popup
@@ -2872,6 +2898,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||http://www.ucbetting.com*^$popup
 ||http://www.ultrabet113.com*^$popup
 ||http://www.ultrabet120.com*^$popup
+||https://1xbet-won.com*^$popup
 ||https://affibtm.com/^$popup
 ||https://affibtm.com^$popup
 ||https://airartapt.site/^$popup
@@ -2881,8 +2908,11 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||https://b.findyourpleasure1.life^$popup
 ||https://baysansliortaklik.com*^$popup
 ||https://betvole362.com*^$popup
+||https://bit.ly/2Whacr2*^$popup
 ||https://bit.ly/30EfEGr^$popup
 ||https://bit.ly/38tqwJT*^$popup
+||https://bit.ly/720pizleme-efsane-kampanya-turksatkablo*^$popup
+||https://bluefilmizle.com*^$popup
 ||https://booksurfers.co.uk/^$popup
 ||https://booksurfers.co.uk^$popup
 ||https://buywanted.com*^$popup
@@ -2963,6 +2993,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||https://ucbetting.com*^$popup
 ||https://ultrabet113.com*^$popup
 ||https://ultrabet120.com*^$popup
+||https://vdcasinopoker.com*^$popup
 ||https://wattmooi.nl*^$popup
 ||https://www.affibtm.com/^$popup
 ||https://www.affibtm.com^$popup
@@ -2975,6 +3006,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||https://www.canlialem.com*^$popup
 ||https://www.edebiyatkitabi.com/^$popup
 ||https://www.edebiyatkitabi.com^$popup
+||https://www.evlenirim.com*^$popup
 ||https://www.filmfiz.com*^$popup
 ||https://www.filmyani.com*^$popup
 ||https://www.hendico.com*^$popup
@@ -2986,6 +3018,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||https://www.keycdn.info^$popup
 ||https://www.kralfilm.com*^$popup
 ||https://www.mobil-izle.xyz*^$popup
+||https://www.realfilmizle.com*^$popup
 ||https://www.setrabet.com/^$popup
 ||https://www.setrabet.com/affiliates/^$popup
 ||https://www.setrabet.com/affiliates^$popup
@@ -3058,6 +3091,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||predictiondexchange.com*^$popup
 ||press-here-to-continue.com*^$popup
 ||promosultan278.com*^$popup
+||realfilmizle.com*^$popup
 ||redirect750.us/sl/^$popup
 ||redirect750.us/sl^$popup
 ||refpabei.top*^$popup
@@ -3107,6 +3141,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||ultrabet120.com*^$popup
 ||uludagsozluk.com/theme/resy/widget/sponsor2.php$subdocument
 ||vardh.com/*/*uploads*/*/*/vardh.gif^$image
+||vdcasinopoker.com*^$popup
 ||vizyonfilmizle.tv/bet*.jpg$image
 ||wattmooi.nl*^$popup
 ||whatsapp.rlink.live*^$popup
