@@ -1,7 +1,7 @@
 # Title: nurcan Türk ad-list
 # Format: Hosts
-# Released: 21.05.2020
-# Entries: 8177
+# Released: 31.05.2020
+# Entries: 8136
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -296,15 +296,12 @@
 127.0.0.1 adrazzi.com
 127.0.0.1 adrecover.com
 127.0.0.1 adreda.com
-127.0.0.1 adrervice.google.com
 127.0.0.1 adroll.com
 127.0.0.1 adrttt.com
 127.0.0.1 adrunnr.com
 127.0.0.1 ads-hl.noktamedya.com.tr
 127.0.0.1 ads-player.com
 127.0.0.1 ads-rouge.haber7.com
-127.0.0.1 ads-twitter.com
-127.0.0.1 ads.ak.facebook.com.edgesuite.net
 127.0.0.1 ads.altitude-arena.com
 127.0.0.1 ads.api.vungle.com
 127.0.0.1 ads.avocarrot.com
@@ -322,14 +319,12 @@
 127.0.0.1 ads.exoclick.com
 127.0.0.1 ads.exoclick.haptube.com
 127.0.0.1 ads.exosrv.com
-127.0.0.1 ads.facebook.com
 127.0.0.1 ads.finzoom.com.tr
 127.0.0.1 ads.flurry.com
 127.0.0.1 ads.garga.biz
 127.0.0.1 ads.gercekgundem.com
 127.0.0.1 ads.gittigidiyor.com
 127.0.0.1 ads.gold
-127.0.0.1 ads.google.com
 127.0.0.1 ads.haberler.com
 127.0.0.1 ads.heyzap.com
 127.0.0.1 ads.ihaberadserver.com
@@ -363,7 +358,6 @@
 127.0.0.1 ads.trafficjunky.net
 127.0.0.1 ads.travelaudience.com
 127.0.0.1 ads.trisier.com
-127.0.0.1 ads.twitter.com
 127.0.0.1 ads.uniblue.com
 127.0.0.1 ads.usa-media.net
 127.0.0.1 ads.videonap.com
@@ -406,8 +400,6 @@
 127.0.0.1 adserver.unityads.unity3d.com
 127.0.0.1 adserver.xpanama.net
 127.0.0.1 adserver1.adtech.com.tr
-127.0.0.1 adservice.google.com
-127.0.0.1 adservice.google.com.tr
 127.0.0.1 adservice.google.nl
 127.0.0.1 adservice.google.ru
 127.0.0.1 adshare3.freedocast.com
@@ -570,7 +562,6 @@
 127.0.0.1 analytics.cervellio.com
 127.0.0.1 analytics.edgekey.net
 127.0.0.1 analytics.edgesuite.net
-127.0.0.1 analytics.google.com
 127.0.0.1 analytics.liftoff.io
 127.0.0.1 analytics.live.com
 127.0.0.1 analytics.localytics.com
@@ -581,7 +572,6 @@
 127.0.0.1 analytics.porn-tube.club
 127.0.0.1 analytics.query.yahoo.com
 127.0.0.1 analytics.rayjump.com
-127.0.0.1 analytics.twitter.com
 127.0.0.1 analytics.yahoo.com
 127.0.0.1 analytics.yeniakit.com.tr
 127.0.0.1 anamimyjyp.tk
@@ -765,7 +755,6 @@
 127.0.0.1 aziweb.com
 127.0.0.1 azizeistanbul.com
 127.0.0.1 azizinsaat.com
-127.0.0.1 b-graph.facebook.com
 127.0.0.1 b.cdn.md
 127.0.0.1 b.misslk.com
 127.0.0.1 b.scorecardresearch.com
@@ -864,6 +853,7 @@
 127.0.0.1 bestdataresu1ts.com
 127.0.0.1 bestdataresu2ts.com
 127.0.0.1 bestdataresults.com
+127.0.0.1 bestdatingclubs.com
 127.0.0.1 bestpa.com.tr
 127.0.0.1 bet1x.mobi
 127.0.0.1 betasus123.com
@@ -1263,7 +1253,6 @@
 127.0.0.1 crptgate.com
 127.0.0.1 crrepo.com
 127.0.0.1 crwdcntrl.net
-127.0.0.1 cse.google.com
 127.0.0.1 csi.gstatic.com
 127.0.0.1 ctemall.com
 127.0.0.1 ctteknik.com.tr
@@ -1435,7 +1424,6 @@
 127.0.0.1 ecpms.net
 127.0.0.1 ecs4.engageya.com
 127.0.0.1 ed-tradepad-pro.tr.aptoide.com
-127.0.0.1 edge-mqtt.facebook.com
 127.0.0.1 edgead.woomedya.com
 127.0.0.1 edgership-widscott.com
 127.0.0.1 edirneyuzme.com
@@ -1584,7 +1572,6 @@
 127.0.0.1 eyzpiel.ml
 127.0.0.1 eyzpiel.tk
 127.0.0.1 f369a60bf483bcc9.com
-127.0.0.1 facebook.com.hocalihaber.com
 127.0.0.1 faggrim.com
 127.0.0.1 faktoryapi.com.tr
 127.0.0.1 fancywap.com
@@ -1748,7 +1735,6 @@
 127.0.0.1 good4all.ru
 127.0.0.1 gooddrink.com.tr
 127.0.0.1 google-analytics.com
-127.0.0.1 googleadapis.l.google.com
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 googleads2.g.doubleclick.net
 127.0.0.1 googleads4.g.doubleclick.net
@@ -1764,8 +1750,6 @@
 127.0.0.1 grafit.com.tr
 127.0.0.1 granantrade1.com
 127.0.0.1 grand-ads.com
-127.0.0.1 graph.facebook.com
-127.0.0.1 graph.instagram.com
 127.0.0.1 gravityrd-services.com
 127.0.0.1 greatdexchange.com
 127.0.0.1 greedseed.world
@@ -1778,7 +1762,6 @@
 127.0.0.1 gricreative.com
 127.0.0.1 grifa.com.tr
 127.0.0.1 grimex.net
-127.0.0.1 gstaticadssl.l.google.com
 127.0.0.1 gtarcade.com
 127.0.0.1 gtaturkcomv10.ourtoolbar.com
 127.0.0.1 gtaturkmania.mytowntoolbar.com
@@ -1859,7 +1842,6 @@
 127.0.0.1 hicpm10.com
 127.0.0.1 highertpushs.com
 127.0.0.1 histats.com
-127.0.0.1 history.google.com
 127.0.0.1 hit.8digits.com
 127.0.0.1 hit.dogannet.tv
 127.0.0.1 hit.gemius.pl
@@ -1917,10 +1899,7 @@
 127.0.0.1 iclikoftesiparisalinir.com
 127.0.0.1 ico.minently.com
 127.0.0.1 icxturkey.com
-127.0.0.1 id.google.com
-127.0.0.1 id.google.com.tr
 127.0.0.1 id.google.nl
-127.0.0.1 id.l.google.com
 127.0.0.1 id.rlcdn.com
 127.0.0.1 iddanismanlikbursa.com
 127.0.0.1 idema.com.tr
@@ -2597,7 +2576,6 @@
 127.0.0.1 mppmnetwork.com
 127.0.0.1 mpptr.com
 127.0.0.1 mpx.mopub.com
-127.0.0.1 mqtt-mini.facebook.com
 127.0.0.1 mradx.net
 127.0.0.1 mrticketyardim.com
 127.0.0.1 ms-49.monitornotifyfriends.info
@@ -2845,7 +2823,6 @@
 127.0.0.1 p.skimresources.com
 127.0.0.1 p232207.clksite.com
 127.0.0.1 p31770.clksite.com
-127.0.0.1 pagead.l.google.com
 127.0.0.1 pagead2.googleadservices.com
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 pagead46.l.doubleclick.net
@@ -2860,7 +2837,6 @@
 127.0.0.1 parsely.com
 127.0.0.1 partner.googleadservices.com
 127.0.0.1 partner.superbahisaffiliates248.com
-127.0.0.1 partnerad.l.google.com
 127.0.0.1 partneriste.net
 127.0.0.1 partnermatrix.com
 127.0.0.1 partners.betbooaffiliates.com
@@ -3179,7 +3155,6 @@
 127.0.0.1 reports.crashlytics.com
 127.0.0.1 req.startappservice.com
 127.0.0.1 rereegny.net
-127.0.0.1 res.cloudinary.com
 127.0.0.1 res1.applovin.com
 127.0.0.1 resim006.tk
 127.0.0.1 restbet321.com
@@ -3519,7 +3494,6 @@
 127.0.0.1 static-addtoany-com.cdn.ampproject.org
 127.0.0.1 static-ads.akamaized.net
 127.0.0.1 static.addtoany.com
-127.0.0.1 static.ads-twitter.com
 127.0.0.1 static.adsafeprotected.com
 127.0.0.1 static.adxadserv.com
 127.0.0.1 static.criteo.net
@@ -3588,7 +3562,6 @@
 127.0.0.1 syndication.exdynsrv.com
 127.0.0.1 syndication.exoclick.com
 127.0.0.1 syndication.exosrv.com
-127.0.0.1 syndication.twitter.com
 127.0.0.1 syndicpop.com
 127.0.0.1 system-security-com.xyz
 127.0.0.1 szczhal.cf
@@ -4262,13 +4235,10 @@
 127.0.0.1 www.adrazzi.com
 127.0.0.1 www.adrecover.com
 127.0.0.1 www.adreda.com
-127.0.0.1 www.adrervice.google.com
 127.0.0.1 www.adroll.com
 127.0.0.1 www.adrttt.com
 127.0.0.1 www.ads-hl.noktamedya.com.tr
 127.0.0.1 www.ads-rouge.haber7.com
-127.0.0.1 www.ads-twitter.com
-127.0.0.1 www.ads.ak.facebook.com.edgesuite.net
 127.0.0.1 www.ads.altitude-arena.com
 127.0.0.1 www.ads.avocarrot.com
 127.0.0.1 www.ads.avocet.io
@@ -4283,13 +4253,11 @@
 127.0.0.1 www.ads.exdynsrv.com
 127.0.0.1 www.ads.exoclick.com
 127.0.0.1 www.ads.exosrv.com
-127.0.0.1 www.ads.facebook.com
 127.0.0.1 www.ads.finzoom.com.tr
 127.0.0.1 www.ads.flurry.com
 127.0.0.1 www.ads.garga.biz
 127.0.0.1 www.ads.gercekgundem.com
 127.0.0.1 www.ads.gittigidiyor.com
-127.0.0.1 www.ads.google.com
 127.0.0.1 www.ads.haberler.com
 127.0.0.1 www.ads.heyzap.com
 127.0.0.1 www.ads.ihaberadserver.com
@@ -4356,8 +4324,6 @@
 127.0.0.1 www.adserver.unityads.unity3d.com
 127.0.0.1 www.adserver.xpanama.net
 127.0.0.1 www.adserver1.adtech.com.tr
-127.0.0.1 www.adservice.google.com
-127.0.0.1 www.adservice.google.com.tr
 127.0.0.1 www.adshare3.freedocast.com
 127.0.0.1 www.adsim.sabah.com.tr
 127.0.0.1 www.adslidango.com
@@ -4506,7 +4472,6 @@
 127.0.0.1 www.analytics.cervellio.com
 127.0.0.1 www.analytics.edgekey.net
 127.0.0.1 www.analytics.edgesuite.net
-127.0.0.1 www.analytics.google.com
 127.0.0.1 www.analytics.live.com
 127.0.0.1 www.analytics.mobile.walmart.com
 127.0.0.1 www.analytics.mopub.com
@@ -4788,6 +4753,7 @@
 127.0.0.1 www.bestdataresu1ts.com
 127.0.0.1 www.bestdataresu2ts.com
 127.0.0.1 www.bestdataresults.com
+127.0.0.1 www.bestdatingclubs.com
 127.0.0.1 www.bestpa.com.tr
 127.0.0.1 www.bet1x.mobi
 127.0.0.1 www.betasus123.com
@@ -5487,7 +5453,6 @@
 127.0.0.1 www.eyzpiel.ml
 127.0.0.1 www.eyzpiel.tk
 127.0.0.1 www.f369a60bf483bcc9.com
-127.0.0.1 www.facebook.com.hocalihaber.com
 127.0.0.1 www.faggrim.com
 127.0.0.1 www.faktoryapi.com.tr
 127.0.0.1 www.fancywap.com
@@ -6697,7 +6662,6 @@
 127.0.0.1 www.p.skimresources.com
 127.0.0.1 www.p232207.clksite.com
 127.0.0.1 www.p31770.clksite.com
-127.0.0.1 www.pagead.l.google.com
 127.0.0.1 www.pagead2.googlesyndication.com
 127.0.0.1 www.pagead46.l.doubleclick.net
 127.0.0.1 www.paibopse.com
@@ -6711,7 +6675,6 @@
 127.0.0.1 www.parsely.com
 127.0.0.1 www.partner.googleadservices.com
 127.0.0.1 www.partner.superbahisaffiliates248.com
-127.0.0.1 www.partnerad.l.google.com
 127.0.0.1 www.partneriste.net
 127.0.0.1 www.partnermatrix.com
 127.0.0.1 www.partners.betbooaffiliates.com
@@ -7025,7 +6988,6 @@
 127.0.0.1 www.remas-tr.com
 127.0.0.1 www.report.appmetrica.yandex.net
 127.0.0.1 www.rereegny.net
-127.0.0.1 www.res.cloudinary.com
 127.0.0.1 www.res1.applovin.com
 127.0.0.1 www.resim006.tk
 127.0.0.1 www.restbet321.com
@@ -8150,9 +8112,6 @@
 127.0.0.1 yzftkgr.gq
 127.0.0.1 yzftkgr.ml
 127.0.0.1 yzftkgr.tk
-127.0.0.1 z-p4-graph.facebook.com
-127.0.0.1 z-p4.graph.instagram.com
-127.0.0.1 z-p42.graph.instagram.com
 127.0.0.1 z.moatads.com
 127.0.0.1 zddxlih.com
 127.0.0.1 zen.yandex.com.tr
