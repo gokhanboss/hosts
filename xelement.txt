@@ -1,7 +1,7 @@
 # Title: nurcan Türk element-ad-list
 # Format: Element Bloklist
-# Released: 21.05.2020
-# Entries: 3182
+# Released: 31.05.2020
+# Entries: 3196
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -32,6 +32,7 @@
 ###vrsalert
 ###vrsAlert
 ##.articleContent > .adsbygoogle
+##.bc-single-headerrek3
 ##.code-block-0.code-block > .adsbygoogle
 ##.code-block-1.code-block > .adsbygoogle
 ##.code-block-2.code-block > .adsbygoogle
@@ -62,6 +63,7 @@
 ##.midsites
 ##.mngez_download1 > .adsbygoogle
 ##.once-reklam
+##.rek300
 ##.rekivr1
 ##.rekivr2
 ##.reklam-t
@@ -84,6 +86,7 @@
 ##.rnews > div:nth-of-type(9) > div.adsLoad.akAds
 ##.side > div.adsLoad.akAds
 ##.ss-ic.s_stk
+##[href="bestdatingclubs.com"]
 ##[href="betonbetaffiliates.com"]
 ##[href="betonbetaffiliates.com/"]
 ##[href="bit.ly/2InAbq9"]
@@ -91,6 +94,7 @@
 ##[href="bit.ly/393D1MF"]
 ##[href="bit.ly/393D1MF/"]
 ##[href="bit.ly/3ay8bwh"]
+##[href="bit.ly/3bE14T4"]
 ##[href="gndrglsn.com"]
 ##[href="gndrglsn.com/"]
 ##[href="http://betonbetaffiliates.com"]
@@ -101,6 +105,7 @@
 ##[href="http://bit.ly/393D1MF/"]
 ##[href="http://bit.ly/3ay8bwh"]
 ##[href="http://bit.ly/3ay8bwh/"]
+##[href="http://bit.ly/3bE14T4"]
 ##[href="http://gndrglsn.com"]
 ##[href="http://gndrglsn.com/"]
 ##[href="http://ncmfck.com"]
@@ -121,6 +126,7 @@
 ##[href="https://bit.ly/393D1MF/"]
 ##[href="https://bit.ly/3ay8bwh"]
 ##[href="https://bit.ly/3ay8bwh/"]
+##[href="https://bit.ly/3bE14T4"]
 ##[href="https://gndrglsn.com"]
 ##[href="https://gndrglsn.com/"]
 ##[href="https://ncmfck.com"]
@@ -2115,6 +2121,9 @@ ademocut.com##.yazi-icerik > div:nth-of-type(2)
 aradiginindir.blogspot.com##.linktl_flashad_wrap.linktl_flashad_reset
 archive.is##.body > div:nth-of-type(2)
 bcvc.live###b3c6a2115164fa0f27541ef6a07a65e01474808f9 > .adflex-b-reset
+bcvc.live###b722a4372547dab3dff55c8d9c5b13649a7f61ba3 > .adflex-b-reset
+bcvc.live###bvcontainerx
+bcvc.live##.adArea
 bcvc.live##[href^="https://rdr3.xyz/tig.php"]
 bebarbilim.net > .adsbygoogle
 bildirim.eu##*
@@ -2689,6 +2698,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||bc.vc/WRrYdnR*^$popup
 ||bcvc.live/dist/img/b*g$image
 ||ben-nazli.gif
+||bestdatingclubs.com^$popup
 ||betbaba43.com*^$popup
 ||betvole362.com*^$popup
 ||bformu4.tk/form.php$subdocument
@@ -2718,6 +2728,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||cdn.advg.agency/static/offer/*/banners/*/*.jpg$image
 ||cdn.r10.net/pep/pephr.gif
 ||cdn.taboola.com*^$popup
+||cdn.tr.link/img/300X251.png
 ||cdn11.online/ivr.php^$document
 ||cdnrefpa*/*AdAgent*/*.gif$image
 ||chaicdn.com*/1.gif$image
@@ -2755,6 +2766,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||fileru.net/*video*onu*/poster/*.png^$image
 ||filmfiz.com*^$popup
 ||filmilla.com*^$popup
+||filmilla.com^$popup
 ||filmyani.com*^$popup
 ||findfavour.com^
 ||findyourpleasure1.life/^$popup
@@ -3149,6 +3161,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||www.affibtm.com/^$popup
 ||www.affibtm.com^$popup
 ||www.baysansliortaklik.com*^$popup
+||www.bestdatingclubs.com^$popup
 ||www.betbaba43.com*^$popup
 ||www.betvole362.com*^$popup
 ||www.bgel.ncmfck.com*^$popup
@@ -3162,6 +3175,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||www.edebiyatkitabi.com^$popup
 ||www.filmfiz.com*^$popup
 ||www.filmilla.com*^$popup
+||www.filmilla.com^$popup
 ||www.flirtsexmeet.info*^popup
 ||www.fullizlet.com*^$popup
 ||www.guvenlifilmizle.com*^$popup
