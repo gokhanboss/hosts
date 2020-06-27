@@ -1,7 +1,7 @@
 # Title: nurcan Türk ad-list
 # Format: Hosts
-# Released: 31.05.2020
-# Entries: 8136
+# Released: 27.06.2020
+# Entries: 8140
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -1056,6 +1056,7 @@
 127.0.0.1 can-turkey-or-chicken-cause-bloating.jmai6.zik.dj
 127.0.0.1 canakkalehotelguide.com
 127.0.0.1 cancel.transaction.73891347.atakanpolat.com.tr
+127.0.0.1 canikom.site
 127.0.0.1 cankayaerkekyurdu.com
 127.0.0.1 canlialem.com
 127.0.0.1 canpazari.com
@@ -3436,6 +3437,7 @@
 127.0.0.1 softwarer.us
 127.0.0.1 sohbetara25.xyz
 127.0.0.1 sohbetara69.xyz
+127.0.0.1 sohbetcepte.com
 127.0.0.1 sohbetesi1.com
 127.0.0.1 sohbetesi2.com
 127.0.0.1 sohbetesiniz.com
@@ -4952,6 +4954,7 @@
 127.0.0.1 www.can-turkey-or-chicken-cause-bloating.jmai6.zik.dj
 127.0.0.1 www.canakkalehotelguide.com
 127.0.0.1 www.cancel.transaction.73891347.atakanpolat.com.tr
+127.0.0.1 www.canikom.site
 127.0.0.1 www.cankayaerkekyurdu.com
 127.0.0.1 www.canlialem.com
 127.0.0.1 www.canpazari.com
@@ -7258,6 +7261,7 @@
 127.0.0.1 www.softwarer.us
 127.0.0.1 www.sohbetara25.xyz
 127.0.0.1 www.sohbetara69.xyz
+127.0.0.1 www.sohbetcepte.com
 127.0.0.1 www.sohbetesi1.com
 127.0.0.1 www.sohbetesi2.com
 127.0.0.1 www.sohbetesiniz.com
