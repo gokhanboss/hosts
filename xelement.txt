@@ -1,7 +1,7 @@
 # Title: nurcan Türk element-ad-list
 # Format: Element Bloklist
 # Released: 13.07.2020
-# Entries: 3272
+# Entries: 3271
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -2312,7 +2312,7 @@ hottg.com##div.adad:nth-of-type(7) > .adsbygoogle
 hottg.com##div.adad:nth-of-type(8) > .adsbygoogle
 hottg.com##div:nth-of-type(1) > .adsbygoogle
 hottg.com##div:nth-of-type(5) > .adsbygoogle
-https://telegramchannels.me/storage/prs/N227TgUMCdzzJhsm.svg^$image
+https://telegramchannels.me/storage/prs/*.svg^$image
 https://webteizle.vip/i/vid-onu.mp4$media
 incisozluk.com.tr###b-masthead
 iskysoft.com###POYTY
@@ -3212,8 +3212,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||teknodestek.com.tr/wp-content/uploads/*/*/yardim-kirmizi-buyuk-1.jpg$image
 ||telegramchannels.me/gopr/75/^$popup
 ||telegramchannels.me/gopr/75^$popup
-||telegramchannels.me/storage/prs/4PHk1WG36oLQ1R6W.png^$image
-||telegramchannels.me/storage/prs/x9igsCqo6rLYfv7g.png$image
+||telegramchannels.me/storage/prs/*.png$image
 ||telreh.com*^$popup
 ||tnewurl2.com/^$popup
 ||tnewurl2.com^$popup
