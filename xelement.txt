@@ -1,7 +1,7 @@
 # Title: nurcan Türk element-ad-list
 # Format: Element Bloklist
 # Released: 13.07.2020
-# Entries: 3271
+# Entries: 3273
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -3280,7 +3280,9 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||www.ucbetting.com*^$popup
 ||www.ultrabet113.com*^$popup
 ||www.ultrabet120.com*^$popup
+||www.xn--yapkredi-vkb.com*^$popup
 ||www.yapıkredi.com*^$popup
 ||x5w5.veriprtroutg.com*^$popup
+||xn--yapkredi-vkb.com*^$popup
 ||yapıkredi.com*^$popup
 # xorcan/hosts bitir #
