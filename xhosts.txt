@@ -1,7 +1,7 @@
 # Title: nurcan Türk ad-list
 # Format: Hosts
 # Released: 13.07.2020
-# Entries: 8254
+# Entries: 8256
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -7923,6 +7923,7 @@
 127.0.0.1 www.xmtrk.com
 127.0.0.1 www.xn--altnoran-vkb.com.tr
 127.0.0.1 www.xn--poplerbahissiteleri-79b.com
+127.0.0.1 www.xn--yapkredi-vkb.com
 127.0.0.1 www.xnbfan.com
 127.0.0.1 www.xozifo.icu
 127.0.0.1 www.xsport.mobi
@@ -8115,6 +8116,7 @@
 127.0.0.1 xmtrk.com
 127.0.0.1 xn--altnoran-vkb.com.tr
 127.0.0.1 xn--poplerbahissiteleri-79b.com
+127.0.0.1 xn--yapkredi-vkb.com
 127.0.0.1 xnbfan.com
 127.0.0.1 xozifo.icu
 127.0.0.1 xsport.mobi
