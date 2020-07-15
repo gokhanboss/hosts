@@ -1,7 +1,7 @@
 # Title: nurcan Türk element-ad-list
 # Format: Element Bloklist
 # Released: 15.07.2020
-# Entries: 3310
+# Entries: 3330
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -115,6 +115,10 @@
 ##[href="http://cepsohbetler13.online/232"]
 ##[href="http://funzcdn.com/fp"]
 ##[href="http://funzcdn.com/fp/"]
+##[href="http://funzcdn.com/horf"]
+##[href="http://funzcdn.com/horf/"]
+##[href="http://funzcdn.com/pop"]
+##[href="http://funzcdn.com/pop/"]
 ##[href="http://gndrglsn.com"]
 ##[href="http://gndrglsn.com/"]
 ##[href="http://ncmfck.com"]
@@ -127,6 +131,10 @@
 ##[href="http://www.betonbetaffiliates.com/"]
 ##[href="http://www.funzcdn.com/fp"]
 ##[href="http://www.funzcdn.com/fp/"]
+##[href="http://www.funzcdn.com/horf"]
+##[href="http://www.funzcdn.com/horf/"]
+##[href="http://www.funzcdn.com/pop"]
+##[href="http://www.funzcdn.com/pop/"]
 ##[href="http://www.gndrglsn.com"]
 ##[href="http://www.gndrglsn.com/"]
 ##[href="http://www.ncmfck.com"]
@@ -149,6 +157,10 @@
 ##[href="https://cepsohbetler13.online/232"]
 ##[href="https://funzcdn.com/fp"]
 ##[href="https://funzcdn.com/fp/"]
+##[href="https://funzcdn.com/horf"]
+##[href="https://funzcdn.com/horf/"]
+##[href="https://funzcdn.com/pop"]
+##[href="https://funzcdn.com/pop/"]
 ##[href="https://gndrglsn.com"]
 ##[href="https://gndrglsn.com/"]
 ##[href="https://ihlasvakfi.org.tr/bagis/#Kurban2020"]
@@ -165,6 +177,10 @@
 ##[href="https://www.betonbetaffiliates.com/"]
 ##[href="https://www.funzcdn.com/fp"]
 ##[href="https://www.funzcdn.com/fp/"]
+##[href="https://www.funzcdn.com/horf"]
+##[href="https://www.funzcdn.com/horf/"]
+##[href="https://www.funzcdn.com/pop"]
+##[href="https://www.funzcdn.com/pop/"]
 ##[href="https://www.gndrglsn.com"]
 ##[href="https://www.gndrglsn.com/"]
 ##[href="https://www.ncmfck.com"]
@@ -2475,6 +2491,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*/*/*bet*baba*.png$image
 ||*/*/*betbaba*.png$image
 ||*/*/*genco*bahis*.mp4$media
+||*/*/*hori.gif$image
 ||*/*/*inst-vid*.png$image
 ||*/*/*mark-hdr*.gif$image
 ||*/*/*rot-vid*.gif$image
@@ -2483,6 +2500,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*/*/*sul-vid*.gif$image
 ||*/*/*video*onu/*.mp4$media
 ||*/*/*video_onu/*.mp4$media
+||*/*/hori/*.gif$image
 ||*/*/inst-vid.png$image
 ||*/*/mark-hdr.gif$image
 ||*/*/rot-vid.gif$image
@@ -2493,8 +2511,9 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*/*1xbet*.mp4$media
 ||*/*betasus*.mov$media
 ||*/*fenomen*.gif$image
+||*/*ivr*hot*.gif$image
+||*/*ivr-*-rek*.jpg$image
 ||*/*ivr-ic*.jpg$image
-||*/*ivr-ic-rek*.jpg$image
 ||*/*momcukbanner*.gif$image
 ||*/*obilet*.jpeg$image
 ||*/*reklam*/*videoonu*.jpg$image
@@ -2886,6 +2905,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||fuckerz-evooli-com.cdn.ampproject.org/i*/s/*.*.*/wp-content/uploads/ivr*hot*.gif$image
 ||fullizlet.com*^$popup
 ||funzcdn.com/fp*^$popup
+||funzcdn.com/horf*^$popup
 ||funzcdn.com/pop*^$popup
 ||go2linkfast.com*^$popup
 ||gplinks.in/advertising/campaign.php^$document
