@@ -1,7 +1,7 @@
 # Title: nurcan Türk element-ad-list
 # Format: Element Bloklist
-# Released: 13.07.2020
-# Entries: 3273
+# Released: 15.07.2020
+# Entries: 3310
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -96,6 +96,9 @@
 ##[href="bit.ly/393D1MF/"]
 ##[href="bit.ly/3ay8bwh"]
 ##[href="bit.ly/3bE14T4"]
+##[href="cepsohbetler13.online"]
+##[href="cepsohbetler13.online/"]
+##[href="cepsohbetler13.online/232"]
 ##[href="gndrglsn.com"]
 ##[href="gndrglsn.com/"]
 ##[href="http://betonbetaffiliates.com"]
@@ -107,12 +110,23 @@
 ##[href="http://bit.ly/3ay8bwh"]
 ##[href="http://bit.ly/3ay8bwh/"]
 ##[href="http://bit.ly/3bE14T4"]
+##[href="http://cepsohbetler13.online"]
+##[href="http://cepsohbetler13.online/"]
+##[href="http://cepsohbetler13.online/232"]
+##[href="http://funzcdn.com/fp"]
+##[href="http://funzcdn.com/fp/"]
 ##[href="http://gndrglsn.com"]
 ##[href="http://gndrglsn.com/"]
 ##[href="http://ncmfck.com"]
 ##[href="http://ncmfck.com/"]
+##[href="http://turkiyecinselbayisi.site"]
+##[href="http://turkiyecinselbayisi.site/"]
+##[href="http://turkiyecinselbayisi.site/snake1"]
+##[href="http://turkiyecinselbayisi.site/snake1/"]
 ##[href="http://www.betonbetaffiliates.com"]
 ##[href="http://www.betonbetaffiliates.com/"]
+##[href="http://www.funzcdn.com/fp"]
+##[href="http://www.funzcdn.com/fp/"]
 ##[href="http://www.gndrglsn.com"]
 ##[href="http://www.gndrglsn.com/"]
 ##[href="http://www.ncmfck.com"]
@@ -130,6 +144,11 @@
 ##[href="https://bit.ly/3ay8bwh"]
 ##[href="https://bit.ly/3ay8bwh/"]
 ##[href="https://bit.ly/3bE14T4"]
+##[href="https://cepsohbetler13.online"]
+##[href="https://cepsohbetler13.online/"]
+##[href="https://cepsohbetler13.online/232"]
+##[href="https://funzcdn.com/fp"]
+##[href="https://funzcdn.com/fp/"]
 ##[href="https://gndrglsn.com"]
 ##[href="https://gndrglsn.com/"]
 ##[href="https://ihlasvakfi.org.tr/bagis/#Kurban2020"]
@@ -137,9 +156,15 @@
 ##[href="https://ncmfck.com/"]
 ##[href="https://rebrand.ly/9be06"]
 ##[href="https://tanisma.supermesaj.tv/"]
+##[href="https://turkiyecinselbayisi.site"]
+##[href="https://turkiyecinselbayisi.site/"]
+##[href="https://turkiyecinselbayisi.site/snake1"]
+##[href="https://turkiyecinselbayisi.site/snake1/"]
 ##[href="https://www.ardream.world"]
 ##[href="https://www.betonbetaffiliates.com"]
 ##[href="https://www.betonbetaffiliates.com/"]
+##[href="https://www.funzcdn.com/fp"]
+##[href="https://www.funzcdn.com/fp/"]
 ##[href="https://www.gndrglsn.com"]
 ##[href="https://www.gndrglsn.com/"]
 ##[href="https://www.ncmfck.com"]
@@ -2093,10 +2118,17 @@
 *.ampproject.org###header-reklam
 *.ampproject.org##.jrek
 *.ampproject.org*porn*yuklen*.gif^$image
+*.cdn.ampproject.org###fnzClick
 *.cdn.ampproject.org###jg-reklam
 *.cdn.ampproject.org###popups
+*.cdn.ampproject.org##.cntr > .ivr-img
+*.cdn.ampproject.org##.Fclick
+*.cdn.ampproject.org##.fnzClick
+*.cdn.ampproject.org##.i-amphtml-layout.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height
+*.cdn.ampproject.org##.i-amphtml-layout.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height > .i-amphtml-replaced-content.i-amphtml-fill-content
 *.cdn.ampproject.org##.i-amphtml-layout.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.fixedframe
 *.cdn.ampproject.org##.i-amphtml-layout.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.fixedframe > .i-amphtml-layout.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fill > .i-amphtml-replaced-content.i-amphtml-fill-content
+*.cdn.ampproject.org##.sgl.sp > .ivr-img
 *.cdn.ampproject.org##center
 *.redirect*.us
 *.redirect*.us##.main
@@ -2602,7 +2634,6 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*free-download.fun*^$popup
 ||*free-girls-vids.com*^$popup
 ||*friennity.com*^$popup
-||*funzcdn.com*^$popup
 ||*ganfoninjomo.files.wordpress.com*^$popup
 ||*getyourprz14.live*^$popup
 ||*good4all.ru*^$popup
@@ -2803,6 +2834,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||cdn.tr.link/img/300X251.png
 ||cdn11.online/ivr.php^$document
 ||cdnrefpa*/*AdAgent*/*.gif$image
+||cepsohbetler13.online*^$popup
 ||chaicdn.com*/1.gif$image
 ||cltrkr.com*^$popup
 ||d.findyourpleasure1.life/^$popup
@@ -2850,7 +2882,11 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||flmallplayer.*/*sultan*bet*.mp4$media
 ||flmallplayer.*/*sultanbet*.mp4$media
 ||freemacware.com
+||fuckerz-evooli-com.cdn.ampproject.org/i*/s/*.*.*/wp-content/uploads/fp-hori.gif$image
+||fuckerz-evooli-com.cdn.ampproject.org/i*/s/*.*.*/wp-content/uploads/ivr*hot*.gif$image
 ||fullizlet.com*^$popup
+||funzcdn.com/fp*^$popup
+||funzcdn.com/pop*^$popup
 ||go2linkfast.com*^$popup
 ||gplinks.in/advertising/campaign.php^$document
 ||guvenlifilmizle.com*^$popup
@@ -3222,6 +3258,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||track.special-promotions.online*^$popup
 ||trendbet42.com*^$popup
 ||turbotractor.ru*^$popup
+||turkiyecinselbayisi.site*^$popup
 ||tutusapp.com*^popup
 ||ucbetting.com*^$popup
 ||ultrabet113.com*^$popup
