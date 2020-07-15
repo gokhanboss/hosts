@@ -1,7 +1,7 @@
 # Title: nurcan Türk ad-list
 # Format: Hosts
 # Released: 15.07.2020
-# Entries: 8254
+# Entries: 8264
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -2152,6 +2152,7 @@
 127.0.0.1 jscminer.com
 127.0.0.1 jsmstat.com
 127.0.0.1 json.foxpush.com
+127.0.0.1 jspop.xyz
 127.0.0.1 juegos.leadzu.com
 127.0.0.1 juicyads.com
 127.0.0.1 jumbokapinda.xyz
@@ -6062,6 +6063,7 @@
 127.0.0.1 www.jscminer.com
 127.0.0.1 www.jsmstat.com
 127.0.0.1 www.json.foxpush.com
+127.0.0.1 www.jspop.xyz
 127.0.0.1 www.juegos.leadzu.com
 127.0.0.1 www.juicyads.com
 127.0.0.1 www.jumbokapinda.xyz
@@ -7890,6 +7892,8 @@
 127.0.0.1 www.x.bidswitch.net
 127.0.0.1 www.x.ligatus.com
 127.0.0.1 www.x.skimresources.com
+127.0.0.1 www.x.yakinindaki-kizlar44.xyz
+127.0.0.1 www.x.yakinindaki-kizlar45.xyz
 127.0.0.1 www.x5w5.veriprtroutg.com
 127.0.0.1 www.xacugvx.cf
 127.0.0.1 www.xacugvx.ga
@@ -7968,6 +7972,8 @@
 127.0.0.1 www.yakinindaki-kizlar39.info
 127.0.0.1 www.yakinindaki-kizlar4.info
 127.0.0.1 www.yakinindaki-kizlar40.info
+127.0.0.1 www.yakinindaki-kizlar44.xyz
+127.0.0.1 www.yakinindaki-kizlar45.xyz
 127.0.0.1 www.yakinindaki-kizlar5.info
 127.0.0.1 www.yakinindaki-kizlar6.info
 127.0.0.1 www.yakinindaki-kizlar7.info
@@ -8081,6 +8087,8 @@
 127.0.0.1 x.bidswitch.net
 127.0.0.1 x.ligatus.com
 127.0.0.1 x.skimresources.com
+127.0.0.1 x.yakinindaki-kizlar44.xyz
+127.0.0.1 x.yakinindaki-kizlar45.xyz
 127.0.0.1 x5w5.veriprtroutg.com
 127.0.0.1 xacugvx.cf
 127.0.0.1 xacugvx.ga
@@ -8161,6 +8169,8 @@
 127.0.0.1 yakinindaki-kizlar39.info
 127.0.0.1 yakinindaki-kizlar4.info
 127.0.0.1 yakinindaki-kizlar40.info
+127.0.0.1 yakinindaki-kizlar44.xyz
+127.0.0.1 yakinindaki-kizlar45.xyz
 127.0.0.1 yakinindaki-kizlar5.info
 127.0.0.1 yakinindaki-kizlar6.info
 127.0.0.1 yakinindaki-kizlar7.info
