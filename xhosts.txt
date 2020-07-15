@@ -1,7 +1,7 @@
 # Title: nurcan Türk ad-list
 # Format: Hosts
-# Released: 13.07.2020
-# Entries: 8256
+# Released: 15.07.2020
+# Entries: 8254
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -1680,7 +1680,6 @@
 127.0.0.1 fungiers.com
 127.0.0.1 funnwebs.com
 127.0.0.1 funtikapa.info
-127.0.0.1 funzcdn.com
 127.0.0.1 furtherne.com
 127.0.0.1 fvbaffiliate.com
 127.0.0.1 fvkdatbzswo.bid
@@ -5618,7 +5617,6 @@
 127.0.0.1 www.fungiers.com
 127.0.0.1 www.funnwebs.com
 127.0.0.1 www.funtikapa.info
-127.0.0.1 www.funzcdn.com
 127.0.0.1 www.furtherne.com
 127.0.0.1 www.fvbaffiliate.com
 127.0.0.1 www.fvkdatbzswo.bid
