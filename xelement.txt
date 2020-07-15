@@ -1,7 +1,7 @@
 # Title: nurcan Türk element-ad-list
 # Format: Element Bloklist
 # Released: 15.07.2020
-# Entries: 3330
+# Entries: 3332
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -15,6 +15,7 @@
 ###adContentWrapper
 ###adv-link
 ###bet-kayan2
+###fnzClick
 ###head > div.adsLoad.akAds
 ###header-reklam
 ###iv-kayan
@@ -46,6 +47,7 @@
 ##.code-block-9.code-block > .adsbygoogle
 ##.code-block.code-block > .adsbygoogle
 ##.container.footerFixedAdWrapper
+##.fnzClick
 ##.headreklam
 ##.hide-mobile > .adsbygoogle
 ##.hrknReklam
@@ -2134,12 +2136,9 @@
 *.ampproject.org###header-reklam
 *.ampproject.org##.jrek
 *.ampproject.org*porn*yuklen*.gif^$image
-*.cdn.ampproject.org###fnzClick
 *.cdn.ampproject.org###jg-reklam
 *.cdn.ampproject.org###popups
 *.cdn.ampproject.org##.cntr > .ivr-img
-*.cdn.ampproject.org##.Fclick
-*.cdn.ampproject.org##.fnzClick
 *.cdn.ampproject.org##.i-amphtml-layout.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height
 *.cdn.ampproject.org##.i-amphtml-layout.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height > .i-amphtml-replaced-content.i-amphtml-fill-content
 *.cdn.ampproject.org##.i-amphtml-layout.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.fixedframe
@@ -2164,7 +2163,9 @@
 */*/*vardh*/wp-content/*/*/*/*vardh*.gif
 */*/*vardh*/wp-content/*/*/*/*yenivideoalt*.gif
 */fileru.net/video_onu/*/dizilla-desktop.*
+*ampproject.org###fnzClick
 *ampproject.org###iOssi
+*ampproject.org##.fnzClick
 *bahis*.com/BELUGA.jpg^$image
 *doeda*.cdn.ampproject.org​##.e_1637951423
 *file-up.org###boxes
@@ -2285,6 +2286,7 @@ booksurfers.co.uk##.waves-light.waves-effect.btn-danger.font-weight-bold.btn-lg.
 booksurfers.co.uk##.waves-light.waves-effect.btn-primary.font-weight-bold.btn-lg.btn
 borsagundem.com##center > div > div:nth-of-type(1)
 borsagundem.com##center > div > div:nth-of-type(2)
+cdn.ampproject.org##.Fclick
 cdn.ampproject.org##div.top5.z-indx.col-xs-12:nth-of-type(1) > .ara-banner
 cdn.ampproject.org##div.top5.z-indx.col-xs-12:nth-of-type(10) > .ara-banner
 cdn.ampproject.org##div.top5.z-indx.col-xs-12:nth-of-type(11) > .ara-banner
