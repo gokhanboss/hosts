@@ -1,7 +1,7 @@
 # Title: nurcan Türk element-ad-list
 # Format: Element Bloklist
 # Released: 15.07.2020
-# Entries: 3332
+# Entries: 3354
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -1697,6 +1697,7 @@
 ##[href^="tel://00353515732"]
 ##[href^="tel://0035351573386"]
 ##[href^="tel://003535157343"]
+##[href^="tel://00353515735"]
 ##[href^="tel://0035351573505"]
 ##[href^="tel://003535157351"]
 ##[href^="tel://0035351573550"]
@@ -1784,6 +1785,7 @@
 ##[href^="tel:00353515732"]
 ##[href^="tel:0035351573386"]
 ##[href^="tel:003535157343"]
+##[href^="tel:00353515735"]
 ##[href^="tel:0035351573505"]
 ##[href^="tel:003535157351"]
 ##[href^="tel:0035351573550"]
@@ -2202,6 +2204,9 @@ abcgazetesi.com##.sitetepe2.banner > .adsbygoogle
 abcgazetesi.com##.sitetepe3.banner > .adsbygoogle
 ademocut.com##.yazi-icerik > .aligncenter
 ademocut.com##.yazi-icerik > div:nth-of-type(2)
+alfabetik.info##body > div:nth-of-type(3)
+alfabetik.info##body > div:nth-of-type(4)
+alfabetik.info##body > div:nth-of-type(5)
 aradiginindir.blogspot.com##.linktl_flashad_wrap.linktl_flashad_reset
 archive.is##.body > div:nth-of-type(2)
 bcvc.live###b3c6a2115164fa0f27541ef6a07a65e01474808f9 > .adflex-b-reset
@@ -2482,6 +2487,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*.cdn.ampproject.org/i/volsex.*/wp-content/uploads/*/*/.2907.jpg$image
 ||*.com/wp-content/themes/porno_video/images/icon-play-*.png$image
 ||*.com/wp-content/themes/porno_video/images/loading-bert.gif$image
+||*.jspop.xyz*^$popup
 ||*.kwork.ru/images/partner/*.jpg
 ||*.redirect*.us/media/dating/*/images/*.jpg$image
 ||*.tk###darke-area
@@ -2916,6 +2922,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||hdfilmizle.pw/uploads/rek/*
 ||hdmobilizle.com*^$popup
 ||hendico.com*^$popup
+||http//x.yakinindaki-kizlar45.xyz*^$popup
 ||http://1xbet-won.com*^$popup
 ||http://affibtm.com/^$popup
 ||http://affibtm.com^$popup
@@ -2955,6 +2962,8 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||http://i.findyourpleasure1.life/^$popup
 ||http://i.findyourpleasure1.life^$popup
 ||http://instazero.com*^$popup
+||http://jspop.xyz/url*^$popup
+||http://jspop.xyz/url2.php*^$popup
 ||http://kamuevlilik.com*^$popup
 ||http://keycdn.info/^$popup
 ||http://keycdn.info/whatsapp.php/^$popup
@@ -3025,6 +3034,8 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||http://www.filmfiz.com*^$popup
 ||http://www.hendico.com*^$popup
 ||http://www.instazero.com*^$popup
+||http://www.jspop.xyz/url*^$popup
+||http://www.jspop.xyz/url2.php*^$popup
 ||http://www.kamuevlilik.com*^$popup
 ||http://www.keycdn.info/^$popup
 ||http://www.keycdn.info/whatsapp.php/^$popup
@@ -3042,6 +3053,9 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||http://www.ucbetting.com*^$popup
 ||http://www.ultrabet113.com*^$popup
 ||http://www.ultrabet120.com*^$popup
+||http://x.yakinindaki-kizlar45.xyz
+||http://x.yakinindaki-kizlar45.xyz*^$popup
+||https//x.yakinindaki-kizlar45.xyz*^$popup
 ||https://1xbet-won.com*^$popup
 ||https://affibtm.com/^$popup
 ||https://affibtm.com^$popup
@@ -3082,6 +3096,8 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||https://i.findyourpleasure1.life/^$popup
 ||https://i.findyourpleasure1.life^$popup
 ||https://instazero.com*^$popup
+||https://jspop.xyz/url*^$popup
+||https://jspop.xyz/url2.php*^$popup
 ||https://kamuevlilik.com*^$popup
 ||https://keycdn.info/^$popup
 ||https://keycdn.info/whatsapp.php/^$popup
@@ -3155,6 +3171,8 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||https://www.filmyani.com*^$popup
 ||https://www.hendico.com*^$popup
 ||https://www.instazero.com*^$popup
+||https://www.jspop.xyz/url*^$popup
+||https://www.jspop.xyz/url2.php*^$popup
 ||https://www.kamuevlilik.com*^$popup
 ||https://www.keycdn.info/^$popup
 ||https://www.keycdn.info/whatsapp.php/^$popup
@@ -3172,6 +3190,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||https://www.ucbetting.com*^$popup
 ||https://www.ultrabet113.com*^$popup
 ||https://www.ultrabet120.com*^$popup
+||https://x.yakinindaki-kizlar45.xyz*^$popup
 ||i.findyourpleasure1.life/^$popup
 ||i.findyourpleasure1.life^$popup
 ||i.hizliresim.com/2O4QNj.jpg$image
@@ -3315,6 +3334,8 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||www.guvenlifilmizle.com*^$popup
 ||www.hendico.com*^$popup
 ||www.instazero.com*^$popup
+||www.jspop.xyz/code/*.jpg
+||www.jspop.xyz/code/*.png
 ||www.kamuevlilik.com*^$popup
 ||www.keycdn.info/^$popup
 ||www.keycdn.info/whatsapp.php/^$popup
@@ -3343,5 +3364,6 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||www.yapıkredi.com*^$popup
 ||x5w5.veriprtroutg.com*^$popup
 ||xn--yapkredi-vkb.com*^$popup
+||yakinindaki-kizlar45.xyz*^$popup
 ||yapıkredi.com*^$popup
 # xorcan/hosts bitir #
