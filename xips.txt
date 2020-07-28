@@ -1,17 +1,19 @@
-# Title: nurcan Türk ip-list
-# Format: IP List
-# Released: 17.03.2020
-# Entries: 15
-# Details: https://github.com/xorcan/hosts/
-# Issues: https://github.com/xorcan/hosts/issues
-# Source: https://raw.githubusercontent.com/xorcan/hosts/master/xips.txt
-# License: https://raw.githubusercontent.com/xorcan/hosts/master/LICENSE
+! Title: nurcan Türk ip-list
+! Format: IP List
+! Expires: 1 days
+! Homepage: https://github.com/xorcan/hosts
+! Released: 17.03.2020
+! Entries: 15
+! Details: https://github.com/xorcan/hosts
+! Issues: https://github.com/xorcan/hosts/issues
+! Source: https://raw.githubusercontent.com/xorcan/hosts/master/xips.txt
+! License: https://raw.githubusercontent.com/xorcan/hosts/master/LICENSE
 
-# Copyright 2019 xorcan
-# Reklam bildirimi / iletişim: xorcan@protonmail.com
-# Report an ad / contact: xorcan@protonmail.com
+! Copyright 2019 xorcan
+! Reklam bildirimi / iletişim: xorcan@protonmail.com
+! Report an ad / contact: xorcan@protonmail.com
 
-# xorcan/hosts başla #
+! xorcan/hosts başla
 109.73.75.29
 109.73.75.3
 165.22.200.68
@@ -27,4 +29,4 @@
 35.194.16.41
 95.169.17.121
 35.224.227.218
-# xorcan/hosts bitir #
+! xorcan/hosts bitir
