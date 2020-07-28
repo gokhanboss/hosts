@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/xorcan/hosts
 ! Released: 28.07.2020
-! Entries: 3649
+! Entries: 3663
 ! Details: https://github.com/xorcan/hosts
 ! Issues: https://github.com/xorcan/hosts/issues
 ! Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -2198,6 +2198,7 @@
 ##[src="https://cache.kwork.ru/images/partner/03.jpg"]
 ##[src="https://fileru-net.cdn.ampproject.org/i/s/fileru.net/img/ak7.gif"]
 ##[src="https://fileru-net.cdn.ampproject.org/i/s/fileru.net/img/redyan.gif"]
+##[src="https://i1.wp.com/goo.gl/kud8Zc"]
 ##[src="https://melban3.top/"]
 ##[src="https://telegramchannels.me/gopr/57"]
 ##[src="https://www.booksurfers.co.uk"]
@@ -2569,6 +2570,8 @@ hottg.com##div.adad:nth-of-type(7) > .adsbygoogle
 hottg.com##div.adad:nth-of-type(8) > .adsbygoogle
 hottg.com##div:nth-of-type(1) > .adsbygoogle
 hottg.com##div:nth-of-type(5) > .adsbygoogle
+http://*.wp.com/goo.gl/kud8Zc
+https://*.wp.com/goo.gl/kud8Zc
 https://cdn-paylas-vip.cdn.ampproject.org/ii/w820/s/cdn.paylas.vip/banners/ivr-img-bar.gif
 https://telegramchannels.me/storage/prs/*.svg^$image
 https://webteizle.vip/i/vid-onu.mp4$media
@@ -2605,6 +2608,8 @@ remixfm.net##.banner-inner > .adsbygoogle
 remixfm.net##center > .adsbygoogle
 rlink.live##.clearfix.profiles-listing
 rlink.live##.site-wrap
+roketmail.co###wrapper
+roketmail.co##.header-index
 rutracker.net###bn-top-block
 rutracker.net###bn-top-right
 rutracker.net##[href^="go2.php"]
@@ -2624,6 +2629,7 @@ solidshare.net##div.main:nth-of-type(1)
 tarihiyolculuk.com##div.cookie-policy-footer
 telegramchannels.me###btm-pr
 telegramchannels.me​###pr-a
+thepiratecity.net##blockquote
 torrentdownload.ch##table.table2:nth-of-type(1) > tbody > tr:nth-of-type(4) > td
 torrentdownloads.me##.inner_container > div:nth-of-type(4) > div:nth-of-type(1)
 torrentdownloads.me##div:nth-of-type(2) > [href="https://torrentsafeguard.com/"]
@@ -2648,6 +2654,7 @@ turkcealtyazi.org##.ncenter.nblock > .adsbygoogle
 turkcealtyazi.org##.ncenter.nm-block > .adsbygoogle
 turkcealtyazi.org##.ncorner-bottom.main-center > .adsbygoogle
 turkcealtyazi.org##.nright.ana-sag-blok > .adsbygoogle
+ucosi.com##.single-header
 ulusal.com.tr##.current_news.inf_append > div.text-center.my-2:nth-of-type(1) > .adsbygoogle
 ulusal.com.tr##div.text-center.my-2:nth-of-type(2) > .adsbygoogle
 ulusal.com.tr##div.text-center.my-2:nth-of-type(4) > .adsbygoogle
@@ -2665,6 +2672,7 @@ www.comss.ru##div > .adsbygoogle
 www.doeda.com###video > center
 www.filmkovani.com###lznjhydxqkbr
 www.oyunkuzusu.com###video-oyun
+www.ucosi.com##.single-header
 www.webtekno.com##.hide-mobile > .adsbygoogle
 xxccdshj.com##*
 yabancidizi.org###PlayerBlock
@@ -2739,6 +2747,12 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*.tk##.msg
 ||*.tk*Oxygen*.css
 ||*.ucosi.com/wp-content/themes/*/images/loading-bert.gif
+||*.wp.com/goo.gl/kud8Zc
+||*.wp.com/goo.gl/kud8Zc$image
+||*.wp.com/www.thepiratecity.net/wp-content/uploads/*/*/download-button-white.png$image
+||*.wp.com/www.thepiratecity.net/wp-content/uploads/*/*/download_green_secure_direct.png$image
+||*.wp.com/www.thepiratecity.net/wp-content/uploads/*/*/download_green_secure_direct.png?w=*&ssl=*
+||*.wp.com/www.thepiratecity.net/wp-content/uploads/*/*/download_green_secure_direct.png?w=720&ssl=1
 ||*.xyz/adr/images/*/*.jpg$image
 ||*/*%C5%9Fansl%C4%B1*.gif$image
 ||*/*/*bahse*gel*.mp4$media
