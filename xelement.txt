@@ -1,17 +1,19 @@
-# Title: nurcan Türk element-ad-list
-# Format: Element Bloklist
-# Released: 18.07.2020
-# Entries: 3611
-# Details: https://github.com/xorcan/hosts/
-# Issues: https://github.com/xorcan/hosts/issues
-# Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
-# License: https://raw.githubusercontent.com/xorcan/hosts/master/LICENSE
+! Title: nurcan Türk element-ad-list
+! Format: Element Bloklist
+! Expires: 1 days
+! Homepage: https://github.com/xorcan/hosts
+! Released: 28.07.2020
+! Entries: 3649
+! Details: https://github.com/xorcan/hosts
+! Issues: https://github.com/xorcan/hosts/issues
+! Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
+! License: https://raw.githubusercontent.com/xorcan/hosts/master/LICENSE
 
-# Copyright 2020 xorcan
-# Reklam bildirimi / iletişim: xorcan@protonmail.com
-# Report an ad / contact: xorcan@protonmail.com
+! Copyright 2020 xorcan
+! Reklam bildirimi / iletişim: xorcan@protonmail.com
+! Report an ad / contact: xorcan@protonmail.com
 
-# xorcan/hosts başla #
+! xorcan/hosts başla
 ###adContentWrapper
 ###adv-link
 ###bet-kayan2
@@ -28,12 +30,16 @@
 ###preRollVideoAdTimer
 ###rek_fixed
 ###reklam-video-yani
+###reklam-yeni
 ###reklamCodeiframe
+###reklamyeni
 ###videoreklam
 ###vrs-alert
 ###vrs-Alert
 ###vrsalert
 ###vrsAlert
+###yeni-reklam
+###yenireklam
 ##.articleContent > .adsbygoogle
 ##.bc-single-headerrek3
 ##.code-block-0.code-block > .adsbygoogle
@@ -788,6 +794,10 @@
 ##[href^="http://refpafdqzc.top"]
 ##[href^="http://rlink.live​"]
 ##[href^="http://rlink.xyz"]
+##[href^="http://roketmail.co"]
+##[href^="http://roketmail.co/"]
+##[href^="http://roketmail.co/partner"]
+##[href^="http://roketmail.co/partner/"]
 ##[href^="http://rotabetlink.com"]
 ##[href^="http://rotatemediajoin.win"]
 ##[href^="http://saskatoon.ca"]
@@ -988,6 +998,10 @@
 ##[href^="http://www.pnbtour.com/"]
 ##[href^="http://www.rlink.xyz"]
 ##[href^="http://www.rlink.xyz/"]
+##[href^="http://www.roketmail.co"]
+##[href^="http://www.roketmail.co/"]
+##[href^="http://www.roketmail.co/partner"]
+##[href^="http://www.roketmail.co/partner/"]
 ##[href^="http://www.rotabetlink.com"]
 ##[href^="http://www.rotabetlink.com/"]
 ##[href^="http://www.rotabetlink.com/yd-hdr"]
@@ -1347,6 +1361,9 @@
 ##[href^="https://rlink.live​"]
 ##[href^="https://rlink.xyz"]
 ##[href^="https://rlink.xyz/"]
+##[href^="https://roketmail.co"]
+##[href^="https://roketmail.co/partner"]
+##[href^="https://roketmail.co/partner/"]
 ##[href^="https://rotabetlink.com"]
 ##[href^="https://rotabetlink.com/"]
 ##[href^="https://rotabetlink.com/yd-hdr/"]
@@ -1531,6 +1548,7 @@
 ##[href^="https://www.kisaltma.link"]
 ##[href^="https://www.kisaltma.link/papaz.php"]
 ##[href^="https://www.kisaltma.link/vale.php"]
+##[href^="https://www.l.co/partner/"]
 ##[href^="https://www.liragadin.over-blog.com"]
 ##[href^="https://www.luckyforbet.com"]
 ##[href^="https://www.megdexchange.com"]
@@ -1566,6 +1584,9 @@
 ##[href^="https://www.pnbtour.com/"]
 ##[href^="https://www.rlink.xyz"]
 ##[href^="https://www.rlink.xyz/"]
+##[href^="https://www.roketmail.co"]
+##[href^="https://www.roketmail.co/partner"]
+##[href^="https://www.roketmail.co/partner/"]
 ##[href^="https://www.rotabetlink.com"]
 ##[href^="https://www.rotabetlink.com/"]
 ##[href^="https://www.rotabetlink.com/yd-hdr"]
@@ -1753,6 +1774,10 @@
 ##[href^="refpafdqzc.top"]
 ##[href^="rlink.live​"]
 ##[href^="rlink.xyz"]
+##[href^="roketmail.co"]
+##[href^="roketmail.co/"]
+##[href^="roketmail.co/partner"]
+##[href^="roketmail.co/partner/"]
 ##[href^="rotabetlink.com"]
 ##[href^="rotatemediajoin.win"]
 ##[href^="saskatoon.ca"]
@@ -1796,6 +1821,7 @@
 ##[href^="tel://00237811106"]
 ##[href^="tel://00237811107"]
 ##[href^="tel://00237811109"]
+##[href^="tel://00237811119"]
 ##[href^="tel://002378111282"]
 ##[href^="tel://0023781113"]
 ##[href^="tel://00237811130"]
@@ -1813,6 +1839,7 @@
 ##[href^="tel://00318580020"]
 ##[href^="tel://00322588901"]
 ##[href^="tel://003225889035"]
+##[href^="tel://003225889044"]
 ##[href^="tel://003225889064"]
 ##[href^="tel://003225889080"]
 ##[href^="tel://003225889111"]
@@ -1896,6 +1923,7 @@
 ##[href^="tel:00237811106"]
 ##[href^="tel:00237811107"]
 ##[href^="tel:00237811109"]
+##[href^="tel:00237811119"]
 ##[href^="tel:002378111282"]
 ##[href^="tel:0023781113"]
 ##[href^="tel:00237811130"]
@@ -1913,6 +1941,7 @@
 ##[href^="tel:00318580020"]
 ##[href^="tel:00322588901"]
 ##[href^="tel:003225889035"]
+##[href^="tel:003225889044"]
 ##[href^="tel:003225889064"]
 ##[href^="tel:003225889080"]
 ##[href^="tel:003225889111"]
@@ -2094,6 +2123,10 @@
 ##[href^="www.player.fm"]
 ##[href^="www.plugrush.com"]
 ##[href^="www.plugrush.com/"]
+##[href^="www.roketmail.co"]
+##[href^="www.roketmail.co/"]
+##[href^="www.roketmail.co/partner"]
+##[href^="www.roketmail.co/partner/"]
 ##[href^="www.rotabetlink.com"]
 ##[href^="www.rotabetlink.com/yd-hdr"]
 ##[href^="www.rotabetlink.com/yd-va"]
@@ -2307,6 +2340,7 @@
 *.cdn.ampproject.org##.i-amphtml-layout.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.fixedframe > .i-amphtml-layout.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fill > .i-amphtml-replaced-content.i-amphtml-fill-content
 *.cdn.ampproject.org##.sgl.sp > .ivr-img
 *.cdn.ampproject.org##center
+*.cdn.ampproject.org/*/cdn.*.*/banners/ivr-img-bar.gif
 *.redirect*.us
 *.redirect*.us##.main
 *.redirect*.us##.opacity8.main-wrapper
@@ -2535,6 +2569,7 @@ hottg.com##div.adad:nth-of-type(7) > .adsbygoogle
 hottg.com##div.adad:nth-of-type(8) > .adsbygoogle
 hottg.com##div:nth-of-type(1) > .adsbygoogle
 hottg.com##div:nth-of-type(5) > .adsbygoogle
+https://cdn-paylas-vip.cdn.ampproject.org/ii/w820/s/cdn.paylas.vip/banners/ivr-img-bar.gif
 https://telegramchannels.me/storage/prs/*.svg^$image
 https://webteizle.vip/i/vid-onu.mp4$media
 incisozluk.com.tr###b-masthead
@@ -2703,6 +2738,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*.tk###darke-area
 ||*.tk##.msg
 ||*.tk*Oxygen*.css
+||*.ucosi.com/wp-content/themes/*/images/loading-bert.gif
 ||*.xyz/adr/images/*/*.jpg$image
 ||*/*%C5%9Fansl%C4%B1*.gif$image
 ||*/*/*bahse*gel*.mp4$media
@@ -2965,6 +3001,8 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*record.efesclubaffiliates.com*^$popup
 ||*record.efesclubaffiliates.com/*
 ||*rlink.xyz*.jpg$image
+||*roketmail.co*^$popup
+||*roketmail.co/partner*^$popup
 ||*rotahdr*.gif$image
 ||*rutrk.org/*/*_01.gif^$image
 ||*safbc.com/videos/*.mp4$media
@@ -3512,6 +3550,8 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||redirect750.us/sl^$popup
 ||refpabei.top*^$popup
 ||reklamlar.xyz*^$popup
+||roketmail.co*^$popup
+||roketmail.co/partner*^$popup
 ||rotumal.com*^$popup
 ||rsalcdp.com^$document
 ||rublacklist.net/images/rutracker_image.png$image
@@ -3623,4 +3663,4 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||yakinindaki-kizlar45.xyz*^$popup
 ||yapıkredi.com*^$popup
 ||zakcdn.com/player/bUd6M3BFbXhOa255RFIvaFloWUFLdz09=.mp4$media
-# xorcan/hosts bitir #
+! xorcan/hosts bitir
