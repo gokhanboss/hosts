@@ -8,6 +8,7 @@
 ! Issues: https://github.com/xorcan/hosts/issues
 ! Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
 ! License: https://raw.githubusercontent.com/xorcan/hosts/master/LICENSE
+
 ! Copyright 2020 xorcan
 ! Reklam bildirimi / iletişim: xorcan@protonmail.com
 ! Report an ad / contact: xorcan@protonmail.com
